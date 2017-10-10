@@ -1,0 +1,3 @@
+SepalLength,SepalWidth,PetalLength,PetalWidth,Name
+7,3.2,4.7,1.4,Iris-versicolor
+7.1,3,5.9,2.1,Iris-virginica

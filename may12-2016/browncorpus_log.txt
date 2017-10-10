@@ -1,0 +1,571 @@
+Language:  english
+Minimum Stem Length 5 
+Maximum Affix Length 3 
+Minimum Number of Signature uses:  10
+________________________________________________________________________________
+tion        0 weight:  292 , and count: 73 out of 592 on its edge.
+________________________________________________________________________________
+	Old stem      New stem:
+
+		solution         solu
+		sensation        sensa
+		section          sec
+		consideration    considera
+		conviction       convic
+		suggestion       sugges
+		action           ac
+		projection       projec
+		sanction         sanc
+		examination      examina
+		equation         equa
+		calculation      calcula
+		station          sta
+		conversation     conversa
+		description      descrip
+		collection       collec
+		representation   representa
+		restriction      restric
+		interpretation   interpreta
+		attraction       attrac
+		combination      combina
+		ambition         ambi
+		association      associa
+		generation       genera
+		investigation    investiga
+		obligation       obliga
+		motion           mo
+		invitation       invita
+		regulation       regula
+		assumption       assump
+		explanation      explana
+		population       popula
+		edition          edi
+		instruction      instruc
+		preparation      prepara
+		concentration    concentra
+		position         posi
+		observation      observa
+		notion           no
+		selection        selec
+		relation         rela
+		expectation      expecta
+		implication      implica
+		installation     installa
+		deduction        deduc
+		distinction      distinc
+		contribution     contribu
+		vacation         vaca
+		conception       concep
+		situation        situa
+		formulation      formula
+		decoration       decora
+		connection       connec
+		composition      composi
+		perception       percep
+		qualification    qualifica
+		organization     organiza
+		publication      publica
+		intersection     intersec
+		indication       indica
+		election         elec
+		recommendation   recommenda
+		illustration     illustra
+		limitation       limita
+		location         loca
+		communication    communica
+		intention        inten
+		fraction         frac
+		distribution     distribu
+		objection        objec
+		corporation      corpora
+		application      applica
+		reservation      reserva
+________________________________________________________________________________
+er          0 weight:  168 , and count: 84 out of 519 on its edge.
+________________________________________________________________________________
+	Old stem      New stem:
+
+		manager          manag
+		bomber           bomb
+		volunteer        volunte
+		lawyer           lawy
+		reporter         report
+		water            wat
+		publisher        publish
+		daughter         daught
+		soldier          soldi
+		maker            mak
+		danger           dang
+		composer         compos
+		employer         employ
+		commissioner     commission
+		customer         custom
+		dinner           dinn
+		designer         design
+		listener         listen
+		producer         produc
+		paper            pap
+		member           memb
+		taxpayer         taxpay
+		youngster        youngst
+		farmer           farm
+		quarter          quart
+		trailer          trail
+		flower           flow
+		reader           read
+		fiber            fib
+		barrier          barri
+		owner            own
+		traveler         travel
+		matter           matt
+		lover            lov
+		sister           sist
+		cleaner          clean
+		counter          count
+		manner           mann
+		border           bord
+		rider            rid
+		letter           lett
+		singer           sing
+		consumer         consum
+		corner           corn
+		writer           writ
+		roger            rog
+		river            riv
+		observer         observ
+		finger           fing
+		career           care
+		trader           trad
+		dancer           danc
+		accelerometer    acceleromet
+		worker           work
+		minister         minist
+		painter          paint
+		newspaper        newspap
+		layer            lay
+		player           play
+		partner          partn
+		speaker          speak
+		driver           driv
+		theater          theat
+		builder          build
+		summer           summ
+		teacher          teach
+		character        charact
+		shoulder         should
+		stranger         strang
+		chamber          chamb
+		philosopher      philosoph
+		leader           lead
+		refer            ref
+		southerner       southern
+		manufacturer     manufactur
+		chapter          chapt
+		carrier          carri
+		transfer         transf
+		pitcher          pitch
+		passenger        passeng
+		prayer           pray
+		dealer           deal
+		shelter          shelt
+		fighter          fight
+________________________________________________________________________________
+e           0 weight:  140 , and count: 140 out of 435 on its edge.
+________________________________________________________________________________
+________________________________________________________________________________
+e           4 weight:  117 , and count: 117 out of 117 on its edge.
+________________________________________________________________________________
+	Old stem      New stem:
+
+		restore          restor
+		devote           devot
+		retire           retir
+		cease            ceas
+		participate      participat
+		secure           secur
+		discipline       disciplin
+		pause            paus
+		acknowledge      acknowledg
+		combine          combin
+		announce         announc
+		dislike          dislik
+		achieve          achiev
+		relieve          reliev
+		finance          financ
+		evaluate         evaluat
+		perceive         perceiv
+		induce           induc
+		accuse           accus
+		realize          realiz
+		arrange          arrang
+		resolve          resolv
+		exaggerate       exaggerat
+		conceive         conceiv
+		remove           remov
+		ignore           ignor
+		investigate      investigat
+		enforce          enforc
+		locate           locat
+		formulate        formulat
+		reduce           reduc
+		bounce           bounc
+		persuade         persuad
+		escape           escap
+		substitute       substitut
+		curse            curs
+		squeeze          squeez
+		please           pleas
+		encourage        encourag
+		behave           behav
+		eliminate        eliminat
+		surprise         surpris
+		dominate         dominat
+		disclose         disclos
+		resume           resum
+		explore          explor
+		concentrate      concentrat
+		spare            spar
+		struggle         struggl
+		imagine          imagin
+		assemble         assembl
+		balance          balanc
+		reverse          revers
+		institute        institut
+		impose           impos
+		surge            surg
+		assure           assur
+		oppose           oppos
+		smoke            smok
+		symbolize        symboliz
+		approve          approv
+		organize         organiz
+		divide           divid
+		conclude         conclud
+		puzzle           puzzl
+		replace          replac
+		appropriate      appropriat
+		glance           glanc
+		illustrate       illustrat
+		stare            star
+		decline          declin
+		prepare          prepar
+		divorce          divorc
+		concede          conced
+		survive          surviv
+		translate        translat
+		challenge        challeng
+		define           defin
+		invite           invit
+		expose           expos
+		acquire          acquir
+		discourage       discourag
+		engage           engag
+		suite            suit
+		promote          promot
+		analyze          analyz
+		pursue           pursu
+		double           doubl
+		anticipate       anticipat
+		admire           admir
+		suppose          suppos
+		endure           endur
+		praise           prais
+		demonstrate      demonstrat
+		arrive           arriv
+		compare          compar
+		devise           devis
+		telephone        telephon
+		evidence         evidenc
+		single           singl
+		hesitate         hesitat
+		isolate          isolat
+		utilize          utiliz
+		unite            unit
+		emphasize        emphasiz
+		propose          propos
+		capture          captur
+		quote            quot
+		welcome          welcom
+		introduce        introduc
+		waste            wast
+		refuse           refus
+		appreciate       appreciat
+		solve            solv
+		coordinate       coordinat
+		comprise         compris
+		reserve          reserv
+________________________________________________________________________________
+ent         0 weight:  108 , and count: 36 out of 435 on its edge.
+________________________________________________________________________________
+	Old stem      New stem:
+
+		apartment        apartm
+		adjustment       adjustm
+		movement         movem
+		component        compon
+		agent            ag
+		arrangement      arrangem
+		establishment    establishm
+		commitment       commitm
+		measurement      measurem
+		event            ev
+		student          stud
+		engagement       engagem
+		statement        statem
+		argument         argum
+		client           cli
+		segment          segm
+		payment          paym
+		achievement      achievem
+		requirement      requirem
+		parent           par
+		incident         incid
+		treatment        treatm
+		talent           tal
+		resident         resid
+		patent           pat
+		document         docum
+		assignment       assignm
+		moment           mom
+		judgment         judgm
+		improvement      improvem
+		allotment        allotm
+		equivalent       equival
+		agreement        agreem
+		respondent       respond
+		opponent         oppon
+		monument         monum
+________________________________________________________________________________
+ing         0 weight:  78 , and count: 26 out of 399 on its edge.
+________________________________________________________________________________
+	Old stem      New stem:
+
+		rating           rat
+		string           str
+		surrounding      surround
+		beginning        beginn
+		writing          writ
+		willing          will
+		evening          even
+		thing            th
+		saving           sav
+		hearing          hear
+		being            be
+		morning          morn
+		recording        record
+		reading          read
+		feeling          feel
+		earning          earn
+		meeting          meet
+		warning          warn
+		coating          coat
+		drawing          draw
+		finding          find
+		spring           spr
+		proceeding       proceed
+		setting          sett
+		building         build
+		painting         paint
+________________________________________________________________________________
+e           6 weight:  78 , and count: 78 out of 78 on its edge.
+________________________________________________________________________________
+	Old stem      New stem:
+
+		emerge           emerg
+		figure           figur
+		sentence         sentenc
+		taste            tast
+		recognize        recogniz
+		frame            fram
+		describe         describ
+		share            shar
+		involve          involv
+		shape            shap
+		declare          declar
+		include          includ
+		value            valu
+		determine        determin
+		sense            sens
+		trouble          troubl
+		stage            stag
+		guarantee        guarante
+		derive           deriv
+		raise            rais
+		space            spac
+		provide          provid
+		deserve          deserv
+		create           creat
+		measure          measur
+		feature          featur
+		graduate         graduat
+		increase         increas
+		indicate         indicat
+		charge           charg
+		score            scor
+		structure        structur
+		house            hous
+		privilege        privileg
+		smile            smil
+		circle           circl
+		advance          advanc
+		issue            issu
+		store            stor
+		preserve         preserv
+		notice           notic
+		enable           enabl
+		contribute       contribut
+		trace            trac
+		associate        associat
+		influence        influenc
+		couple           coupl
+		practice         practic
+		serve            serv
+		schedule         schedul
+		promise          promis
+		decide           decid
+		guide            guid
+		judge            judg
+		discharge        discharg
+		estimate         estimat
+		believe          believ
+		change           chang
+		improve          improv
+		desire           desir
+		purchase         purchas
+		operate          operat
+		constitute       constitut
+		resemble         resembl
+		assume           assum
+		cause            caus
+		require          requir
+		title            titl
+		experience       experienc
+		agree            agre
+		range            rang
+		continue         continu
+		place            plac
+		exercise         exercis
+		release          releas
+		decrease         decreas
+		argue            argu
+		average          averag
+________________________________________________________________________________
+al          2 weight:  74 , and count: 37 out of 158 on its edge.
+________________________________________________________________________________
+	Old stem      New stem:
+
+		partial          parti
+		gradual          gradu
+		local            loc
+		exceptional      exception
+		formal           form
+		essential        essenti
+		financial        financi
+		mental           ment
+		principal        princip
+		casual           casu
+		special          speci
+		economical       economic
+		annual           annu
+		practical        practic
+		mutual           mutu
+		radical          radic
+		logical          logic
+		total            tot
+		unusual          unusu
+		initial          initi
+		political        politic
+		literal          liter
+		technical        technic
+		experimental     experiment
+		substantial      substanti
+		historical       historic
+		emotional        emotion
+		eventual         eventu
+		occasional       occasion
+		physical         physic
+		normal           norm
+		natural          natur
+		traditional      tradition
+		fundamental      fundament
+		usual            usu
+		original         origin
+		typical          typic
+________________________________________________________________________________
+ion         0 weight:  60 , and count: 20 out of 373 on its edge.
+________________________________________________________________________________
+	Old stem      New stem:
+
+		division         divis
+		version          vers
+		opinion          opin
+		possession       possess
+		discussion       discuss
+		tension          tens
+		invasion         invas
+		provision        provis
+		million          mill
+		session          sess
+		expression       express
+		union            un
+		champion         champ
+		companion        compan
+		impression       impress
+		decision         decis
+		religion         relig
+		passion          pass
+		extension        extens
+		revision         revis
+________________________________________________________________________________
+t           0 weight:  59 , and count: 59 out of 353 on its edge.
+________________________________________________________________________________
+________________________________________________________________________________
+ce          0 weight:  50 , and count: 25 out of 353 on its edge.
+________________________________________________________________________________
+	Old stem      New stem:
+
+		choice           choi
+		difference       differen
+		occurrence       occurren
+		fence            fen
+		substance        substan
+		science          scien
+		circumstance     circumstan
+		service          servi
+		consequence      consequen
+		distance         distan
+		instance         instan
+		performance      performan
+		province         provin
+		price            pri
+		resource         resour
+		allowance        allowan
+		conference       conferen
+		appearance       appearan
+		voice            voi
+		surface          surfa
+		reference        referen
+		source           sour
+		audience         audien
+		device           devi
+		piece            pie
+________________________________________________________________________________
+e           0 weight:  115 , and count: 115 out of 328 on its edge.
+________________________________________________________________________________
+________________________________________________________________________________
+ous         2 weight:  48 , and count: 16 out of 121 on its edge.
+________________________________________________________________________________
+	Old stem      New stem:
+
+		previous         previ
+		generous         gener
+		anxious          anxi
+		curious          curi
+		obvious          obvi
+		unconscious      unconsci
+		enormous         enorm
+		cautious         cauti
+		tremendous       tremend
+		vigorous         vigor
+		continuous       continu
+		spontaneous      spo

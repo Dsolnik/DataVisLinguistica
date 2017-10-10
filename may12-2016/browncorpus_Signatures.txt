@@ -1,0 +1,4160 @@
+#  english 75000
+Differences between similar pairs of signatures
+Sig 1                      Sig 2                      List 1                     List 2                     differences               
+ed-es-ing-ion-ive          e-ed-es-ing-ion            ed-es-ing-ion-ive          ed-es-ing-ion-e            ['', '', '', '', 'iv']                     
+ed-es-ing-ion-ive          NULL-ed-es-ing-ion         ed-es-ing-ion-ive          ed-es-ing-ion-NULL         ['', '', '', '', 'ive']                     
+NULL-er-ers-es-ing         NULL-er-ers-ing-s          NULL-er-ers-es-ing         NULL-er-ers-s-ing          ['', '', '', 'e', '']                     
+NULL-ed-er-ers-ing         NULL-ed-er-ing-s           NULL-ed-er-ers-ing         NULL-ed-er-s-ing           ['', '', '', 'er', '']                     
+NULL-ed-ing-ly-s           NULL-ed-ing-s-y            NULL-ed-ing-ly-s           NULL-ed-ing-y-s            ['', '', '', 'l', '']                     
+ed-ing-or-ors              NULL-ed-ing-or             ed-ing-or-ors              ed-ing-or-NULL             ['', '', '', 'ors']                      
+NULL-d-r-rs                NULL-d-r-s                 NULL-d-r-rs                NULL-d-r-s                 ['', '', '', 'r']                      
+d-r-rs-s                   NULL-d-r-rs                d-r-rs-s                   d-r-rs-NULL                ['', '', '', 's']                      
+NULL-ed-es                 NULL-ed-s                  NULL-ed-es                 NULL-ed-s                  ['', '', 'e']                       
+'s-NULL-es                 's-NULL-s                  's-NULL-es                 's-NULL-s                  ['', '', 'e']                       
+NULL-ed-es-ing             NULL-ed-ing-s              NULL-ed-es-ing             NULL-ed-s-ing              ['', '', 'e', '']                      
+NULL-ed-es-ion             NULL-ed-ion-s              NULL-ed-es-ion             NULL-ed-s-ion              ['', '', 'e', '']                      
+NULL-ed-es-ing-ion         NULL-ed-ing-ion-s          NULL-ed-es-ing-ion         NULL-ed-s-ing-ion          ['', '', 'e', '', '']                     
+NULL-er-ers                NULL-er-s                  NULL-er-ers                NULL-er-s                  ['', '', 'er']                       
+NULL-ed-ers-ing            NULL-ed-ing-s              NULL-ed-ers-ing            NULL-ed-s-ing              ['', '', 'er', '']                      
+ed-er-ers-ing              NULL-ed-er-s               ed-er-ers-ing              ed-er-s-NULL               ['', '', 'er', 'ing']                      
+ed-er-ers-ing              NULL-ed-er-ing             ed-er-ers-ing              ed-er-NULL-ing             ['', '', 'ers', '']                      
+ed-er-ing                  NULL-ed-er                 ed-er-ing                  ed-er-NULL                 ['', '', 'ing']                       
+ed-ing-ion                 NULL-ed-ing                ed-ing-ion                 ed-ing-NULL                ['', '', 'ion']                       
+ed-ion-ive                 e-ed-ion                   ed-ion-ive                 ed-ion-e                   ['', '', 'iv']                       
+ed-ion-ive                 NULL-ed-ion                ed-ion-ive                 ed-ion-NULL                ['', '', 'ive']                       
+'s-NULL-ly                 's-NULL-y                  's-NULL-ly                 's-NULL-y                  ['', '', 'l']                       
+NULL-ed-ly                 NULL-ed-y                  NULL-ed-ly                 NULL-ed-y                  ['', '', 'l']                       
+ed-ion-or                  NULL-ed-ion                ed-ion-or                  ed-ion-NULL                ['', '', 'or']                       
+ed-ing-ors                 ed-ing-s                   ed-ing-ors                 ed-ing-s                   ['', '', 'or']                       
+ed-ion-or-ors              NULL-ed-ion-s              ed-ion-or-ors              ed-ion-NULL-s              ['', '', 'or', 'or']                      
+ed-ing-or-ors              NULL-ed-ing-s              ed-ing-or-ors              ed-ing-NULL-s              ['', '', 'or', 'or']                      
+ed-ing-ors                 NULL-ed-ing                ed-ing-ors                 ed-ing-NULL                ['', '', 'ors']                       
+NULL-d-rs                  NULL-d-s                   NULL-d-rs                  NULL-d-s                   ['', '', 'r']                       
+d-r-rs                     NULL-d-r                   d-r-rs                     d-r-NULL                   ['', '', 'rs']                       
+ed-ing-s                   NULL-ed-ing                ed-ing-s                   ed-ing-NULL                ['', '', 's']                       
+NULL-ary                   NULL-y                     NULL-ary                   NULL-y                     ['', 'ar']                        
+NULL-ary-s                 NULL-s-y                   NULL-ary-s                 NULL-y-s                   ['', 'ar', '']                       
+NULL-ary-ed-s              NULL-d-s-y                 NULL-ary-ed-s              NULL-y-d-s                 ['', 'ar', 'e', '']                      
+NULL-ed                    NULL-d                     NULL-ed                    NULL-d                     ['', 'e']                        
+NULL-er                    NULL-r                     NULL-er                    NULL-r                     ['', 'e']                        
+NULL-es                    NULL-s                     NULL-es                    NULL-s                     ['', 'e']                        
+al-e                       NULL-al                    al-e                       al-NULL                    ['', 'e']                        
+NULL-ers                   NULL-rs                    NULL-ers                   NULL-rs                    ['', 'e']                        
+NULL-ed-s                  NULL-d-s                   NULL-ed-s                  NULL-d-s                   ['', 'e', '']                       
+al-e-ity                   NULL-al-ity                al-e-ity                   al-NULL-ity                ['', 'e', '']                       
+NULL-es-ic                 NULL-ic-s                  NULL-es-ic                 NULL-s-ic                  ['', 'e', '']                       
+NULL-es-man                NULL-man-s                 NULL-es-man                NULL-s-man                 ['', 'e', '']                       
+NULL-ed-ly                 NULL-d-ly                  NULL-ed-ly                 NULL-d-ly                  ['', 'e', '']                       
+NULL-es-ing                NULL-ing-s                 NULL-es-ing                NULL-s-ing                 ['', 'e', '']                       
+NULL-ed-ful-s              NULL-d-ful-s               NULL-ed-ful-s              NULL-d-ful-s               ['', 'e', '', '']                      
+ed-es-ing-ion-ive          NULL-ed-ing-ion-s          ed-es-ing-ion-ive          ed-s-ing-ion-NULL          ['', 'e', '', '', 'ive']                     
+NULL-ed-es                 NULL-d-s                   NULL-ed-es                 NULL-d-s                   ['', 'e', 'e']                       
+NULL-ed-er                 NULL-d-r                   NULL-ed-er                 NULL-d-r                   ['', 'e', 'e']                       
+NULL-er-ers-s              NULL-r-rs-s                NULL-er-ers-s              NULL-r-rs-s                ['', 'e', 'e', '']                      
+NULL-ed-er-s               NULL-d-r-s                 NULL-ed-er-s               NULL-d-r-s                 ['', 'e', 'e', '']                      
+NULL-ed-er-ers-s           NULL-d-r-rs-s              NULL-ed-er-ers-s           NULL-d-r-rs-s              ['', 'e', 'e', 'e', '']                     
+NULL-ed-es-ion             NULL-d-n-s                 NULL-ed-es-ion             NULL-d-s-n                 ['', 'e', 'e', 'io']                      
+NULL-ed-ies-y              NULL-d-s-y                 NULL-ed-ies-y              NULL-d-s-y                 ['', 'e', 'ie', '']                      
+ed-es-ing-ion-ive          NULL-ed-ion-ive-s          ed-es-ing-ion-ive          ed-s-NULL-ion-ive          ['', 'e', 'ing', '', '']                     
+NULL-ed-ion-s              NULL-d-n-s                 NULL-ed-ion-s              NULL-d-n-s                 ['', 'e', 'io', '']                      
+NULL-es-man                NULL-n-s                   NULL-es-man                NULL-s-n                   ['', 'e', 'ma']                       
+al-ed                      NULL-al                    al-ed                      al-NULL                    ['', 'ed']                        
+NULL-ers                   NULL-s                     NULL-ers                   NULL-s                     ['', 'er']                        
+ed-er-ing                  NULL-ed-ing                ed-er-ing                  ed-NULL-ing                ['', 'er', '']                       
+ed-ers-ing                 ed-ing-s                   ed-ers-ing                 ed-s-ing                   ['', 'er', '']                       
+ed-er-ers-ing              NULL-ed-ers-ing            ed-er-ers-ing              ed-NULL-ers-ing            ['', 'er', '', '']                      
+ed-er-ers-ing              NULL-ed-ing-s              ed-er-ers-ing              ed-NULL-s-ing              ['', 'er', 'er', '']                      
+ed-ers-ing                 NULL-ed-s                  ed-ers-ing                 ed-s-NULL                  ['', 'er', 'ing']                       
+ed-ers-ing                 NULL-ed-ing                ed-ers-ing                 ed-NULL-ing                ['', 'ers', '']                       
+ed-es-ing-ion-ive          NULL-ed-ing-ion-ive        ed-es-ing-ion-ive          ed-NULL-ing-ion-ive        ['', 'es', '', '', '']                     
+ed-ies-y                   NULL-ed-es                 ed-ies-y                   ed-es-NULL                 ['', 'i', 'y']                       
+NULL-ies-y                 NULL-s-y                   NULL-ies-y                 NULL-s-y                   ['', 'ie', '']                       
+ed-ies-y                   NULL-ed-s                  ed-ies-y                   ed-s-NULL                  ['', 'ie', 'y']                       
+ed-ies-y                   NULL-ed-y                  ed-ies-y                   ed-NULL-y                  ['', 'ies', '']                       
+ed-ing                     NULL-ed                    ed-ing                     ed-NULL                    ['', 'ing']                        
+ed-ing-ion                 NULL-ed-ion                ed-ing-ion                 ed-NULL-ion                ['', 'ing', '']                       
+ed-ing-s                   NULL-ed-s                  ed-ing-s                   ed-NULL-s                  ['', 'ing', '']                       
+ed-ing-ors                 NULL-ed-s                  ed-ing-ors                 ed-NULL-s                  ['', 'ing', 'or']                       
+NULL-ion                   NULL-n                     NULL-ion                   NULL-n                     ['', 'io']                        
+NULL-ion-s                 NULL-n-s                   NULL-ion-s                 NULL-n-s                   ['', 'io', '']                       
+ed-ion                     NULL-ed                    ed-ion                     ed-NULL                    ['', 'ion']                        
+ed-ion-ive                 NULL-ed-ive                ed-ion-ive                 ed-NULL-ive                ['', 'ion', '']                       
+NULL-ity                   NULL-y                     NULL-ity                   NULL-y                     ['', 'it']                        
+e-ity                      e-y                        e-ity                      e-y                        ['', 'it']                        
+NULL-ity-ly                NULL-ly-y                  NULL-ity-ly                NULL-y-ly                  ['', 'it', '']                       
+NULL-ity-s                 NULL-s-y                   NULL-ity-s                 NULL-y-s                   ['', 'it', '']                       
+ed-ive                     NULL-ed                    ed-ive                     ed-NULL                    ['', 'ive']                        
+NULL-ly                    NULL-y                     NULL-ly                    NULL-y                     ['', 'l']                        
+NULL-ly-s                  NULL-s-y                   NULL-ly-s                  NULL-y-s                   ['', 'l', '']                       
+NULL-man                   NULL-n                     NULL-man                   NULL-n                     ['', 'ma']                        
+NULL-man-s                 NULL-n-s                   NULL-man-s                 NULL-n-s                   ['', 'ma', '']                       
+ion-or                     NULL-ion                   ion-or                     ion-NULL                   ['', 'or']                        
+ed-or                      NULL-ed                    ed-or                      ed-NULL                    ['', 'or']                        
+ed-ors                     NULL-ed                    ed-ors                     ed-NULL                    ['', 'ors']                        
+d-r                        NULL-d                     d-r                        d-NULL                     ['', 'r']                        
+d-rs                       d-s                        d-rs                       d-s                        ['', 'r']                        
+NULL-rs                    NULL-s                     NULL-rs                    NULL-s                     ['', 'r']                        
+d-r-rs                     NULL-d-rs                  d-r-rs                     d-NULL-rs                  ['', 'r', '']                       
+d-r-rs                     NULL-d-s                   d-r-rs                     d-NULL-s                   ['', 'r', 'r']                       
+d-rs                       NULL-d                     d-rs                       d-NULL                     ['', 'rs']                        
+d-s                        NULL-d                     d-s                        d-NULL                     ['', 's']                        
+al-s                       NULL-al                    al-s                       al-NULL                    ['', 's']                        
+r-s                        NULL-r                     r-s                        r-NULL                     ['', 's']                        
+r-st                       NULL-r                     r-st                       r-NULL                     ['', 'st']                        
+s-y                        NULL-s                     s-y                        s-NULL                     ['', 'y']                        
+ed-y                       NULL-ed                    ed-y                       ed-NULL                    ['', 'y']                        
+'s-NULL                    NULL-s                     's-NULL                    s-NULL                     ["'", '']                        
+'s-NULL-n                  NULL-n-s                   's-NULL-n                  s-NULL-n                   ["'", '', '']                       
+'s-NULL-y                  NULL-s-y                   's-NULL-y                  s-NULL-y                   ["'", '', '']                       
+'s-NULL-ly                 NULL-ly-s                  's-NULL-ly                 s-NULL-ly                  ["'", '', '']                       
+'s-NULL-ly                 NULL-s-y                   's-NULL-ly                 s-NULL-y                   ["'", '', 'l']                       
+al-s                       NULL-s                     al-s                       NULL-s                     ['al', '']                        
+al-ed                      NULL-ed                    al-ed                      NULL-ed                    ['al', '']                        
+al-ed                      NULL-d                     al-ed                      NULL-d                     ['al', 'e']                        
+cy-t                       NULL-y                     cy-t                       y-NULL                     ['c', 't']                        
+ce-tly                     e-y                        ce-tly                     e-y                        ['c', 'tl']                        
+ce-t                       NULL-t                     ce-t                       NULL-t                     ['ce', '']                        
+ce-tly                     NULL-ly                    ce-tly                     NULL-ly                    ['ce', 't']                        
+ce-tly                     NULL-y                     ce-tly                     NULL-y                     ['ce', 'tl']                        
+cy-t                       NULL-t                     cy-t                       NULL-t                     ['cy', '']                        
+d-s                        NULL-s                     d-s                        NULL-s                     ['d', '']                        
+d-r                        NULL-r                     d-r                        NULL-r                     ['d', '']                        
+d-rs                       NULL-rs                    d-rs                       NULL-rs                    ['d', '']                        
+d-r-rs-s                   NULL-r-rs-s                d-r-rs-s                   NULL-r-rs-s                ['d', '', '', '']                      
+d-rs                       NULL-s                     d-rs                       NULL-s                     ['d', 'r']                        
+e-y                        NULL-y                     e-y                        NULL-y                     ['e', '']                        
+e-ity                      NULL-ity                   e-ity                      NULL-ity                   ['e', '']                        
+e-ion                      NULL-ion                   e-ion                      NULL-ion                   ['e', '']                        
+e-ing                      NULL-ing                   e-ing                      NULL-ing                   ['e', '']                        
+e-ed-ing                   NULL-ed-ing                e-ed-ing                   NULL-ed-ing                ['e', '', '']                       
+e-ed-ion                   NULL-ed-ion                e-ed-ion                   NULL-ed-ion                ['e', '', '']                       
+e-es-ing                   NULL-es-ing                e-es-ing                   NULL-es-ing                ['e', '', '']                       
+e-ies-y                    NULL-ies-y                 e-ies-y                    NULL-ies-y                 ['e', '', '']                       
+e-ed-es-ing                NULL-ed-es-ing             e-ed-es-ing                NULL-ed-es-ing             ['e', '', '', '']                      
+e-ed-ing-ion               NULL-ed-ing-ion            e-ed-ing-ion               NULL-ed-ing-ion            ['e', '', '', '']                      
+e-ed-es-ion                NULL-ed-es-ion             e-ed-es-ion                NULL-ed-es-ion             ['e', '', '', '']                      
+e-ed-ers-ing               NULL-ed-ers-ing            e-ed-ers-ing               NULL-ed-ers-ing            ['e', '', '', '']                      
+e-ed-ies-y                 NULL-ed-ies-y              e-ed-ies-y                 NULL-ed-ies-y              ['e', '', '', '']                      
+e-ed-er-ers-ing            NULL-ed-er-ers-ing         e-ed-er-ers-ing            NULL-ed-er-ers-ing         ['e', '', '', '', '']                     
+e-ed-es-ing-ion            NULL-ed-es-ing-ion         e-ed-es-ing-ion            NULL-ed-es-ing-ion         ['e', '', '', '', '']                     
+e-ed-er-ers-es-ing         NULL-ed-er-ers-ing-s       e-ed-er-ers-es-ing         NULL-ed-er-ers-s-ing       ['e', '', '', '', 'e', '']                    
+e-ed-er-es-ing             NULL-ed-er-ing-s           e-ed-er-es-ing             NULL-ed-er-s-ing           ['e', '', '', 'e', '']                     
+e-ed-er-ers-ing            NULL-ed-er-ing-s           e-ed-er-ers-ing            NULL-ed-er-s-ing           ['e', '', '', 'er', '']                     
+e-ed-es-ing                NULL-ed-ing-s              e-ed-es-ing                NULL-ed-s-ing              ['e', '', 'e', '']                      
+e-ed-es-ion                NULL-ed-ion-s              e-ed-es-ion                NULL-ed-s-ion              ['e', '', 'e', '']                      
+e-ed-es-ing-ion            NULL-ed-ing-ion-s          e-ed-es-ing-ion            NULL-ed-s-ing-ion          ['e', '', 'e', '', '']                     
+e-ed-es-ing-ity            NULL-ed-ing-s-y            e-ed-es-ing-ity            NULL-ed-s-ing-y            ['e', '', 'e', '', 'it']                     
+e-ed-ers-ing               NULL-ed-ing-s              e-ed-ers-ing               NULL-ed-s-ing              ['e', '', 'er', '']                      
+e-es-ing                   NULL-ing-s                 e-es-ing                   NULL-s-ing                 ['e', 'e', '']                       
+e-es-ion                   NULL-ion-s                 e-es-ion                   NULL-s-ion                 ['e', 'e', '']                       
+ed-er-ers-ing              NULL-d-r-rs                ed-er-ers-ing              d-r-rs-NULL                ['e', 'e', 'e', 'ing']                      
+e-ed-es-ion                NULL-d-n-s                 e-ed-es-ion                NULL-d-s-n                 ['e', 'e', 'e', 'io']                      
+ed-er-ers-ing              NULL-d-r-s                 ed-er-ers-ing              d-r-s-NULL                 ['e', 'e', 'er', 'ing']                      
+e-ed-ies-y                 NULL-d-s-y                 e-ed-ies-y                 NULL-d-s-y                 ['e', 'e', 'ie', '']                      
+ed-er-ing                  NULL-d-r                   ed-er-ing                  d-r-NULL                   ['e', 'e', 'ing']                       
+ed-ers-ing                 NULL-d-rs                  ed-ers-ing                 d-rs-NULL                  ['e', 'e', 'ing']                       
+e-es-ion                   NULL-n-s                   e-es-ion                   NULL-s-n                   ['e', 'e', 'io']                       
+ed-ers-ing                 NULL-d-s                   ed-ers-ing                 d-s-NULL                   ['e', 'er', 'ing']                       
+e-ies-y                    NULL-s-y                   e-ies-y                    NULL-s-y                   ['e', 'ie', '']                       
+ed-ies-y                   NULL-d-s                   ed-ies-y                   d-s-NULL                   ['e', 'ie', 'y']                       
+ed-ing                     NULL-d                     ed-ing                     d-NULL                     ['e', 'ing']                        
+ed-ing-s                   NULL-d-s                   ed-ing-s                   d-NULL-s                   ['e', 'ing', '']                       
+ed-ing-ors                 NULL-d-rs                  ed-ing-ors                 d-NULL-rs                  ['e', 'ing', 'o']                       
+ed-ing-or-ors              NULL-d-r-rs                ed-ing-or-ors              d-NULL-r-rs                ['e', 'ing', 'o', 'o']                      
+ed-ing-or-ors              NULL-d-r-s                 ed-ing-or-ors              d-NULL-r-s                 ['e', 'ing', 'o', 'or']                      
+ed-ing-ors                 NULL-d-s                   ed-ing-ors                 d-NULL-s                   ['e', 'ing', 'or']                       
+e-ion                      NULL-n                     e-ion                      NULL-n                     ['e', 'io']                        
+ed-ion-or-ors              NULL-d-n-s                 ed-ion-or-ors              d-n-NULL-s                 ['e', 'io', 'or', 'or']                      
+ed-ion                     NULL-d                     ed-ion                     d-NULL                     ['e', 'ion']                        
+ed-ion-or                  NULL-d-r                   ed-ion-or                  d-NULL-r                   ['e', 'ion', 'o']                       
+ed-ion-or-ors              NULL-d-r-rs                ed-ion-or-ors              d-NULL-r-rs                ['e', 'ion', 'o', 'o']                      
+ed-ion-or-ors              NULL-d-r-s                 ed-ion-or-ors              d-NULL-r-s                 ['e', 'ion', 'o', 'or']                      
+e-ity                      NULL-y                     e-ity                      NULL-y                     ['e', 'it']                        
+ed-ive                     NULL-d                     ed-ive                     d-NULL                     ['e', 'ive']                        
+ed-or                      d-r                        ed-or                      d-r                        ['e', 'o']                        
+ed-ors                     d-rs                       ed-ors                     d-rs                       ['e', 'o']                        
+ed-or                      NULL-d                     ed-or                      d-NULL                     ['e', 'or']                        
+ed-ors                     d-s                        ed-ors                     d-s                        ['e', 'or']                        
+ed-ors                     NULL-d                     ed-ors                     d-NULL                     ['e', 'ors']                        
+ed-y                       NULL-d                     ed-y                       d-NULL                     ['e', 'y']                        
+ed-ing                     NULL-ing                   ed-ing                     NULL-ing                   ['ed', '']                        
+ed-ion                     NULL-ion                   ed-ion                     NULL-ion                   ['ed', '']                        
+ed-y                       NULL-y                     ed-y                       NULL-y                     ['ed', '']                        
+ed-ive                     NULL-ive                   ed-ive                     NULL-ive                   ['ed', '']                        
+ed-er-ing                  NULL-er-ing                ed-er-ing                  NULL-er-ing                ['ed', '', '']                       
+ed-ion-or                  NULL-ion-or                ed-ion-or                  NULL-ion-or                ['ed', '', '']                       
+ed-ies-y                   NULL-ies-y                 ed-ies-y                   NULL-ies-y                 ['ed', '', '']                       
+ed-ing-s                   NULL-ing-s                 ed-ing-s                   NULL-ing-s                 ['ed', '', '']                       
+ed-er-ers-ing              NULL-er-ers-ing            ed-er-ers-ing              NULL-er-ers-ing            ['ed', '', '', '']                      
+ed-ing-ion                 NULL-ing-n                 ed-ing-ion                 NULL-ing-n                 ['ed', '', 'io']                       
+ed-ing-ors                 NULL-ing-s                 ed-ing-ors                 NULL-ing-s                 ['ed', '', 'or']                       
+ed-ers-ing                 NULL-ing-s                 ed-ers-ing                 NULL-s-ing                 ['ed', 'er', '']                       
+ed-ies-y                   NULL-s-y                   ed-ies-y                   NULL-s-y                   ['ed', 'ie', '']                       
+ed-ion                     NULL-n                     ed-ion                     NULL-n                     ['ed', 'io']                        
+ed-ion-or-ors              NULL-n-r-rs                ed-ion-or-ors              NULL-n-r-rs                ['ed', 'io', 'o', 'o']                      
+ed-or                      NULL-r                     ed-or                      NULL-r                     ['ed', 'o']                        
+ed-ors                     NULL-rs                    ed-ors                     NULL-rs                    ['ed', 'o']                        
+ed-ors                     NULL-s                     ed-ors                     NULL-s                     ['ed', 'or']                        
+ied-y                      ed-y                       ied-y                      ed-y                       ['i', '']                        
+ied-ies-y                  ed-ies-y                   ied-ies-y                  ed-ies-y                   ['i', '', '']                       
+ied-ies-y                  NULL-ed-es                 ied-ies-y                  ed-es-NULL                 ['i', 'i', 'y']                       
+ied-ies-y                  NULL-ed-s                  ied-ies-y                  ed-s-NULL                  ['i', 'ie', 'y']                       
+ied-ies-y                  NULL-ed-y                  ied-ies-y                  ed-NULL-y                  ['i', 'ies', '']                       
+ies-y                      NULL-es                    ies-y                      es-NULL                    ['i', 'y']                        
+ied-y                      NULL-ed                    ied-y                      ed-NULL                    ['i', 'y']                        
+ies-y                      s-y                        ies-y                      s-y                        ['ie', '']                        
+ied-ies-y                  NULL-d-s                   ied-ies-y                  d-s-NULL                   ['ie', 'ie', 'y']                       
+ies-y                      NULL-s                     ies-y                      s-NULL                     ['ie', 'y']                        
+ied-y                      NULL-d                     ied-y                      d-NULL                     ['ie', 'y']                        
+ied-y                      NULL-y                     ied-y                      NULL-y                     ['ied', '']                        
+ied-ies-y                  NULL-ies-y                 ied-ies-y                  NULL-ies-y                 ['ied', '', '']                       
+ied-ies-y                  NULL-s-y                   ied-ies-y                  NULL-s-y                   ['ied', 'ie', '']                       
+ies-y                      NULL-y                     ies-y                      NULL-y                     ['ies', '']                        
+ion-or                     NULL-n                     ion-or                     n-NULL                     ['io', 'or']                        
+ion-or                     NULL-r                     ion-or                     NULL-r                     ['ion', 'o']                        
+ng-on                      NULL-n                     ng-on                      NULL-n                     ['ng', 'o']                        
+ng-on-ons                  NULL-n-s                   ng-on-ons                  NULL-n-s                   ['ng', 'o', 'on']                       
+ng-ons                     NULL-s                     ng-ons                     NULL-s                     ['ng', 'on']                        
+on-ons-ve                  NULL-n-s                   on-ons-ve                  n-s-NULL                   ['o', 'on', 've']                       
+on-ve                      NULL-n                     on-ve                      n-NULL                     ['o', 've']                        
+r-s                        NULL-s                     r-s                        NULL-s                     ['r', '']                        
+r-st                       NULL-t                     r-st                       NULL-t                     ['r', 's']                        
+s-y                        NULL-y                     s-y                        NULL-y                     ['s', '']                        
+_________________ 
+ End of Make Signatures.
+
+--------------------------------------------------------------
+Signature                          Stem count   Robustness  
+--------------------------------------------------------------
+NULL-s                                592  25626
+NULL-ly                               158   8395
+NULL-d                                117   4921
+NULL-d-s                               78   4284
+NULL-ed                                61   2682
+ies-y                                  49   1604
+NULL-ed-ing-s                          49   4164
+'s-NULL                                45   2102
+NULL-ed-ing                            39   2818
+NULL-ing                               33   1698
+e-ed-ing                               33   1614
+NULL-ed-s                              31   1758
+ed-ing                                 28   1017
+d-s                                    27    436
+d-r                                    26    401
+ed-ion                                 25   1114
+ce-t                                   23    631
+NULL-al-s                              23   1830
+e-ed-es-ing                            23   1632
+NULL-ly-s                              19   1130
+on-ve                                  18    709
+NULL-ing-s                             17   1096
+NULL-al                                17    946
+d-r-rs                                 16    590
+e-y                                    15    272
+'s-NULL-s                              15    950
+NULL-n                                 14    498
+NULL-ity                               14    748
+e-ed-ion                               13    845
+NULL-man                               11    542
+NULL-y                                 11    350
+NULL-ed-es-ing                         10    893
+ng-on-ons                              10    665
+ied-y                                  10    297
+cy-t                                   10    231
+on-ons-ve                              10    713
+e-ity                                  10    305
+r-st                                   10    204
+ce-t-tly                               10    583
+ng-on                                  10    361
+NULL-ion                                9    470
+NULL-er                                 9    332
+NULL-es                                 9    350
+e-ion                                   9    308
+NULL-ic-s                               9    584
+al-s                                    8    211
+NULL-t                                  6    185
+NULL-ary-s                              6    437
+al-e                                    6    146
+NULL-ed-ion-s                           6    557
+e-ed-ing-ion                            6    511
+ng-on-ons-ve                            5    422
+NULL-ity-ly                             5    364
+NULL-ful                                5    207
+NULL-ed-ion                             4    283
+ion-or                                  4    198
+NULL-ed-es                              4    246
+al-ed                                   4    107
+NULL-ed-ion-ive                         4    451
+e-es-ing                                4    164
+NULL-ity-s                              4    273
+NULL-ful-s                              4    246
+NULL-d-r-rs-s                           4    327
+NULL-ed-er-ers-ing                      4    428
+NULL-ed-er-ers-ing-s                    3    363
+NULL-r                                  3     97
+s-y                                     3     40
+al-e-ed-ing                             3    172
+d-rs                                    3     71
+NULL-ism-s                              3    245
+NULL-ed-ful-s                           3    206
+NULL-ed-ive-s                           3    266
+al-e-ed                                 3    134
+e-ed-es-ion                             3    262
+e-ing                                   3     90
+NULL-ic                                 3    122
+NULL-ed-er-ing-s                        3    377
+NULL-ism-ly                             2    151
+NULL-er-ers-s                           2    205
+NULL-r-rs-s                             2    121
+NULL-s-t                                2     85
+NULL-s-y                                2     92
+NULL-n-s                                2     92
+ed-ion-ive                              2    127
+NULL-er-ly                              2    109
+NULL-ed-er-s                            2    144
+ed-er-ing                               2    121
+'s-NULL-al-s                            2    188
+NULL-ers                                2     99
+NULL-er-s                               2    113
+NULL-er-ers-ing                         2    155
+ed-ion-or                               2    121
+d-r-rs-s                                2     99
+NULL-ary-ed-s                           2    157
+NULL-ed-ing-ion                         2    183
+NULL-er-ers                             2    151
+ed-or                                   2     49
+NULL-ed-er-ing                          2    157
+ng-on-ve                                2    106
+'s-NULL-n                               2    113
+e-ed-es-ing-ion-or-ors                  2    295
+ed-y                                    2     40
+NULL-ed-ers-ing-s                       2    225
+NULL-ary                                2    148
+NULL-d-rs                               2    105
+NULL-ed-ing-ly-s                        2    196
+NULL-ed-t                               2    137
+NULL-d-r-rs                             2    181
+e-ed-er-ers-es-ing                      2    222
+e-ed-er-ers-ing                         2    225
+NULL-d-ly                               2    137
+NULL-ed-ing-ion-ive-s                   2    301
+ed-ies-y                                2     85
+NULL-ism                                2    106
+PROBLEM!!
+                                        1     -6
+NULL-n-r-rs                             1     50
+NULL-ed-ion-ly-or-ors                   1    120
+NULL-ed-ful                             1     70
+NULL-ing-s-y                            1     55
+NULL-ion-ly                             1     70
+NULL-ed-ing-or-ors-s                    1     95
+NULL-es-ful-ion-ive-or                  1    147
+NULL-al-ity                             1     80
+'s-NULL-es                              1     54
+ied-ies-y                               1     40
+ed-ion-or-ors                           1     84
+NULL-ly-y                               1     48
+NULL-ed-es-ion                          1     91
+NULL-al-ing-s                           1     96
+NULL-ed-er-ing-ly                       1     80
+NULL-ies-s-y                            1     66
+NULL-ed-es-ing-ion                      1    119
+NULL-ed-ing-ion-ive                     1    108
+ed-es-ing-ion-ive                       1     80
+ed-ing-ors                              1     54
+NULL-ed-er-ers-s                        1     75
+al-e-ity                                1     49
+NULL-ive                                1     42
+NULL-ly-r-st                            1     55
+'s-NULL-ism-ly-s                        1    150
+r-s                                     1     12
+NULL-ive-s                              1     72
+NULL-ic-s-y                             1     60
+NULL-er-ers-es-ing                      1     85
+NULL-d-r-s                              1     63
+NULL-ed-ers-ing                         1     98
+NULL-al-ism-s                           1     72
+NULL-ary-er-ers-s                       1     96
+NULL-r-st                               1     48
+'s-NULL-ly-s                            1     77
+NULL-ed-er-ers-es-ing-s                 1    132
+NULL-ic-ism-s                           1     72
+NULL-er-ers-ing-s                       1     80
+'s-NULL-d-s                             1     50
+NULL-ed-ing-s-y                         1     70
+'s-NULL-y                               1     40
+e-ed-es-ing-ion-ive-or                  1    105
+NULL-al-ary-s                           1     84
+e-ed-ers-ing                            1     55
+ed-ers-ing                              1     45
+NULL-man-s                              1     45
+al-e-ed-es-ing                          1     91
+e-ed-es-ing-ion                         1    126
+'s-NULL-ly                              1     45
+NULL-ed-ive                             1     80
+NULL-ion-ive-ly                         1    112
+NULL-ed-ies-y                           1     96
+NULL-ion-or                             1     70
+NULL-ed-ing-y                           1     84
+e-ed-es-ing-ity                         1     98
+al-e-ed-ing-ors                         1     84
+NULL-ing-n                              1     45
+NULL-ed-er                              1     81
+e-ed-er-es-ing                          1     78
+NULL-d-ful-s                            1     55
+NULL-ies-y                              1     81
+NULL-ed-er-ers-ies-ing-s-y              1    125
+NULL-es-ic                              1     45
+NULL-es-man                             1     80
+NULL-ion-s                              1     63
+NULL-ed-ly                              1     63
+ed-ive                                  1     35
+NULL-ed-ing-ion-s                       1    112
+NULL-ly-r-rs                            1     77
+ed-ing-ion                              1     72
+NULL-es-s                               1     40
+ed-ors                                  1     30
+NULL-er-ing                             1     50
+NULL-e-ity-ly                           1     60
+NULL-d-s-y                              1     54
+NULL-ed-ion-ive-s                       1     96
+NULL-ed-ful-ing-s                       1     96
+e-ies-y                                 1     30
+NULL-ion-ive-s                          1     91
+ng-ons                                  1     45
+NULL-ed-y                               1     56
+e-es-ion                                1     49
+NULL-ed-ing-ion-ive-or                  1    147
+e-ed-ies-y                              1     63
+NULL-d-n-s                              1     45
+NULL-es-ing                             1     50
+ed-ing-or-ors                           1     72
+NULL-ed-ing-or                          1     91
+NULL-rs                                 1     42
+ed-er-ers-ing                           1     84
+NULL-d-ly-r-st-t                        1     75
+ce-tly                                  1     45
+NULL-d-r                                1     49
+NULL-ity-ly-s                           1     60
+ed-ing-s                                1     35
+NULL-ed-er-ing-ly-s                     1     90
+NULL-er-ly-s                            1     55
+--------------------------------------------------------------
+
+Sorted by Robustness
+
+Signature                          Stem count   Robustness  
+--------------------------------------------------------------
+NULL-s                                592  25626
+NULL-ly                               158   8395
+NULL-d                                117   4921
+NULL-d-s                               78   4284
+NULL-ed-ing-s                          49   4164
+NULL-ed-ing                            39   2818
+NULL-ed                                61   2682
+'s-NULL                                45   2102
+NULL-al-s                              23   1830
+NULL-ed-s                              31   1758
+NULL-ing                               33   1698
+e-ed-es-ing                            23   1632
+e-ed-ing                               33   1614
+ies-y                                  49   1604
+NULL-ly-s                              19   1130
+ed-ion                                 25   1114
+NULL-ing-s                             17   1096
+ed-ing                                 28   1017
+'s-NULL-s                              15    950
+NULL-al                                17    946
+NULL-ed-es-ing                         10    893
+e-ed-ion                               13    845
+NULL-ity                               14    748
+on-ons-ve                              10    713
+on-ve                                  18    709
+ng-on-ons                              10    665
+ce-t                                   23    631
+d-r-rs                                 16    590
+NULL-ic-s                               9    584
+ce-t-tly                               10    583
+NULL-ed-ion-s                           6    557
+NULL-man                               11    542
+e-ed-ing-ion                            6    511
+NULL-n                                 14    498
+NULL-ion                                9    470
+NULL-ed-ion-ive                         4    451
+NULL-ary-s                              6    437
+d-s                                    27    436
+NULL-ed-er-ers-ing                      4    428
+ng-on-ons-ve                            5    422
+d-r                                    26    401
+NULL-ed-er-ing-s                        3    377
+NULL-ity-ly                             5    364
+NULL-ed-er-ers-ing-s                    3    363
+ng-on                                  10    361
+NULL-y                                 11    350
+NULL-es                                 9    350
+NULL-er                                 9    332
+NULL-d-r-rs-s                           4    327
+e-ion                                   9    308
+e-ity                                  10    305
+NULL-ed-ing-ion-ive-s                   2    301
+ied-y                                  10    297
+e-ed-es-ing-ion-or-ors                  2    295
+NULL-ed-ion                             4    283
+NULL-ity-s                              4    273
+e-y                                    15    272
+NULL-ed-ive-s                           3    266
+e-ed-es-ion                             3    262
+NULL-ed-es                              4    246
+NULL-ful-s                              4    246
+NULL-ism-s                              3    245
+cy-t                                   10    231
+NULL-ed-ers-ing-s                       2    225
+e-ed-er-ers-ing                         2    225
+e-ed-er-ers-es-ing                      2    222
+al-s                                    8    211
+NULL-ful                                5    207
+NULL-ed-ful-s                           3    206
+NULL-er-ers-s                           2    205
+r-st                                   10    204
+ion-or                                  4    198
+NULL-ed-ing-ly-s                        2    196
+'s-NULL-al-s                            2    188
+NULL-t                                  6    185
+NULL-ed-ing-ion                         2    183
+NULL-d-r-rs                             2    181
+al-e-ed-ing                             3    172
+e-es-ing                                4    164
+NULL-ary-ed-s                           2    157
+NULL-ed-er-ing                          2    157
+NULL-er-ers-ing                         2    155
+NULL-ism-ly                             2    151
+NULL-er-ers                             2    151
+'s-NULL-ism-ly-s                        1    150
+NULL-ary                                2    148
+NULL-es-ful-ion-ive-or                  1    147
+NULL-ed-ing-ion-ive-or                  1    147
+al-e                                    6    146
+NULL-ed-er-s                            2    144
+NULL-ed-t                               2    137
+NULL-d-ly                               2    137
+al-e-ed                                 3    134
+NULL-ed-er-ers-es-ing-s                 1    132
+ed-ion-ive                              2    127
+e-ed-es-ing-ion                         1    126
+NULL-ed-er-ers-ies-ing-s-y              1    125
+NULL-ic                                 3    122
+NULL-r-rs-s                             2    121
+ed-er-ing                               2    121
+ed-ion-or                               2    121
+NULL-ed-ion-ly-or-ors                   1    120
+NULL-ed-es-ing-ion                      1    119
+NULL-er-s                               2    113
+'s-NULL-n                               2    113
+NULL-ion-ive-ly                         1    112
+NULL-ed-ing-ion-s                       1    112
+NULL-er-ly                              2    109
+NULL-ed-ing-ion-ive                     1    108
+al-ed                                   4    107
+ng-on-ve                                2    106
+NULL-ism                                2    106
+NULL-d-rs                               2    105
+e-ed-es-ing-ion-ive-or                  1    105
+NULL-ers                                2     99
+d-r-rs-s                                2     99
+NULL-ed-ers-ing                         1     98
+e-ed-es-ing-ity                         1     98
+NULL-r                                  3     97
+NULL-al-ing-s                           1     96
+NULL-ary-er-ers-s                       1     96
+NULL-ed-ies-y                           1     96
+NULL-ed-ion-ive-s                       1     96
+NULL-ed-ful-ing-s                       1     96
+NULL-ed-ing-or-ors-s                    1     95
+NULL-s-y                                2     92
+NULL-n-s                                2     92
+NULL-ed-es-ion                          1     91
+al-e-ed-es-ing                          1     91
+NULL-ion-ive-s                          1     91
+NULL-ed-ing-or                          1     91
+e-ing                                   3     90
+NULL-ed-er-ing-ly-s                     1     90
+NULL-s-t                                2     85
+ed-ies-y                                2     85
+NULL-er-ers-es-ing                      1     85
+ed-ion-or-ors                           1     84
+NULL-al-ary-s                           1     84
+NULL-ed-ing-y                           1     84
+al-e-ed-ing-ors                         1     84
+ed-er-ers-ing                           1     84
+NULL-ed-er                              1     81
+NULL-ies-y                              1     81
+NULL-al-ity                             1     80
+NULL-ed-er-ing-ly                       1     80
+ed-es-ing-ion-ive                       1     80
+NULL-er-ers-ing-s                       1     80
+NULL-ed-ive                             1     80
+NULL-es-man                             1     80
+e-ed-er-es-ing                          1     78
+'s-NULL-ly-s                            1     77
+NULL-ly-r-rs                            1     77
+NULL-ed-er-ers-s                        1     75
+NULL-d-ly-r-st-t                        1     75
+NULL-ive-s                              1     72
+NULL-al-ism-s                           1     72
+NULL-ic-ism-s                           1     72
+ed-ing-ion                              1     72
+ed-ing-or-ors                           1     72
+d-rs                                    3     71
+NULL-ed-ful                             1     70
+NULL-ion-ly                             1     70
+NULL-ed-ing-s-y                         1     70
+NULL-ion-or                             1     70
+NULL-ies-s-y                            1     66
+NULL-d-r-s                              1     63
+NULL-ion-s                              1     63
+NULL-ed-ly                              1     63
+e-ed-ies-y                              1     63
+NULL-ic-s-y                             1     60
+NULL-e-ity-ly                           1     60
+NULL-ity-ly-s                           1     60
+NULL-ed-y                               1     56
+NULL-ing-s-y                            1     55
+NULL-ly-r-st                            1     55
+e-ed-ers-ing                            1     55
+NULL-d-ful-s                            1     55
+NULL-er-ly-s                            1     55
+'s-NULL-es                              1     54
+ed-ing-ors                              1     54
+NULL-d-s-y                              1     54
+NULL-n-r-rs                             1     50
+'s-NULL-d-s                             1     50
+NULL-er-ing                             1     50
+NULL-es-ing                             1     50
+ed-or                                   2     49
+al-e-ity                                1     49
+e-es-ion                                1     49
+NULL-d-r                                1     49
+NULL-ly-y                               1     48
+NULL-r-st                               1     48
+ed-ers-ing                              1     45
+NULL-man-s                              1     45
+'s-NULL-ly                              1     45
+NULL-ing-n                              1     45
+NULL-es-ic                              1     45
+ng-ons                                  1     45
+NULL-d-n-s                              1     45
+ce-tly                                  1     45
+NULL-ive                                1     42
+NULL-rs                                 1     42
+s-y                                     3     40
+ed-y                                    2     40
+ied-ies-y                               1     40
+'s-NULL-y                               1     40
+NULL-es-s                               1     40
+ed-ive                                  1     35
+ed-ing-s                                1     35
+ed-ors                                  1     30
+e-ies-y                                 1     30
+r-s                                     1     12
+                                        1     -6
+--------------------------------------------------------------
+*** Stems in each signature
+
+=============================================
+NULL-s                         
+
+accelerometer achievement  action       actor        adjustment   adult       
+advantage    adventure    affair       afternoon    afterward    agent       
+agreement    airplane     allotment    allowance    alternative  ambition    
+american     amount       angle        animal       apartment    appearance  
+applicant    application  architect    argument     arise        arrangement 
+article      aspect       assignment   assistant    association  assumption  
+athletic     attitude     attorney     attraction   audience     automobile  
+barrel       barrier      bastard      become       begin        beginning   
+being        belgian      belief       benefit      beside       blade       
+blanket      board        bomber       border       bottle       bottom      
+brain        breast       bubble       builder      building     bullet      
+button       calculation  calendar     camera       campaign     candidate   
+cardinal     career       carrier      chain        chamber      champion    
+channel      chapter      character    characteristic cheek        chicken     
+choice       choose       cigarette    circumstance citizen      cleaner     
+client       clock        cloud        coating      colleague    collection  
+college      column       combination  commissioner commitment   committee   
+communication communist    companion    complaint    component    composer    
+composition  concentration conception   concert      conference   conjugate   
+connection   consequence  consideration consumer     contact      contest     
+contribution control      conversation conviction   cooperative  corner      
+corporation  costume      counter      counterpart  course       cousin      
+creature     crime        criticism    crystal      culture      curtain     
+curve        customer     dancer       danger       daughter     dealer      
+death        decade       decision     decoration   deduction    defense     
+degree       delegate     depth        description  designer     detective   
+device       diagram      difference   dinner       director     discussion  
+disease      dispute      distance     distinction  distribution district    
+division     document     dollar       douglas      dozen        drawing     
+driver       earning      earthquake   edition      editor       editorial   
+effort       election     electronic   employee     employer     engagement  
+enterprise   equation     equivalent   error        essay        establishment
+evening      event        examination  example      exceed       executive   
+expectation  expenditure  expense      expert       explanation  export      
+expression   extension    fabric       farmer       favorite     feeling     
+fellow       female       fence        fiber        field        fighter     
+finding      finger       flame        flight       floor        flower      
+fluid        forest       formulation  fraction     fruit        garden      
+generation   generator    giant        grade        grain        grave       
+ground       group        guerrilla    guest        habit        hazard      
+hearing      heart        height       highway      historian    holiday     
+horse        hospital     hotel        hundred      illustration image       
+implication  impression   improvement  impulse      incident     indian      
+indication   indicator    insect       insight      installation instance    
+instruction  intellectual intention    interpretation intersection interval    
+invasion     investigation invitation   joint        judgment     junior      
+knight       language     lawyer       layer        leader       league      
+leave        lecture      legend       lesson       letter       limitation  
+listener     location     lover        lyric        machine      magazine    
+maker        manager      manner       manufacturer marine       marriage    
+material     matter       measurement  mechanism    meeting      member      
+merchant     merit        message      method       mexican      million     
+mineral      minister     minute       miracle      missile      model       
+moment       monument     morning      motion       motive       motor       
+mountain     mouth        movement     movie        muscle       museum      
+musician     native       neighborhood nerve        network      newspaper   
+notion       novel        objection    objective    obligation   observation 
+observer     occur        occurrence   operator     opinion      opponent    
+orbit        organization outcome      owner        painter      painting    
+panel        paper        paragraph    parent       particle     partner     
+passage      passenger    passion      patent       pattern      payment     
+perception   performance  permit       persian      phase        philosopher 
+phrase       picture      piece        pilot        pitcher      plastic     
+plate        player       pocket       poetic       politician   polynomial  
+population   position     possession   pound        prayer       preparation 
+pressure     price        priest       principle    problem      procedure   
+proceeding   producer     professional professor    profit       projection  
+proposal     protein      province     provision    psychologist publication 
+publisher    purpose      quack        qualification quarter      queen       
+railroad     rating       reader       reading      rebel        recommendation
+recording    recruit      refer        reference    reform       regulation  
+relation     relationship religion     reporter     representation representative
+republican   requirement  reservation  resident     resource     respondent  
+response     restaurant   restriction  revenue      revision     rhode       
+richard      rider        rifle        right        river        robert      
+roger        roman        russian      saloon       sample       sanction    
+saving       scene        scholarship  school       science      scientist   
+screen       secant       section      sector       segment      selection   
+senator      sensation    servant      service      session      setting     
+shade        shadow       sheet        shell        shelter      shore       
+shoulder     sight        signal       singer       sister       situation   
+slave        sleeve       snake        soldier      solution     sometime    
+source       southerner   soviet       speaker      specialist   specimen    
+spectator    speed        spring       staff        standard     statement   
+station      statue       stock        stone        stranger     stream      
+street       strike       string       strip        stroke       student     
+style        submarine    substance    suburb       suggestion   summer      
+sunday       surface      surrounding  system       table        talent      
+tappet       target       taxpayer     teacher      technique    temperature 
+tension      textile      thank        theater      their        theme       
+thing        thousand     threat       ticket       tissue       topic       
+tourist      toward       track        trader       trailer      transfer    
+traveler     treatment    trend        trial        trick        troop       
+truck        tumor        turnpike     undergraduate union        vacation    
+variable     vegetable    vehicle      verse        version      vessel      
+veteran      victim       village      virtue       visitor      voice       
+volume       volunteer    wagon        warning      water        weapon      
+weight       white        william      willing      window       worker      
+writer       writing      yankee       youngster    
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:      39840 +      50932 =      90772
+  Information in words as analyzed:      22105 +       2644 =      24749
+Average count of top 5 stems: 1102
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  592
+      tion    weight:   292 count:    73   
+       ion    weight:   279 count:    93   
+     ation    weight:   205 count:    41   
+        on    weight:   198 count:    99   
+        er    weight:   168 count:    84   
+         e    weight:   140 count:   140   
+         n    weight:   129 count:   129   
+       ent    weight:   108 count:    36   
+         r    weight:   105 count:   105   
+         t    weight:    95 count:    95   
+      ment    weight:    92 count:    23   
+        nt    weight:    92 count:    46   
+
+=============================================
+NULL-ly                        
+
+abrupt       absolute     according    accurate     adequate     annual      
+anxious      apparent     approximate  awful        beautiful    bitter      
+blind        blunt        brief        brilliant    careful      casual      
+cautious     certain      chief        common       comparative  conscious   
+consistent   continuous   curious      definite     deliberate   desperate   
+different    eager        earnest      economical   effective    efficient   
+emotional    enormous     entire       essential    eventual     evident     
+exact        exceptional  exclusive    experimental extensive    financial   
+formal       former       fortunate    frequent     fundamental  furious     
+generous     genuine      graceful     gradual      historical   hopeful     
+immediate    immense      impatient    important    increasing   independent 
+indirect     initial      instant      intense      literal      local       
+logical      loose        mental       mutual       natural      normal      
+obvious      occasional   original     painful      partial      particular  
+peculiar     permanent    physical     pleasant     political    positive    
+practical    precise      previous     principal    private      profound    
+prominent    prompt       proper       proportionate proud        quick       
+quiet        radical      rapid        recent       regular      repeated    
+reported     respective   rigid        rough        seeming      serious     
+severe       sharp        significant  silent       simultaneous slight      
+smooth       solemn       special      spontaneous  stiff        strict      
+striking     subsequent   substantial  successful   sudden       sufficient  
+superb       supposed     surprising   swift        technical    thorough    
+thoughtful   tight        total        traditional  tremendous   typical     
+ultimate     unconscious  unexpected   unfortunate  unique       unlike      
+unusual      usual        utter        vague        vigorous     violent     
+vivid        wonderful    
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:      11610 +      16187 =      27797
+  Information in words as analyzed:       6110 +        726 =       6836
+Average count of top 5 stems: 357
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  158
+        al    weight:    74 count:    37   
+       ous    weight:    48 count:    16   
+         l    weight:    46 count:    46   
+       ent    weight:    45 count:    15   
+        nt    weight:    42 count:    21   
+       ate    weight:    33 count:    11   
+        us    weight:    32 count:    16   
+         t    weight:    31 count:    31   
+       cal    weight:    30 count:    10   
+         e    weight:    29 count:    29   
+        te    weight:    26 count:    13   
+
+=============================================
+NULL-d                         
+
+accuse       achieve      acknowledge  acquire      admire       analyze     
+announce     anticipate   appreciate   appropriate  approve      arrange     
+arrive       assemble     assure       balance      behave       bounce      
+capture      cease        challenge    combine      compare      comprise    
+concede      conceive     concentrate  conclude     coordinate   curse       
+decline      define       demonstrate  devise       devote       discipline  
+disclose     discourage   dislike      divide       divorce      dominate    
+double       eliminate    emphasize    encourage    endure       enforce     
+engage       escape       evaluate     evidence     exaggerate   explore     
+expose       finance      formulate    glance       hesitate     ignore      
+illustrate   imagine      impose       induce       institute    introduce   
+investigate  invite       isolate      locate       oppose       organize    
+participate  pause        perceive     persuade     please       praise      
+prepare      promote      propose      pursue       puzzle       quote       
+realize      reduce       refuse       relieve      remove       replace     
+reserve      resolve      restore      resume       retire       reverse     
+secure       single       smoke        solve        spare        squeeze     
+stare        struggle     substitute   suite        suppose      surge       
+surprise     survive      symbolize    telephone    translate    unite       
+utilize      waste        welcome      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       7735 +       9603 =      17338
+  Information in words as analyzed:       4250 +        516 =       4766
+Average count of top 5 stems: 237
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  117
+         e    weight:   117 count:   117 **
+       ate    weight:    54 count:    18   
+        te    weight:    54 count:    27   
+        se    weight:    34 count:    17   
+        re    weight:    28 count:    14   
+        ve    weight:    24 count:    12   
+        ce    weight:    24 count:    12   
+
+=============================================
+NULL-d-s                       
+
+advance      agree        argue        associate    assume       average     
+believe      cause        change       charge       circle       constitute  
+continue     contribute   couple       create       decide       declare     
+decrease     derive       describe     deserve      desire       determine   
+discharge    emerge       enable       estimate     exercise     experience  
+feature      figure       frame        graduate     guarantee    guide       
+house        improve      include      increase     indicate     influence   
+involve      issue        judge        measure      notice       operate     
+place        practice     preserve     privilege    promise      provide     
+purchase     raise        range        recognize    release      require     
+resemble     schedule     score        sense        sentence     serve       
+shape        share        smile        space        stage        store       
+structure    taste        title        trace        trouble      value       
+
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       5740 +       7962 =      13702
+  Information in words as analyzed:       2650 +        325 =       2975
+Average count of top 5 stems: 557
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  78
+         e    weight:    78 count:    78 **
+        re    weight:    20 count:    10   
+        se    weight:    20 count:    10   
+
+=============================================
+NULL-ed-ing-s                  
+
+allow        answer       appeal       appear       attack       attempt     
+belong       claim        concern      consider     consist      cover       
+demand       depend       develop      dream        enjoy        enter       
+exist        expect       explain      extend       grant        happen      
+honor        interest     learn        level        limit        maintain    
+mount        offer        point        print        proceed      question    
+record       remain       remember     represent    request      result      
+return       reveal       review       shift        start        survey      
+train        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       4660 +       8425 =      13085
+  Information in words as analyzed:       1525 +        189 =       1714
+Average count of top 5 stems: 519
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  49
+         t    weight:    15 count:    15   
+
+=============================================
+NULL-ed-ing                    
+
+accept       adjust       assign       attend       avoid        bless       
+borrow       breath       climb        confront     consult      crack       
+crawl        cross        defend       destroy      disturb      drift       
+entertain    establish    expand       finish       frighten     gather      
+guess        laugh        mention      obtain       recommend    regard      
+render       scream       search       shout        suffer       threaten    
+twist        watch        yield        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       3345 +       5431 =       8776
+  Information in words as analyzed:       1245 +        157 =       1402
+Average count of top 5 stems: 194
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  39
+
+=============================================
+NULL-ed                        
+
+abandon      absorb       accomplish   afford       alarm        alter       
+anchor       arrest       assert       attach       attain       beard       
+bother       brush        confirm      convert      convey       crash       
+credit       crouch       defeat       delay        deposit      desert      
+disappear    distinguish  erect        exert        exploit      flood       
+focus        fulfill      furnish      grasp        insert       install     
+intend       knock        label        launch       lower        narrow      
+neglect      polish       proclaim     register     relax        resent      
+resist       respond      retreat      scrap        shock        slump       
+stack        suspect      sustain      swallow      trust        wander      
+whisper      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       4020 +       4942 =       8962
+  Information in words as analyzed:       1915 +        243 =       2158
+Average count of top 5 stems: 84
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  61
+         t    weight:    17 count:    17   
+
+=============================================
+'s-NULL                        
+
+barco        brown        captain      chicago      child        children    
+christ       company      country      eisenhower   enemy        faulkner    
+fromm        garibaldi    gavin        georgia      hardy        helva       
+hetman       hudson       industry     johnson      kennedy      khrushchev  
+latter       malraux      mayor        mercer       o'*banion    palfrey     
+party        peter        plato        rayburn      scotty       secretary   
+shakespeare  steele       there        today        trevelyan    university  
+woman        women        wright       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       3070 +       3946 =       7016
+  Information in words as analyzed:       1525 +        188 =       1713
+Average count of top 5 stems: 839
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  45
+         y    weight:    12 count:    12   
+         n    weight:    12 count:    12   
+
+=============================================
+NULL-al-s                      
+
+accident     addition     classic      congregation convention   denomination
+development  dimension    direction    economic     emotion      exception   
+experiment   institution  instrument   occasion     operation    person      
+proportion   region       season       sentiment    tradition    
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       2055 +       3501 =       5556
+  Information in words as analyzed:       1055 +        116 =       1171
+Average count of top 5 stems: 329
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  23
+      tion    weight:    44 count:    11   
+       ion    weight:    42 count:    14   
+        on    weight:    32 count:    16   
+         n    weight:    16 count:    16   
+
+=============================================
+NULL-ed-s                      
+
+award        block        center       check        compound     crowd       
+detail       differ       display      encounter    favor        import      
+insist       interview    number       plant        protest      recall      
+remark       repair       retain       round        screw        smell       
+sound        spirit       sponsor      strain       succeed      wheel       
+wound        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       2325 +       3274 =       5599
+  Information in words as analyzed:        965 +        119 =       1084
+Average count of top 5 stems: 323
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  31
+
+=============================================
+NULL-ing                       
+
+accompany    accord       apply        bloom        broadcast    broaden     
+brood        burst        carry        charm        comfort      counsel     
+creep        drill        dwell        forecast     multiply     pretend     
+satisfy      scratch      shoot        sleep        spray        steer       
+strengthen   study        supply       sweep        swing        thrust      
+tower        undergo      understand   
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       2350 +       3152 =       5502
+  Information in words as analyzed:       1065 +        134 =       1199
+Average count of top 5 stems: 193
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  33
+
+=============================================
+e-ed-es-ing                    
+
+assum        averag       believ       chang        charg        coupl       
+decid        declar       describ      determin     enabl        handl       
+improv       includ       increas      involv       measur       preserv     
+promis       provid       purchas      recogniz     requir       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       1960 +       3154 =       5114
+  Information in words as analyzed:        735 +         91 =        826
+Average count of top 5 stems: 450
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  23
+
+=============================================
+e-ed-ing                       
+
+accus        achiev       acquir       analyz       arrang       assur       
+bounc        challeng     combin       compar       conclud      declin      
+defin        encourag     endur        engag        financ       glanc       
+introduc     invit        oppos        organiz      pleas        prepar      
+pursu        puzzl        realiz       reduc        replac       retir       
+struggl      surpris      utiliz       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       2290 +       2964 =       5254
+  Information in words as analyzed:       1000 +        126 =       1126
+Average count of top 5 stems: 149
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  33
+
+=============================================
+ies-y                          
+
+abilit       activit      agenc        antibod      arter        authorit    
+boundar      capabilit    categor      centur       ceremon      communit    
+compan       countr       deficienc    deput        energ        entit       
+facilit      famil        frequenc     histor       identit      industr     
+inventor     laborator    libert       librar       melod        memor       
+missionar    necessit     opportunit   personalit   possibilit   probabilit  
+propert      qualit       quantit      realit       salar        secretar    
+securit      societ       sympath      territor     twent        universit   
+variet       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       2930 +       3268 =       6198
+  Information in words as analyzed:       1725 +        210 =       1935
+Average count of top 5 stems: 365
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  49
+        it    weight:    36 count:    18   
+         t    weight:    24 count:    24   
+         r    weight:    15 count:    15   
+
+=============================================
+NULL-ly-s                      
+
+active       commercial   constant     current      elder        extreme     
+final        frank        friend       general      heaven       ideal       
+month        official     plain        relative     scholar      solid       
+square       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       1460 +       2116 =       3576
+  Information in words as analyzed:        640 +         76 =        716
+Average count of top 5 stems: 371
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  19
+
+=============================================
+ed-ion                         
+
+accelerat    accumulat    calculat     celebrat     collaborat   compress    
+confus       connect      convict      dedicat      depress      distribut   
+frustrat     illuminat    integrat     interrupt    invent       motivat     
+nominat      populat      prohibit     revis        segregat     situat      
+sophisticat  
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       1720 +       2217 =       3937
+  Information in words as analyzed:        995 +        118 =       1113
+Average count of top 5 stems: 132
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  25
+        at    weight:    30 count:    15   
+         t    weight:    21 count:    21   
+
+=============================================
+NULL-ing-s                     
+
+account      break        bring        conflict     contrast     drink       
+engineer     guard        market       neighbor     program      reason      
+spend        sport        spread       stand        think        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       1370 +       2084 =       3454
+  Information in words as analyzed:        560 +         66 =        626
+Average count of top 5 stems: 411
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  17
+
+=============================================
+ed-ing                         
+
+admitt       advertis     compell      convinc      depart       descend     
+diminish     dragg        dropp        embarrass    excit        exclud      
+frown        haunt        inspir       mutter       occurr       permitt     
+preced       referr       snapp        startl       stepp        stirr       
+stopp        stumbl       surround     weigh        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       1695 +       1900 =       3595
+  Information in words as analyzed:        880 +        111 =        991
+Average count of top 5 stems: 95
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  28
+
+=============================================
+'s-NULL-s                      
+
+brother      court        department   doctor       father       foundation  
+governor     husband      island       mother       night        officer     
+other        people       president    
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       1190 +       1789 =       2979
+  Information in words as analyzed:        550 +         63 =        613
+Average count of top 5 stems: 819
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  15
+
+=============================================
+NULL-al                        
+
+analytic     civilization constitution continent    education    fiction     
+historic     logic        magic        margin       music        occupation  
+origin       philosophic  profession   ration       recreation   
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       1290 +       1876 =       3166
+  Information in words as analyzed:        725 +         82 =        807
+Average count of top 5 stems: 193
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  17
+         n    weight:    10 count:    10   
+
+=============================================
+NULL-ed-es-ing                 
+
+address      approach     dress        march        match        press       
+process      reach        stretch      touch        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        995 +       1887 =       2882
+  Information in words as analyzed:        350 +         42 =        392
+Average count of top 5 stems: 242
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  10
+
+=============================================
+e-ed-ion                       
+
+anticipat    appreciat    concentrat   coordinat    demonstrat   dominat     
+evaluat      formulat     illustrat    institut     isolat       separat     
+translat     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       1055 +       1616 =       2671
+  Information in words as analyzed:        565 +         64 =        629
+Average count of top 5 stems: 98
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  13
+        at    weight:    24 count:    12 **
+         t    weight:    13 count:    13 **
+
+=============================================
+NULL-ity                       
+
+absurd       authentic    complex      conform      familiar     major       
+minor        mortal       popular      prior        specific     stupid      
+superior     valid        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       1020 +       1396 =       2416
+  Information in words as analyzed:        495 +         61 =        556
+Average count of top 5 stems: 146
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  14
+
+=============================================
+on-ons-ve                      
+
+attracti     conclusi     decisi       decorati     distincti    extensi     
+impressi     objecti      positi       representati 
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        845 +       1357 =       2202
+  Information in words as analyzed:        430 +         48 =        478
+Average count of top 5 stems: 181
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  10
+         i    weight:    10 count:    10 **
+
+=============================================
+on-ve                          
+
+administrati aggressi     competiti    compulsi     conservati   constructi  
+cooperati    declarati    destructi    detecti      executi      explosi     
+imaginati    legislati    producti     protecti     restorati    successi    
+
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       1230 +       1571 =       2801
+  Information in words as analyzed:        800 +         90 =        890
+Average count of top 5 stems: 135
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  18
+        ti    weight:    28 count:    14   
+         i    weight:    18 count:    18 **
+
+=============================================
+ng-on-ons                      
+
+contributi   discussi     expressi     indicati     investigati  locati      
+milli        missi        operati      stati        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        815 +       1267 =       2082
+  Information in words as analyzed:        400 +         45 =        445
+Average count of top 5 stems: 206
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  10
+         i    weight:    10 count:    10 **
+
+=============================================
+ce-t                           
+
+absen        abundan      adolescen    assistan     attendan     competen    
+confiden     convenien    corresponden dependen     distan       dominan     
+elegan       excellen     ignoran      indifferen   innocen      insisten    
+intelligen   persisten    relevan      residen      toleran      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       1365 +       1509 =       2874
+  Information in words as analyzed:        920 +        108 =       1028
+Average count of top 5 stems: 101
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  23
+        en    weight:    28 count:    14   
+         n    weight:    23 count:    23 **
+
+=============================================
+d-r-rs                         
+
+cleane       compose      consume      counte       designe      listene     
+manne        painte       pitche       playe        praye        publishe    
+reporte      traile       travele      worke        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        980 +       1109 =       2089
+  Information in words as analyzed:        520 +         63 =        583
+Average count of top 5 stems: 178
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  16
+         e    weight:    16 count:    16 **
+
+=============================================
+NULL-ic-s                      
+
+artist       democrat     electron     formula      linguist     organ       
+period       photograph   rhythm       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        725 +       1105 =       1830
+  Information in words as analyzed:        355 +         39 =        394
+Average count of top 5 stems: 165
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  9
+
+=============================================
+ce-t-tly                       
+
+differen     impatien     importan     independen   instan       patien      
+presen       significan   silen        violen       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        765 +       1108 =       1873
+  Information in words as analyzed:        395 +         45 =        440
+Average count of top 5 stems: 354
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  10
+         n    weight:    10 count:    10 **
+
+=============================================
+NULL-ed-ion-s                  
+
+affect       content      contract     exhibit      project      reject      
+
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        595 +       1122 =       1717
+  Information in words as analyzed:        255 +         25 =        280
+Average count of top 5 stems: 110
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  6
+
+=============================================
+NULL-man                       
+
+black        clergy       congress     english      french       fresh       
+gentle       patrol       police       sales        states       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        770 +       1005 =       1775
+  Information in words as analyzed:        365 +         46 =        411
+Average count of top 5 stems: 276
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  11
+
+=============================================
+e-ed-ing-ion                   
+
+complet      devot        eliminat     locat        participat   promot      
+
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        565 +       1017 =       1582
+  Information in words as analyzed:        250 +         28 =        278
+Average count of top 5 stems: 148
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  6
+
+=============================================
+NULL-n                         
+
+africa       australia    broke        chose        easter       india       
+julia        korea        shake        spoke        stole        undertake   
+utopia       victoria     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        840 +        939 =       1779
+  Information in words as analyzed:        445 +         53 =        498
+Average count of top 5 stems: 110
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  14
+
+=============================================
+NULL-ion                       
+
+abstract     confess      corrupt      deduct       except       format      
+intent       quest        transit      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        650 +        877 =       1527
+  Information in words as analyzed:        325 +         41 =        366
+Average count of top 5 stems: 128
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  9
+
+=============================================
+NULL-ed-ion-ive                
+
+attract      construct    detect       protect      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        445 +        948 =       1393
+  Information in words as analyzed:        205 +         23 =        228
+Average count of top 5 stems: 122
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  4
+
+=============================================
+NULL-ary-s                     
+
+mission      planet       reaction     second       secret       supplement  
+
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        515 +        839 =       1354
+  Information in words as analyzed:        255 +         26 =        281
+Average count of top 5 stems: 215
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  6
+
+=============================================
+d-s                            
+
+addresse     allie        applie       approache    attribute    dresse      
+expresse     flashe       implie       marche       matche       passe       
+possesse     presse       processe     relate       replie       stresse     
+stretche     studie       supplie      switche      touche       varie       
+wishe        witnesse     worrie       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       1300 +       1141 =       2441
+  Information in words as analyzed:        905 +        112 =       1017
+Average count of top 5 stems: 136
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  27
+         e    weight:    27 count:    27 **
+
+=============================================
+NULL-ed-er-ers-ing             
+
+clean        listen       pitch        travel       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        470 +       1058 =       1528
+  Information in words as analyzed:        180 +         20 =        200
+Average count of top 5 stems: 120
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  4
+
+=============================================
+ng-on-ons-ve                   
+
+collecti     passi        relati       selecti      suggesti     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        470 +        840 =       1310
+  Information in words as analyzed:        215 +         22 =        237
+Average count of top 5 stems: 129
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  5
+
+=============================================
+d-r                            
+
+barbe        cleare       commande     compute      conditione   containe    
+controlle    coole        forme        founde       heate        inquire     
+interprete   kille        lighte       locke        murdere      parke       
+preache      reminde      rubbe        showe        slowe        tende       
+waite        walke        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:       1205 +       1029 =       2234
+  Information in words as analyzed:        825 +        102 =        927
+Average count of top 5 stems: 146
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  26
+         e    weight:    26 count:    26 **
+
+=============================================
+NULL-ed-er-ing-s               
+
+command      condition    contain      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        355 +        806 =       1161
+  Information in words as analyzed:        175 +         13 =        188
+Average count of top 5 stems: 218
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  3
+
+=============================================
+NULL-ity-ly                    
+
+actual       personal     public       similar      vital        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        435 +        716 =       1151
+  Information in words as analyzed:        205 +         24 =        229
+Average count of top 5 stems: 266
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  5
+
+=============================================
+NULL-ed-er-ers-ing-s           
+
+design       paint        report       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        385 +        950 =       1335
+  Information in words as analyzed:        160 +         11 =        171
+Average count of top 5 stems: 306
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  3
+
+=============================================
+ng-on                          
+
+adopti       completi     devoti       eliminati    participati  penetrati   
+promoti      reflecti     rotati       stimulati    
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        645 +        780 =       1425
+  Information in words as analyzed:        415 +         47 =        462
+Average count of top 5 stems: 48
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  10
+        ti    weight:    20 count:    10 **
+         i    weight:    10 count:    10 **
+
+=============================================
+NULL-y                         
+
+blood        eight        fault        guilt        health       might       
+scott        storm        victor       wealth       worth        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        620 +        638 =       1258
+  Information in words as analyzed:        315 +         38 =        353
+Average count of top 5 stems: 241
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  11
+
+=============================================
+NULL-es                        
+
+beach        bench        canvas       glass        negro        patch       
+potato       sketch       speech       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        560 +        642 =       1202
+  Information in words as analyzed:        275 +         34 =        309
+Average count of top 5 stems: 98
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  9
+
+=============================================
+NULL-er                        
+
+bright       broad        cheap        chest        ranch        small       
+sweat        tough        young        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        545 +        606 =       1151
+  Information in words as analyzed:        260 +         33 =        293
+Average count of top 5 stems: 262
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  9
+
+=============================================
+NULL-d-r-rs-s                  
+
+dance        observe      produce      trade        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        380 +        686 =       1066
+  Information in words as analyzed:        165 +         15 =        180
+Average count of top 5 stems: 185
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  4
+
+=============================================
+e-ion                          
+
+communicat   composit     cooperat     corporat     definit      equat       
+opposit      precis       terminat     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        560 +        649 =       1209
+  Information in words as analyzed:        355 +         42 =        397
+Average count of top 5 stems: 93
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  9
+
+=============================================
+e-ity                          
+
+activ        compulsiv    creativ      divers       intens       matur       
+mobil        productiv    secur        sensitiv     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        575 +        616 =       1191
+  Information in words as analyzed:        345 +         42 =        387
+Average count of top 5 stems: 115
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  10
+
+=============================================
+NULL-ed-ing-ion-ive-s          
+
+prevent      suggest      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        280 +        756 =       1036
+  Information in words as analyzed:        150 +          8 =        158
+Average count of top 5 stems: 208
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+ied-y                          
+
+accompan     clarif       identif      justif       occup        qualif      
+satisf       simplif      specif       testif       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        565 +        585 =       1150
+  Information in words as analyzed:        335 +         40 =        375
+Average count of top 5 stems: 54
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  10
+
+=============================================
+e-ed-es-ing-ion-or-ors         
+
+indicat      operat       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        285 +        784 =       1069
+  Information in words as analyzed:        145 +         13 =        158
+Average count of top 5 stems: 318
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-ed-ion                    
+
+elect        predict      react        restrict     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        345 +        564 =        909
+  Information in words as analyzed:        170 +         20 =        190
+Average count of top 5 stems: 84
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  4
+
+=============================================
+NULL-ity-s                     
+
+author       christian    human        uniform      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        335 +        532 =        867
+  Information in words as analyzed:        175 +         16 =        191
+Average count of top 5 stems: 191
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  4
+
+=============================================
+e-y                            
+
+comfortabl   conceivabl   considerabl  favorabl     gentl        greas       
+inevitabl    multipl      notabl       possibl      probabl      reasonabl   
+remarkabl    simpl        terribl      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        800 +        800 =       1600
+  Information in words as analyzed:        585 +         68 =        653
+Average count of top 5 stems: 258
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  15
+        bl    weight:    22 count:    11   
+         l    weight:    14 count:    14 **
+
+=============================================
+NULL-ed-ive-s                  
+
+effect       respect      subject      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        295 +        551 =        846
+  Information in words as analyzed:        150 +         12 =        162
+Average count of top 5 stems: 306
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  3
+
+=============================================
+e-ed-es-ion                    
+
+associat     constitut    graduat      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        285 +        514 =        799
+  Information in words as analyzed:        160 +         15 =        175
+Average count of top 5 stems: 133
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  3
+
+=============================================
+NULL-ed-es                     
+
+flash        stress       switch       witness      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        320 +        481 =        801
+  Information in words as analyzed:        160 +         18 =        178
+Average count of top 5 stems: 85
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  4
+
+=============================================
+NULL-ful-s                     
+
+meaning      power        thought      youth        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        320 +        482 =        802
+  Information in words as analyzed:        160 +         15 =        175
+Average count of top 5 stems: 334
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  4
+
+=============================================
+NULL-ism-s                     
+
+catholic     liberal      protestant   
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        275 +        479 =        754
+  Information in words as analyzed:        165 +         14 =        179
+Average count of top 5 stems: 103
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  3
+
+=============================================
+cy-t                           
+
+consisten    curren       decen        democra      efficien     frequen     
+infan        presiden     secre        urgen        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        525 +        509 =       1034
+  Information in words as analyzed:        340 +         40 =        380
+Average count of top 5 stems: 146
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  10
+
+=============================================
+NULL-ed-ers-ing-s              
+
+follow       support      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        235 +        529 =        764
+  Information in words as analyzed:        130 +          8 =        138
+Average count of top 5 stems: 434
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+e-ed-er-ers-ing                
+
+manag        manufactur   
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        225 +        490 =        715
+  Information in words as analyzed:        130 +         11 =        141
+Average count of top 5 stems: 149
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+e-ed-er-ers-es-ing             
+
+observ       produc       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        240 +        552 =        792
+  Information in words as analyzed:        125 +         10 =        135
+Average count of top 5 stems: 205
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+al-s                           
+
+ethic        mathematic   mechanic     metaphysic   physic       politic     
+statistic    tactic       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        465 +        507 =        972
+  Information in words as analyzed:        320 +         36 =        356
+Average count of top 5 stems: 126
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  8
+
+=============================================
+NULL-ful                       
+
+cheer        dread        faith        grace        peace        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        325 +        390 =        715
+  Information in words as analyzed:        160 +         20 =        180
+Average count of top 5 stems: 86
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  5
+
+=============================================
+NULL-ed-ful-s                  
+
+color        doubt        skill        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        270 +        459 =        729
+  Information in words as analyzed:        125 +          9 =        134
+Average count of top 5 stems: 174
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  3
+
+=============================================
+NULL-er-ers-s                  
+
+commission   engine       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        210 +        424 =        634
+  Information in words as analyzed:        130 +          9 =        139
+Average count of top 5 stems: 145
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+r-st                           
+
+bigge        deepe        earlie       greate       harde        highe       
+neare        smalle       stronge      younge       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        480 +        415 =        895
+  Information in words as analyzed:        295 +         36 =        331
+Average count of top 5 stems: 163
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  10
+         e    weight:    10 count:    10 **
+
+=============================================
+ion-or                         
+
+administrat  profess      prosecut     refrigerat   
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        300 +        425 =        725
+  Information in words as analyzed:        205 +         22 =        227
+Average count of top 5 stems: 81
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  4
+
+=============================================
+NULL-ed-ing-ly-s               
+
+order        present      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        220 +        463 =        683
+  Information in words as analyzed:        120 +          7 =        127
+Average count of top 5 stems: 535
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+'s-NULL-al-s                   
+
+government   nation       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        200 +        384 =        584
+  Information in words as analyzed:        125 +          9 =        134
+Average count of top 5 stems: 621
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-t                         
+
+brand        chris        forge        modes        rabbi        though      
+
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        335 +        341 =        676
+  Information in words as analyzed:        180 +         20 =        200
+Average count of top 5 stems: 238
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  6
+
+=============================================
+NULL-ed-ing-ion                
+
+adopt        discuss      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        210 +        421 =        631
+  Information in words as analyzed:        120 +         13 =        133
+Average count of top 5 stems: 141
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-d-r-rs                    
+
+manage       manufacture  
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        195 +        367 =        562
+  Information in words as analyzed:        125 +          9 =        134
+Average count of top 5 stems: 133
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+al-e-ed-ing                    
+
+arriv        refus        remov        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        240 +        360 =        600
+  Information in words as analyzed:        115 +         11 =        126
+Average count of top 5 stems: 135
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  3
+
+=============================================
+e-es-ing                       
+
+becom        choos        sampl        strik        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        260 +        312 =        572
+  Information in words as analyzed:        130 +         14 =        144
+Average count of top 5 stems: 201
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  4
+
+=============================================
+NULL-ary-ed-s                  
+
+bound        comment      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        190 +        343 =        533
+  Information in words as analyzed:        110 +          7 =        117
+Average count of top 5 stems: 87
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-ed-er-ing                 
+
+found        preach       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        195 +        361 =        556
+  Information in words as analyzed:        110 +         11 =        121
+Average count of top 5 stems: 313
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-er-ers-ing                
+
+build        fight        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        200 +        380 =        580
+  Information in words as analyzed:        110 +         12 =        122
+Average count of top 5 stems: 248
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-ism-ly                    
+
+national     social       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        180 +        307 =        487
+  Information in words as analyzed:        115 +         12 =        127
+Average count of top 5 stems: 417
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-er-ers                    
+
+should       southern     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        180 +        307 =        487
+  Information in words as analyzed:        115 +         12 =        127
+Average count of top 5 stems: 585
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+'s-NULL-ism-ly-s               
+
+individual   
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        130 +        325 =        455
+  Information in words as analyzed:        110 +          5 =        115
+Average count of top 5 stems: 354
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ary                       
+
+parliament   revolution   
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        180 +        306 =        486
+  Information in words as analyzed:        135 +         15 =        150
+Average count of top 5 stems: 57
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-es-ful-ion-ive-or         
+
+success      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        145 +        406 =        551
+  Information in words as analyzed:        120 +         11 =        131
+Average count of top 5 stems: 263
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-ing-ion-ive-or         
+
+collect      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        145 +        406 =        551
+  Information in words as analyzed:        120 +         11 =        131
+Average count of top 5 stems: 197
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+al-e                           
+
+agricultur   architectur  cultur       natur        reviv        sever       
+
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        330 +        349 =        679
+  Information in words as analyzed:        225 +         25 =        250
+Average count of top 5 stems: 191
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  6
+
+=============================================
+NULL-ed-er-s                   
+
+murder       remind       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        180 +        306 =        486
+  Information in words as analyzed:        105 +          7 =        112
+Average count of top 5 stems: 87
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-ed-t                      
+
+complain     restrain     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        170 +        272 =        442
+  Information in words as analyzed:        115 +          9 =        124
+Average count of top 5 stems: 40
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-d-ly                      
+
+complete     separate     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        170 +        272 =        442
+  Information in words as analyzed:        115 +          9 =        124
+Average count of top 5 stems: 248
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+al-e-ed                        
+
+approv       propos       structur     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        205 +        261 =        466
+  Information in words as analyzed:        125 +         12 =        137
+Average count of top 5 stems: 124
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  3
+
+=============================================
+NULL-ed-er-ers-es-ing-s        
+
+employ       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        145 +        406 =        551
+  Information in words as analyzed:        115 +          3 =        118
+Average count of top 5 stems: 129
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+ed-ion-ive                     
+
+execut       impress      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        165 +        256 =        421
+  Information in words as analyzed:        105 +         11 =        116
+Average count of top 5 stems: 104
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+e-ed-es-ing-ion                
+
+contribut    
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        120 +        276 =        396
+  Information in words as analyzed:        100 +          8 =        108
+Average count of top 5 stems: 145
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-er-ers-ies-ing-s-y     
+
+count        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        155 +        465 =        620
+  Information in words as analyzed:        120 +          3 =        123
+Average count of top 5 stems: 321
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ic                        
+
+homer        pathet       patriot      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        195 +        235 =        430
+  Information in words as analyzed:        120 +         14 =        134
+Average count of top 5 stems: 23
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  3
+
+=============================================
+NULL-r-rs-s                    
+
+office       write        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        165 +        256 =        421
+  Information in words as analyzed:         95 +          7 =        102
+Average count of top 5 stems: 388
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+ed-er-ing                      
+
+comput       controll     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        160 +        241 =        401
+  Information in words as analyzed:        105 +         10 =        115
+Average count of top 5 stems: 58
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+ed-ion-or                      
+
+educat       instruct     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        160 +        241 =        401
+  Information in words as analyzed:        105 +         10 =        115
+Average count of top 5 stems: 147
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-ed-ion-ly-or-ors          
+
+direct       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        135 +        351 =        486
+  Information in words as analyzed:        110 +          9 =        119
+Average count of top 5 stems: 592
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-es-ing-ion             
+
+express      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        125 +        300 =        425
+  Information in words as analyzed:        105 +         10 =        115
+Average count of top 5 stems: 229
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-er-s                      
+
+chart        petition     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        155 +        227 =        382
+  Information in words as analyzed:        100 +          8 =        108
+Average count of top 5 stems: 58
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+'s-NULL-n                      
+
+america      russia       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        155 +        225 =        380
+  Information in words as analyzed:        100 +          8 =        108
+Average count of top 5 stems: 475
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-ion-ive-ly                
+
+distinct     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        115 +        253 =        368
+  Information in words as analyzed:        100 +         10 =        110
+Average count of top 5 stems: 115
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-ing-ion-s              
+
+reflect      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        120 +        276 =        396
+  Information in words as analyzed:        100 +          4 =        104
+Average count of top 5 stems: 139
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-er-ly                     
+
+great        strong       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        155 +        225 =        380
+  Information in words as analyzed:         95 +          9 =        104
+Average count of top 5 stems: 595
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-ed-ing-ion-ive            
+
+select       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        125 +        300 =        425
+  Information in words as analyzed:        105 +         11 =        116
+Average count of top 5 stems: 169
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+al-ed                          
+
+dispos       inform       orient       renew        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        215 +        210 =        425
+  Information in words as analyzed:        135 +         15 =        150
+Average count of top 5 stems: 41
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  4
+
+=============================================
+ng-on-ve                       
+
+creati       preventi     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        150 +        211 =        361
+  Information in words as analyzed:        100 +          8 =        108
+Average count of top 5 stems: 88
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-ism                       
+
+capital      journal      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        150 +        210 =        360
+  Information in words as analyzed:        105 +         12 =        117
+Average count of top 5 stems: 77
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-d-rs                      
+
+advise       settle       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        150 +        210 =        360
+  Information in words as analyzed:         95 +          7 =        102
+Average count of top 5 stems: 79
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+e-ed-es-ing-ion-ive-or         
+
+creat        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        135 +        351 =        486
+  Information in words as analyzed:        105 +          8 =        113
+Average count of top 5 stems: 286
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ers                       
+
+foreign      prison       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        145 +        196 =        341
+  Information in words as analyzed:        100 +         12 =        112
+Average count of top 5 stems: 116
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+d-r-rs-s                       
+
+carrie       employe      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        145 +        196 =        341
+  Information in words as analyzed:         90 +          8 =         98
+Average count of top 5 stems: 132
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-ed-ers-ing                
+
+perform      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        110 +        231 =        341
+  Information in words as analyzed:         95 +         10 =        105
+Average count of top 5 stems: 94
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+e-ed-es-ing-ity                
+
+continu      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        110 +        231 =        341
+  Information in words as analyzed:         90 +          7 =         97
+Average count of top 5 stems: 367
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-r                         
+
+commute      marty        merge        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        175 +        188 =        363
+  Information in words as analyzed:        110 +         11 =        121
+Average count of top 5 stems: 24
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  3
+
+=============================================
+NULL-al-ing-s                  
+
+function     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        105 +        210 =        315
+  Information in words as analyzed:         90 +          4 =         94
+Average count of top 5 stems: 197
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ary-er-ers-s              
+
+custom       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        115 +        253 =        368
+  Information in words as analyzed:         95 +          3 =         98
+Average count of top 5 stems: 113
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-ies-y                  
+
+discover     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        105 +        210 =        315
+  Information in words as analyzed:         90 +          4 =         94
+Average count of top 5 stems: 168
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-ion-ive-s              
+
+object       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        115 +        253 =        368
+  Information in words as analyzed:         95 +          3 =         98
+Average count of top 5 stems: 252
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-ful-ing-s              
+
+wonder       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        115 +        253 =        368
+  Information in words as analyzed:         95 +          3 =         98
+Average count of top 5 stems: 207
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-ing-or-ors-s           
+
+visit        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        125 +        300 =        425
+  Information in words as analyzed:        100 +          3 =        103
+Average count of top 5 stems: 252
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-s-y                       
+
+length       master       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        140 +        182 =        322
+  Information in words as analyzed:         90 +          7 =         97
+Average count of top 5 stems: 128
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-n-s                       
+
+mistake      ratio        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        140 +        183 =        323
+  Information in words as analyzed:         90 +          7 =         97
+Average count of top 5 stems: 65
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-ed-es-ion                 
+
+possess      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        105 +        210 =        315
+  Information in words as analyzed:         90 +          8 =         98
+Average count of top 5 stems: 69
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+al-e-ed-es-ing                 
+
+practic      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        105 +        210 =        315
+  Information in words as analyzed:         85 +          5 =         90
+Average count of top 5 stems: 238
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ion-ive-s                 
+
+product      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        105 +        210 =        315
+  Information in words as analyzed:         90 +          4 =         94
+Average count of top 5 stems: 368
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-ing-or                 
+
+conduct      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        105 +        210 =        315
+  Information in words as analyzed:         90 +          8 =         98
+Average count of top 5 stems: 148
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+e-ing                          
+
+compet       negotiat     trembl       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        175 +        188 =        363
+  Information in words as analyzed:        120 +         14 =        134
+Average count of top 5 stems: 30
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  3
+
+=============================================
+NULL-ed-er-ing-ly-s            
+
+light        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        120 +        276 =        396
+  Information in words as analyzed:         95 +          3 =         98
+Average count of top 5 stems: 475
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-s-t                       
+
+bridge       plane        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        135 +        169 =        304
+  Information in words as analyzed:         85 +          7 =         92
+Average count of top 5 stems: 153
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+ed-ies-y                       
+
+injur        inquir       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        135 +        169 =        304
+  Information in words as analyzed:         85 +          7 =         92
+Average count of top 5 stems: 54
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+NULL-er-ers-es-ing             
+
+teach        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        115 +        253 =        368
+  Information in words as analyzed:         95 +          9 =        104
+Average count of top 5 stems: 268
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+ed-ion-or-ors                  
+
+generat      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        100 +        190 =        290
+  Information in words as analyzed:         85 +          7 =         92
+Average count of top 5 stems: 89
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-al-ary-s                  
+
+element      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        100 +        190 =        290
+  Information in words as analyzed:         85 +          4 =         89
+Average count of top 5 stems: 189
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-ing-y                  
+
+deliver      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        100 +        190 =        290
+  Information in words as analyzed:         85 +          4 =         89
+Average count of top 5 stems: 83
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+al-e-ed-ing-ors                
+
+surviv       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        105 +        210 =        315
+  Information in words as analyzed:         85 +          7 =         92
+Average count of top 5 stems: 106
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+ed-er-ers-ing                  
+
+publish      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        100 +        190 =        290
+  Information in words as analyzed:         85 +          7 =         92
+Average count of top 5 stems: 123
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-er                     
+
+interpret    
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         95 +        171 =        266
+  Information in words as analyzed:         85 +          7 =         92
+Average count of top 5 stems: 43
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ies-y                     
+
+difficult    
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         95 +        171 =        266
+  Information in words as analyzed:         85 +          5 =         90
+Average count of top 5 stems: 284
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-al-ity                    
+
+electric     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         95 +        171 =        266
+  Information in words as analyzed:         85 +          8 =         93
+Average count of top 5 stems: 140
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-er-ing-ly              
+
+clear        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        110 +        231 =        341
+  Information in words as analyzed:         90 +          7 =         97
+Average count of top 5 stems: 401
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+ed-es-ing-ion-ive              
+
+relat        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        110 +        231 =        341
+  Information in words as analyzed:         90 +          8 =         98
+Average count of top 5 stems: 238
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-er-ers-ing-s              
+
+speak        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        110 +        231 =        341
+  Information in words as analyzed:         90 +          3 =         93
+Average count of top 5 stems: 253
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-ive                    
+
+progress     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         95 +        171 =        266
+  Information in words as analyzed:         85 +          8 =         93
+Average count of top 5 stems: 150
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-es-man                    
+
+business     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         95 +        171 =        266
+  Information in words as analyzed:         85 +          8 =         93
+Average count of top 5 stems: 421
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+e-ed-er-es-ing                 
+
+receiv       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        100 +        190 =        290
+  Information in words as analyzed:         80 +          5 =         85
+Average count of top 5 stems: 304
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+'s-NULL-ly-s                   
+
+patient      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         95 +        171 =        266
+  Information in words as analyzed:         80 +          4 =         84
+Average count of top 5 stems: 152
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ly-r-rs                   
+
+strange      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         95 +        171 =        266
+  Information in words as analyzed:         80 +          4 =         84
+Average count of top 5 stems: 140
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-er-ers-s               
+
+trail        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        105 +        210 =        315
+  Information in words as analyzed:         85 +          3 =         88
+Average count of top 5 stems: 78
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-d-ly-r-st-t               
+
+close        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        105 +        210 =        315
+  Information in words as analyzed:         80 +          3 =         83
+Average count of top 5 stems: 492
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ive-s                     
+
+prospect     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         90 +        153 =        243
+  Information in words as analyzed:         80 +          4 =         84
+Average count of top 5 stems: 69
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-al-ism-s                  
+
+critic       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         95 +        171 =        266
+  Information in words as analyzed:         80 +          3 =         83
+Average count of top 5 stems: 149
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ic-ism-s                  
+
+symbol       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         95 +        171 =        266
+  Information in words as analyzed:         80 +          3 =         83
+Average count of top 5 stems: 133
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+ed-ing-ion                     
+
+penetrat     
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         90 +        153 =        243
+  Information in words as analyzed:         80 +          7 =         87
+Average count of top 5 stems: 37
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+ed-ing-or-ors                  
+
+govern       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         95 +        171 =        266
+  Information in words as analyzed:         80 +          7 =         87
+Average count of top 5 stems: 121
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+d-rs                           
+
+followe      performe     planne       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        165 +        166 =        331
+  Information in words as analyzed:        120 +         13 =        133
+Average count of top 5 stems: 108
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  3
+
+=============================================
+NULL-ed-ful                    
+
+delight      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         90 +        153 =        243
+  Information in words as analyzed:         80 +          8 =         88
+Average count of top 5 stems: 71
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ion-ly                    
+
+perfect      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         90 +        153 =        243
+  Information in words as analyzed:         80 +          8 =         88
+Average count of top 5 stems: 100
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-ing-s-y                
+
+treat        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        100 +        190 =        290
+  Information in words as analyzed:         80 +          3 =         83
+Average count of top 5 stems: 146
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ion-or                    
+
+inspect      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         90 +        153 =        243
+  Information in words as analyzed:         80 +          8 =         88
+Average count of top 5 stems: 46
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ies-s-y                   
+
+factor       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         90 +        153 =        243
+  Information in words as analyzed:         75 +          3 =         78
+Average count of top 5 stems: 233
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-d-r-s                     
+
+receive      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         85 +        136 =        221
+  Information in words as analyzed:         70 +          4 =         74
+Average count of top 5 stems: 270
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ion-s                     
+
+concept      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         85 +        136 =        221
+  Information in words as analyzed:         75 +          4 =         79
+Average count of top 5 stems: 144
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-ly                     
+
+correct      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         85 +        136 =        221
+  Information in words as analyzed:         75 +          6 =         81
+Average count of top 5 stems: 74
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+e-ed-ies-y                     
+
+assembl      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         85 +        136 =        221
+  Information in words as analyzed:         70 +          4 =         74
+Average count of top 5 stems: 94
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ic-s-y                    
+
+german       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         85 +        136 =        221
+  Information in words as analyzed:         70 +          3 =         73
+Average count of top 5 stems: 202
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-e-ity-ly                  
+
+moral        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         90 +        153 =        243
+  Information in words as analyzed:         75 +          4 =         79
+Average count of top 5 stems: 195
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ity-ly-s                  
+
+equal        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         90 +        153 =        243
+  Information in words as analyzed:         75 +          3 =         78
+Average count of top 5 stems: 172
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ed-y                      
+
+recover      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         80 +        120 =        200
+  Information in words as analyzed:         70 +          4 =         74
+Average count of top 5 stems: 48
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ing-s-y                   
+
+stick        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         85 +        136 =        221
+  Information in words as analyzed:         70 +          3 =         73
+Average count of top 5 stems: 78
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ly-r-st                   
+
+large        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         85 +        136 =        221
+  Information in words as analyzed:         70 +          3 =         73
+Average count of top 5 stems: 605
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+e-ed-ers-ing                   
+
+settl        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         85 +        136 =        221
+  Information in words as analyzed:         70 +          6 =         76
+Average count of top 5 stems: 115
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-d-ful-s                   
+
+force        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         85 +        136 =        221
+  Information in words as analyzed:         70 +          3 =         73
+Average count of top 5 stems: 494
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-er-ly-s                   
+
+short        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         85 +        136 =        221
+  Information in words as analyzed:         70 +          3 =         73
+Average count of top 5 stems: 294
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+'s-NULL-es                     
+
+church       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         80 +        120 =        200
+  Information in words as analyzed:         70 +          6 =         76
+Average count of top 5 stems: 452
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+ed-ing-ors                     
+
+assess       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         80 +        120 =        200
+  Information in words as analyzed:         70 +          7 =         77
+Average count of top 5 stems: 39
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-d-s-y                     
+
+handle       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         80 +        120 =        200
+  Information in words as analyzed:         65 +          3 =         68
+Average count of top 5 stems: 104
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-n-r-rs                    
+
+drive        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         80 +        120 =        200
+  Information in words as analyzed:         65 +          3 =         68
+Average count of top 5 stems: 222
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+'s-NULL-d-s                    
+
+state        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         80 +        120 =        200
+  Information in words as analyzed:         65 +          3 =         68
+Average count of top 5 stems: 1524
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-er-ing                    
+
+catch        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         80 +        120 =        200
+  Information in words as analyzed:         70 +          7 =         77
+Average count of top 5 stems: 69
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-es-ing                    
+
+cloth        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         80 +        120 =        200
+  Information in words as analyzed:         70 +          7 =         77
+Average count of top 5 stems: 152
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+ed-or                          
+
+aerat        elevat       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        105 +        100 =        205
+  Information in words as analyzed:         75 +          7 =         82
+Average count of top 5 stems: 21
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+al-e-ity                       
+
+univers      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         75 +        105 =        180
+  Information in words as analyzed:         65 +          5 =         70
+Average count of top 5 stems: 330
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+e-es-ion                       
+
+delegat      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         75 +        105 =        180
+  Information in words as analyzed:         65 +          5 =         70
+Average count of top 5 stems: 35
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-d-r                       
+
+examine      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         75 +        105 =        180
+  Information in words as analyzed:         65 +          4 =         69
+Average count of top 5 stems: 75
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ly-y                      
+
+honest       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         75 +        105 =        180
+  Information in words as analyzed:         65 +          3 =         68
+Average count of top 5 stems: 69
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-r-st                      
+
+simple       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         75 +        105 =        180
+  Information in words as analyzed:         65 +          3 =         68
+Average count of top 5 stems: 188
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+ed-ers-ing                     
+
+plann        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         75 +        105 =        180
+  Information in words as analyzed:         65 +          6 =         71
+Average count of top 5 stems: 217
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-man-s                     
+
+chair        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         75 +        105 =        180
+  Information in words as analyzed:         65 +          3 =         68
+Average count of top 5 stems: 156
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+'s-NULL-ly                     
+
+world        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         75 +        105 =        180
+  Information in words as analyzed:         65 +          5 =         70
+Average count of top 5 stems: 830
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ing-n                     
+
+throw        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         75 +        105 =        180
+  Information in words as analyzed:         65 +          3 =         68
+Average count of top 5 stems: 99
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-es-ic                     
+
+class        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         75 +        105 =        180
+  Information in words as analyzed:         65 +          5 =         70
+Average count of top 5 stems: 328
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+ng-ons                         
+
+negotiati    
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         75 +        105 =        180
+  Information in words as analyzed:         70 +          6 =         76
+Average count of top 5 stems: 28
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-d-n-s                     
+
+prove        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         75 +        105 =        180
+  Information in words as analyzed:         60 +          3 =         63
+Average count of top 5 stems: 151
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+ce-tly                         
+
+consequen    
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         75 +        105 =        180
+  Information in words as analyzed:         70 +          6 =         76
+Average count of top 5 stems: 61
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-ive                       
+
+excess       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         70 +         91 =        161
+  Information in words as analyzed:         65 +          8 =         73
+Average count of top 5 stems: 72
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-rs                        
+
+outside      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         70 +         91 =        161
+  Information in words as analyzed:         65 +          6 =         71
+Average count of top 5 stems: 218
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+s-y                            
+
+barne        charle       potter       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        130 +        100 =        230
+  Information in words as analyzed:         95 +         11 =        106
+Average count of top 5 stems: 48
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  3
+
+=============================================
+ed-y                           
+
+batter       destin       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:        100 +         90 =        190
+  Information in words as analyzed:         75 +          7 =         82
+Average count of top 5 stems: 29
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  2
+
+=============================================
+ied-ies-y                      
+
+suppl        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         70 +         91 =        161
+  Information in words as analyzed:         60 +          3 =         63
+Average count of top 5 stems: 185
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+'s-NULL-y                      
+
+earth        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         70 +         91 =        161
+  Information in words as analyzed:         60 +          3 =         63
+Average count of top 5 stems: 177
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+NULL-es-s                      
+
+angel        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         70 +         91 =        161
+  Information in words as analyzed:         60 +          3 =         63
+Average count of top 5 stems: 89
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+ed-ive                         
+
+initiat      
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         65 +         78 =        143
+  Information in words as analyzed:         60 +          5 =         65
+Average count of top 5 stems: 44
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+ed-ing-s                       
+
+stain        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         65 +         78 =        143
+  Information in words as analyzed:         55 +          3 =         58
+Average count of top 5 stems: 75
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+ed-ors                         
+
+invest       
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         60 +         66 =        126
+  Information in words as analyzed:         55 +          5 =         60
+Average count of top 5 stems: 27
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+e-ies-y                        
+
+polic        
+-------------------------
+                                         Phono      Ordering       Total
+Information in words if unanalyzed:         60 +         66 =        126
+  Information in words as analyzed:         50 +          3 =         53
+Average count of top 5 stems: 445
+
+-------------------------
+
+High frequency possible affixes 
+Number of stems:  1
+
+=============================================
+r-s                            
+
+teache       
+-----------------

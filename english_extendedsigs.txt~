@@ -1,0 +1,1549 @@
+Letter         count        frequency   
+'                      7416     0.008011
+)                       480     0.000518
+(                       480     0.000518
++                       150     0.000162
+.                         4     0.000004
+3                       466     0.000503
+4                        14     0.000015
+a                     70814     0.076493
+c                     39506     0.042674
+b                     14760     0.015944
+e                    109988     0.118808
+d                     34378     0.037135
+g                     24046     0.025974
+f                     11788     0.012733
+i                     83196     0.089868
+h                     18358     0.019830
+k                      6896     0.007449
+j                      1358     0.001467
+m                     24704     0.026685
+l                     46366     0.050084
+o                     55228     0.059657
+n                     69034     0.074570
+q                      1532     0.001655
+p                     25170     0.027188
+s                     77912     0.084160
+r                     73560     0.079459
+u                     25450     0.027491
+t                     67272     0.072667
+w                      6290     0.006794
+v                     11006     0.011889
+y                     11986     0.012947
+x                      2256     0.002437
+z                      3898     0.004211
+
+
+Total Score 6 e-ed-ing-ion e-ed-ing-ings ['ing', 'ed', 'e', 'ion'] ['ing', 'ed', 'e', 'ings']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ing         ion        
+e   e e        e ed       e ing      e ion     
+ed  ed e       ed ed      ed ing     ed ion    
+ing ing e      ing ed     ing ing    ing ion   
+ion ion e      ion ed     ion ing    ion ion   
+Information content in compressed form:  270
+Pair inventory {'ion:ed': 1, ':': 4, 'ion:e': 1, 'e:ing': 1, 'e:ion': 1, 'e:ed': 1, 'ed:e': 1, 'ing:ed': 1, 'ed:ing': 1, 'ing:e': 1, 'ion:ing': 1, 'ed:ion': 1, 'ing:ion': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+e             ed            ing           ings         
+e    e e          e ed         e ing        e ings      
+ed   ed e         ed ed        ed ing       ed ings     
+ing  ing e        ing ed       ing ing      ing ings    
+ings ings e       ings ed      ings ing     ings ings   
+Information content in compressed form:  300
+Pair inventory {'ing:ings': 1, 'ings:e': 1, 'ing:ed': 1, 'e:ing': 1, 'ed:ings': 1, 'ings:ing': 1, 'e:ed': 1, 'ings:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'ing:e': 1, ':': 4, 'e:ings': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 8 degree: 2
+
+e                                ed                               ing                              ion                             
+e        <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed       <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ion      <---- null ---->                
+Information content in compressed form:  56
+Pair inventory {':onngs': 3, ':': 10, 'onngs:': 3}
+
+
+Total Score 10 e-ed-ing-ion e-ed-ing-ions ['ing', 'ed', 'ion', 'e'] ['ing', 'ed', 'ions', 'e']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ing         ion        
+e   e e        e ed       e ing      e ion     
+ed  ed e       ed ed      ed ing     ed ion    
+ing ing e      ing ed     ing ing    ing ion   
+ion ion e      ion ed     ion ing    ion ion   
+Information content in compressed form:  270
+Pair inventory {'ion:ed': 1, ':': 4, 'ion:e': 1, 'e:ing': 1, 'e:ion': 1, 'e:ed': 1, 'ed:e': 1, 'ing:ed': 1, 'ed:ing': 1, 'ing:e': 1, 'ion:ing': 1, 'ed:ion': 1, 'ing:ion': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+e             ed            ing           ions         
+e    e e          e ed         e ing        e ions      
+ed   ed e         ed ed        ed ing       ed ions     
+ing  ing e        ing ed       ing ing      ing ions    
+ions ions e       ions ed      ions ing     ions ions   
+Information content in compressed form:  300
+Pair inventory {'ing:ed': 1, 'ed:ions': 1, 'e:ing': 1, 'ions:ing': 1, 'ions:ed': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'e:ions': 1, 'ing:e': 1, ':': 4, 'ions:e': 1, 'ing:ions': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 8 degree: 2
+
+e                                ed                               ing                              ion                             
+e        <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed       <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ion      <---- null ---->                
+Information content in compressed form:  16
+Pair inventory {'s:': 3, ':': 10, ':s': 3}
+
+
+Total Score 6 e-ed-ing-ion NULL-ation-ed-ing ['ing', 'ed', 'ion', 'e'] ['ing', 'ed', 'ation', 'NULL']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ing         ion        
+e   e e        e ed       e ing      e ion     
+ed  ed e       ed ed      ed ing     ed ion    
+ing ing e      ing ed     ing ing    ing ion   
+ion ion e      ion ed     ion ing    ion ion   
+Information content in compressed form:  270
+Pair inventory {'ion:ed': 1, ':': 4, 'ion:e': 1, 'e:ing': 1, 'e:ion': 1, 'e:ed': 1, 'ed:e': 1, 'ing:ed': 1, 'ed:ing': 1, 'ing:e': 1, 'ion:ing': 1, 'ed:ion': 1, 'ing:ion': 1}
+temp max length entries = 15 max length affixes: 5 degree: 1
+
+NULL            ation           ed              ing            
+NULL  NULL NULL      NULL ation     NULL ed        NULL ing      
+ation ation NULL     ation ation    ation ed       ation ing     
+ed    ed NULL        ed ation       ed ed          ed ing        
+ing   ing NULL       ing ation      ing ed         ing ing       
+Information content in compressed form:  306
+Pair inventory {':': 4, 'ing:ation': 1, ':ed': 1, 'ed:ation': 1, 'ation:': 1, 'ation:ed': 1, 'ation:ing': 1, ':ation': 1, ':ing': 1, 'ed:ing': 1, 'ing:': 1, 'ed:': 1, 'ing:ed': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 49 max length affixes: 9 degree: 2
+
+e                                                 ed                                                ing                                               ion                                              
+e         <---- null ---->                                 
+ed        <---- null ---->                                  <---- null ---->                                 
+ing       <---- null ---->                                  <---- null ---->                                 
+ion       <---- null ---->                                 
+Information content in compressed form:  188
+Pair inventory {':ionation': 2, ':e': 2, 'e:ionation': 1, 'ionation:': 2, 'e:': 2, 'ionation:e': 1, ':': 6}
+
+
+Total Score 9 e-ed-ing-ion e-ed-ing-ition ['ing', 'ed', 'e', 'ion'] ['ing', 'ed', 'e', 'ition']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ing         ion        
+e   e e        e ed       e ing      e ion     
+ed  ed e       ed ed      ed ing     ed ion    
+ing ing e      ing ed     ing ing    ing ion   
+ion ion e      ion ed     ion ing    ion ion   
+Information content in compressed form:  270
+Pair inventory {'ion:ed': 1, ':': 4, 'ion:e': 1, 'e:ing': 1, 'e:ion': 1, 'e:ed': 1, 'ed:e': 1, 'ing:ed': 1, 'ed:ing': 1, 'ing:e': 1, 'ion:ing': 1, 'ed:ion': 1, 'ing:ion': 1}
+temp max length entries = 15 max length affixes: 5 degree: 1
+
+e               ed              ing             ition          
+e     e e            e ed           e ing          e ition       
+ed    ed e           ed ed          ed ing         ed ition      
+ing   ing e          ing ed         ing ing        ing ition     
+ition ition e        ition ed       ition ing      ition ition   
+Information content in compressed form:  330
+Pair inventory {'e:ition': 1, 'e:ing': 1, 'ition:ing': 1, 'ing:ition': 1, 'ed:ition': 1, 'ition:e': 1, 'ed:e': 1, 'ing:ed': 1, 'ed:ing': 1, 'ition:ed': 1, 'e:ed': 1, 'ing:e': 1, ':': 4}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 9 degree: 2
+
+e                                ed                               ing                              ion                             
+e         <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed        <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing       <---- null ---->                 <---- null ---->                 <---- null ---->                
+ion       <---- null ---->                
+Information content in compressed form:  66
+Pair inventory {':': 10, ':ontion': 3, 'ontion:': 3}
+
+
+Total Score 6 e-ed-ing-ion e-ed-ion-ions ['ion', 'ed', 'e', 'ing'] ['ion', 'ed', 'e', 'ions']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ing         ion        
+e   e e        e ed       e ing      e ion     
+ed  ed e       ed ed      ed ing     ed ion    
+ing ing e      ing ed     ing ing    ing ion   
+ion ion e      ion ed     ion ing    ion ion   
+Information content in compressed form:  270
+Pair inventory {'ion:ed': 1, ':': 4, 'ion:e': 1, 'e:ing': 1, 'e:ion': 1, 'e:ed': 1, 'ed:e': 1, 'ing:ed': 1, 'ed:ing': 1, 'ing:e': 1, 'ion:ing': 1, 'ed:ion': 1, 'ing:ion': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+e             ed            ion           ions         
+e    e e          e ed         e ion        e ions      
+ed   ed e         ed ed        ed ion       ed ions     
+ion  ion e        ion ed       ion ion      ion ions    
+ions ions e       ions ed      ions ion     ions ions   
+Information content in compressed form:  300
+Pair inventory {'ions:ion': 1, 'ion:e': 1, 'ed:ions': 1, 'ion:ed': 1, 'e:ion': 1, 'ions:ed': 1, 'e:ed': 1, 'ed:e': 1, 'e:ions': 1, 'ion:ions': 1, ':': 4, 'ions:e': 1, 'ed:ion': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 8 degree: 2
+
+e                                ed                               ing                              ion                             
+e        <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed       <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing      <---- null ---->                
+ion      <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  56
+Pair inventory {':': 10, ':ngons': 3, 'ngons:': 3}
+
+
+Total Score 8 e-ed-ing-ion NULL-ed-ing-ion ['ing', 'ion', 'ed', 'e'] ['ing', 'ion', 'ed', 'NULL']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ing         ion        
+e   e e        e ed       e ing      e ion     
+ed  ed e       ed ed      ed ing     ed ion    
+ing ing e      ing ed     ing ing    ing ion   
+ion ion e      ion ed     ion ing    ion ion   
+Information content in compressed form:  270
+Pair inventory {'ion:ed': 1, ':': 4, 'ion:e': 1, 'e:ing': 1, 'e:ion': 1, 'e:ed': 1, 'ed:e': 1, 'ing:ed': 1, 'ed:ing': 1, 'ing:e': 1, 'ion:ing': 1, 'ed:ion': 1, 'ing:ion': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            ing           ion          
+NULL NULL NULL    NULL ed      NULL ing     NULL ion    
+ed   ed NULL      ed ed        ed ing       ed ion      
+ing  ing NULL     ing ed       ing ing      ing ion     
+ion  ion NULL     ion ed       ion ing      ion ion     
+Information content in compressed form:  246
+Pair inventory {'ion:ed': 1, 'ing:ed': 1, ':ion': 1, ':ed': 1, 'ion:': 1, 'ion:ing': 1, ':ing': 1, 'ed:ing': 1, 'ing:': 1, 'ed:': 1, ':': 4, 'ed:ion': 1, 'ing:ion': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               ing                              ion                             
+e       <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                 <---- null ---->                
+ion     <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  16
+Pair inventory {':e': 3, ':': 10, 'e:': 3}
+
+
+Total Score 10 e-ed-ing-ion e-ed-ing-tion ['ing', 'ed', 'ion', 'e'] ['ing', 'ed', 'tion', 'e']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ing         ion        
+e   e e        e ed       e ing      e ion     
+ed  ed e       ed ed      ed ing     ed ion    
+ing ing e      ing ed     ing ing    ing ion   
+ion ion e      ion ed     ion ing    ion ion   
+Information content in compressed form:  270
+Pair inventory {'ion:ed': 1, ':': 4, 'ion:e': 1, 'e:ing': 1, 'e:ion': 1, 'e:ed': 1, 'ed:e': 1, 'ing:ed': 1, 'ed:ing': 1, 'ing:e': 1, 'ion:ing': 1, 'ed:ion': 1, 'ing:ion': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+e             ed            ing           tion         
+e    e e          e ed         e ing        e tion      
+ed   ed e         ed ed        ed ing       ed tion     
+ing  ing e        ing ed       ing ing      ing tion    
+tion tion e       tion ed      tion ing     tion tion   
+Information content in compressed form:  300
+Pair inventory {'ing:tion': 1, 'ed:e': 1, 'tion:e': 1, 'e:ing': 1, 'tion:ed': 1, 'e:tion': 1, 'e:ed': 1, 'tion:ing': 1, 'ing:ed': 1, 'ed:ing': 1, 'ing:e': 1, ':': 4, 'ed:tion': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 8 degree: 2
+
+e                                ed                               ing                              ion                             
+e        <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed       <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ion      <---- null ---->                
+Information content in compressed form:  76
+Pair inventory {'iontion:': 3, ':': 10, ':iontion': 3}
+
+
+Total Score 6 e-ed-ing-ion be-bed-bing-ption ['ing', 'ed', 'ion', 'e'] ['bing', 'bed', 'ption', 'be']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ing         ion        
+e   e e        e ed       e ing      e ion     
+ed  ed e       ed ed      ed ing     ed ion    
+ing ing e      ing ed     ing ing    ing ion   
+ion ion e      ion ed     ion ing    ion ion   
+Information content in compressed form:  270
+Pair inventory {'ion:ed': 1, ':': 4, 'ion:e': 1, 'e:ing': 1, 'e:ion': 1, 'e:ed': 1, 'ed:e': 1, 'ing:ed': 1, 'ed:ing': 1, 'ing:e': 1, 'ion:ing': 1, 'ed:ion': 1, 'ing:ion': 1}
+temp max length entries = 15 max length affixes: 5 degree: 1
+
+be              bed             bing            ption          
+be    be be          be bed         be bing        be ption      
+bed   bed be         bed bed        bed bing       bed ption     
+bing  bing be        bing bed       bing bing      bing ption    
+ption ption be       ption bed      ption bing     ption ption   
+Information content in compressed form:  420
+Pair inventory {'bed:ption': 1, 'ption:bed': 1, 'bing:be': 1, 'bed:bing': 1, 'ption:be': 1, 'be:ption': 1, 'be:bing': 1, 'ption:bing': 1, 'bing:bed': 1, 'bing:ption': 1, ':': 4, 'bed:be': 1, 'be:bed': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 48 max length affixes: 9 degree: 2
+
+e                                                ed                                               ing                                              ion                                             
+e         <---- null ---->                                
+ed        <---- null ---->                                
+ing       <---- null ---->                                
+ion       <---- null ---->                                
+Information content in compressed form:  690
+Pair inventory {'edbed:ionption': 1, 'edbed:ebe': 1, 'ingbing:ebe': 1, 'ingbing:ionption': 1, 'ionption:ingbing': 1, 'ebe:ingbing': 1, 'ebe:ionption': 1, 'edbed:ingbing': 1, 'ionption:edbed': 1, ':': 4, 'ionption:ebe': 1, 'ebe:edbed': 1, 'ingbing:edbed': 1}
+
+
+Total Score 6 e-ed-ing-ion ed-ing-ion-or ['ing', 'ion', 'ed', 'e'] ['ing', 'ion', 'ed', 'or']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ing         ion        
+e   e e        e ed       e ing      e ion     
+ed  ed e       ed ed      ed ing     ed ion    
+ing ing e      ing ed     ing ing    ing ion   
+ion ion e      ion ed     ion ing    ion ion   
+Information content in compressed form:  270
+Pair inventory {'ion:ed': 1, ':': 4, 'ion:e': 1, 'e:ing': 1, 'e:ion': 1, 'e:ed': 1, 'ed:e': 1, 'ing:ed': 1, 'ed:ing': 1, 'ing:e': 1, 'ion:ing': 1, 'ed:ion': 1, 'ing:ion': 1}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+ed          ing         ion         or         
+ed  ed ed      ed ing     ed ion     ed or     
+ing ing ed     ing ing    ing ion    ing or    
+ion ion ed     ion ing    ion ion    ion or    
+or  or ed      or ing     or ion     or or     
+Information content in compressed form:  300
+Pair inventory {'ion:ed': 1, 'ion:ing': 1, 'ed:or': 1, 'or:ing': 1, 'or:ed': 1, 'ing:ed': 1, 'ed:ing': 1, 'ing:or': 1, 'ion:or': 1, 'or:ion': 1, ':': 4, 'ed:ion': 1, 'ing:ion': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               ing                              ion                             
+e       <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                 <---- null ---->                
+ion     <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  36
+Pair inventory {'eor:': 3, ':': 10, ':eor': 3}
+
+
+Total Score 9 e-ed-ing-ion ation-e-ed-ing ['ing', 'ed', 'e', 'ion'] ['ing', 'ed', 'e', 'ation']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ing         ion        
+e   e e        e ed       e ing      e ion     
+ed  ed e       ed ed      ed ing     ed ion    
+ing ing e      ing ed     ing ing    ing ion   
+ion ion e      ion ed     ion ing    ion ion   
+Information content in compressed form:  270
+Pair inventory {'ion:ed': 1, ':': 4, 'ion:e': 1, 'e:ing': 1, 'e:ion': 1, 'e:ed': 1, 'ed:e': 1, 'ing:ed': 1, 'ed:ing': 1, 'ing:e': 1, 'ion:ing': 1, 'ed:ion': 1, 'ing:ion': 1}
+temp max length entries = 15 max length affixes: 5 degree: 1
+
+ation           e               ed              ing            
+ation ation ation    ation e        ation ed       ation ing     
+e     e ation        e e            e ed           e ing         
+ed    ed ation       ed e           ed ed          ed ing        
+ing   ing ation      ing e          ing ed         ing ing       
+Information content in compressed form:  330
+Pair inventory {'ed:e': 1, 'e:ation': 1, 'ing:ation': 1, 'ed:ation': 1, 'e:ing': 1, 'ation:e': 1, 'ation:ed': 1, 'e:ed': 1, 'ation:ing': 1, 'ing:ed': 1, 'ed:ing': 1, 'ing:e': 1, ':': 4}
+before degree: 1
+after degree: 2
+temp max length entries = 48 max length affixes: 9 degree: 2
+
+e                                                ed                                               ing                                              ion                                             
+e         <---- null ---->                                 <---- null ---->                                 <---- null ---->                                
+ed        <---- null ---->                                 <---- null ---->                                 <---- null ---->                                
+ing       <---- null ---->                                 <---- null ---->                                 <---- null ---->                                
+ion       <---- null ---->                                
+Information content in compressed form:  86
+Pair inventory {':': 10, 'ionation:': 3, ':ionation': 3}
+
+
+Total Score 6 NULL-ed-ing-s NULL-ped-ping-s ['ing', 'ed', 's', 'NULL'] ['ping', 'ped', 's', 'NULL']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            ing           s            
+NULL NULL NULL    NULL ed      NULL ing     NULL s      
+ed   ed NULL      ed ed        ed ing       ed s        
+ing  ing NULL     ing ed       ing ing      ing s       
+s    s NULL       s ed         s ing        s s         
+Information content in compressed form:  186
+Pair inventory {'ing:s': 1, 's:': 1, 'ing:ed': 1, 's:ed': 1, ':ed': 1, 'ed:s': 1, 's:ing': 1, ':ing': 1, 'ed:ing': 1, 'ing:': 1, 'ed:': 1, ':': 4, ':s': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ped           ping          s            
+NULL NULL NULL    NULL ped     NULL ping    NULL s      
+ped  ped NULL     ped ped      ped ping     ped s       
+ping ping NULL    ping ped     ping ping    ping s      
+s    s NULL       s ped        s ping       s s         
+Information content in compressed form:  246
+Pair inventory {'s:': 1, 's:ped': 1, ':ping': 1, 'ping:': 1, 'ped:': 1, 'ped:ping': 1, 'ped:s': 1, 'ping:s': 1, 's:ping': 1, 'ping:ped': 1, ':': 4, ':ped': 1, ':s': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 52 max length affixes: 9 degree: 2
+
+NULL                                                 ed                                                   ing                                                  s                                                   
+NULL      <---- null ---->                                     <---- null ---->                                    
+ed        <---- null ---->                                    
+ing       <---- null ---->                                    
+s         <---- null ---->                                     <---- null ---->                                    
+Information content in compressed form:  248
+Pair inventory {'ingping:edped': 1, ':edped': 2, 'edped:': 2, 'ingping:': 2, 'edped:ingping': 1, ':ingping': 2, ':': 6}
+
+
+Total Score 6 NULL-ed-ing-s NULL-d-ing-s ['ing', 's', 'ed', 'NULL'] ['ing', 's', 'd', 'NULL']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            ing           s            
+NULL NULL NULL    NULL ed      NULL ing     NULL s      
+ed   ed NULL      ed ed        ed ing       ed s        
+ing  ing NULL     ing ed       ing ing      ing s       
+s    s NULL       s ed         s ing        s s         
+Information content in compressed form:  186
+Pair inventory {'ing:s': 1, 's:': 1, 'ing:ed': 1, 's:ed': 1, ':ed': 1, 'ed:s': 1, 's:ing': 1, ':ing': 1, 'ed:ing': 1, 'ing:': 1, 'ed:': 1, ':': 4, ':s': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          d             ing           s            
+NULL NULL NULL    NULL d       NULL ing     NULL s      
+d    d NULL       d d          d ing        d s         
+ing  ing NULL     ing d        ing ing      ing s       
+s    s NULL       s d          s ing        s s         
+Information content in compressed form:  156
+Pair inventory {'ing:s': 1, 's:': 1, 's:ing': 1, 'd:s': 1, 's:d': 1, 'd:ing': 1, ':d': 1, ':ing': 1, 'd:': 1, 'ing:': 1, 'ing:d': 1, ':': 4, ':s': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 9 degree: 2
+
+NULL                             ed                               ing                              s                               
+NULL      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed        <---- null ---->                
+ing       <---- null ---->                 <---- null ---->                 <---- null ---->                
+s         <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  36
+Pair inventory {'edd:': 3, ':': 10, ':edd': 3}
+
+
+Total Score 6 NULL-ed-ing-s NULL-led-ling-s ['ing', 'ed', 's', 'NULL'] ['ling', 'led', 's', 'NULL']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            ing           s            
+NULL NULL NULL    NULL ed      NULL ing     NULL s      
+ed   ed NULL      ed ed        ed ing       ed s        
+ing  ing NULL     ing ed       ing ing      ing s       
+s    s NULL       s ed         s ing        s s         
+Information content in compressed form:  186
+Pair inventory {'ing:s': 1, 's:': 1, 'ing:ed': 1, 's:ed': 1, ':ed': 1, 'ed:s': 1, 's:ing': 1, ':ing': 1, 'ed:ing': 1, 'ing:': 1, 'ed:': 1, ':': 4, ':s': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          led           ling          s            
+NULL NULL NULL    NULL led     NULL ling    NULL s      
+led  led NULL     led led      led ling     led s       
+ling ling NULL    ling led     ling ling    ling s      
+s    s NULL       s led        s ling       s s         
+Information content in compressed form:  246
+Pair inventory {'s:': 1, ':': 4, 'ling:s': 1, 'ling:led': 1, ':s': 1, ':ling': 1, 's:ling': 1, ':led': 1, 'led:': 1, 'ling:': 1, 'led:s': 1, 'led:ling': 1, 's:led': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 52 max length affixes: 9 degree: 2
+
+NULL                                                 ed                                                   ing                                                  s                                                   
+NULL      <---- null ---->                                     <---- null ---->                                    
+ed        <---- null ---->                                    
+ing       <---- null ---->                                    
+s         <---- null ---->                                     <---- null ---->                                    
+Information content in compressed form:  248
+Pair inventory {'ingling:edled': 1, ':edled': 2, 'edled:ingling': 1, 'edled:': 2, ':': 6, ':ingling': 2, 'ingling:': 2}
+
+
+Total Score 6 NULL-ed-ing-s NULL-s-ted-ting ['ing', 'ed', 's', 'NULL'] ['ting', 'ted', 's', 'NULL']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            ing           s            
+NULL NULL NULL    NULL ed      NULL ing     NULL s      
+ed   ed NULL      ed ed        ed ing       ed s        
+ing  ing NULL     ing ed       ing ing      ing s       
+s    s NULL       s ed         s ing        s s         
+Information content in compressed form:  186
+Pair inventory {'ing:s': 1, 's:': 1, 'ing:ed': 1, 's:ed': 1, ':ed': 1, 'ed:s': 1, 's:ing': 1, ':ing': 1, 'ed:ing': 1, 'ing:': 1, 'ed:': 1, ':': 4, ':s': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          s             ted           ting         
+NULL NULL NULL    NULL s       NULL ted     NULL ting   
+s    s NULL       s s          s ted        s ting      
+ted  ted NULL     ted s        ted ted      ted ting    
+ting ting NULL    ting s       ting ted     ting ting   
+Information content in compressed form:  246
+Pair inventory {':ted': 1, 'ting:': 1, 's:': 1, 'ting:ted': 1, 'ting:s': 1, 'ted:s': 1, 'ted:ting': 1, 'ted:': 1, ':ting': 1, 's:ted': 1, ':': 4, 's:ting': 1, ':s': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 52 max length affixes: 9 degree: 2
+
+NULL                                                 ed                                                   ing                                                  s                                                   
+NULL      <---- null ---->                                     <---- null ---->                                    
+ed        <---- null ---->                                    
+ing       <---- null ---->                                    
+s         <---- null ---->                                     <---- null ---->                                    
+Information content in compressed form:  248
+Pair inventory {'ingting:edted': 1, 'edted:': 2, ':ingting': 2, 'edted:ingting': 1, 'ingting:': 2, ':': 6, ':edted': 2}
+
+
+Total Score 7 NULL-ed-ing-s 's-NULL-ed-ing ['ing', 'ed', 's', 'NULL'] ['ing', 'ed', "'s", 'NULL']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            ing           s            
+NULL NULL NULL    NULL ed      NULL ing     NULL s      
+ed   ed NULL      ed ed        ed ing       ed s        
+ing  ing NULL     ing ed       ing ing      ing s       
+s    s NULL       s ed         s ing        s s         
+Information content in compressed form:  186
+Pair inventory {'ing:s': 1, 's:': 1, 'ing:ed': 1, 's:ed': 1, ':ed': 1, 'ed:s': 1, 's:ing': 1, ':ing': 1, 'ed:ing': 1, 'ing:': 1, 'ed:': 1, ':': 4, ':s': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+'s            NULL          ed            ing          
+'s   's 's        's NULL      's ed        's ing      
+NULL NULL 's      NULL NULL    NULL ed      NULL ing    
+ed   ed 's        ed NULL      ed ed        ed ing      
+ing  ing 's       ing NULL     ing ed       ing ing     
+Information content in compressed form:  216
+Pair inventory {'ing:': 1, ':': 4, "'s:ed": 1, "ing:'s": 1, ':ed': 1, ":'s": 1, ':ing': 1, 'ed:ing': 1, "ed:'s": 1, "'s:ing": 1, "'s:": 1, 'ed:': 1, 'ing:ed': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 9 degree: 2
+
+NULL                             ed                               ing                              s                               
+NULL      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed        <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing       <---- null ---->                 <---- null ---->                 <---- null ---->                
+s         <---- null ---->                
+Information content in compressed form:  36
+Pair inventory {':': 10, "s's:": 3, ":s's": 3}
+
+
+Total Score 7 NULL-ed-ing-s NULL-ed-es-ing ['ing', 'ed', 's', 'NULL'] ['ing', 'ed', 'es', 'NULL']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            ing           s            
+NULL NULL NULL    NULL ed      NULL ing     NULL s      
+ed   ed NULL      ed ed        ed ing       ed s        
+ing  ing NULL     ing ed       ing ing      ing s       
+s    s NULL       s ed         s ing        s s         
+Information content in compressed form:  186
+Pair inventory {'ing:s': 1, 's:': 1, 'ing:ed': 1, 's:ed': 1, ':ed': 1, 'ed:s': 1, 's:ing': 1, ':ing': 1, 'ed:ing': 1, 'ing:': 1, 'ed:': 1, ':': 4, ':s': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            es            ing          
+NULL NULL NULL    NULL ed      NULL es      NULL ing    
+ed   ed NULL      ed ed        ed es        ed ing      
+es   es NULL      es ed        es es        es ing      
+ing  ing NULL     ing ed       ing es       ing ing     
+Information content in compressed form:  216
+Pair inventory {':': 4, ':ed': 1, 'ing:es': 1, 'ed:es': 1, 'es:ed': 1, 'es:': 1, ':es': 1, ':ing': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:': 1, 'ed:': 1, 'ing:ed': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 9 degree: 2
+
+NULL                             ed                               ing                              s                               
+NULL      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed        <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing       <---- null ---->                 <---- null ---->                 <---- null ---->                
+s         <---- null ---->                
+Information content in compressed form:  36
+Pair inventory {':ses': 3, ':': 10, 'ses:': 3}
+
+
+Total Score 6 NULL-ed-ing-s NULL-ged-ging-s ['ing', 'ed', 's', 'NULL'] ['ging', 'ged', 's', 'NULL']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            ing           s            
+NULL NULL NULL    NULL ed      NULL ing     NULL s      
+ed   ed NULL      ed ed        ed ing       ed s        
+ing  ing NULL     ing ed       ing ing      ing s       
+s    s NULL       s ed         s ing        s s         
+Information content in compressed form:  186
+Pair inventory {'ing:s': 1, 's:': 1, 'ing:ed': 1, 's:ed': 1, ':ed': 1, 'ed:s': 1, 's:ing': 1, ':ing': 1, 'ed:ing': 1, 'ing:': 1, 'ed:': 1, ':': 4, ':s': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ged           ging          s            
+NULL NULL NULL    NULL ged     NULL ging    NULL s      
+ged  ged NULL     ged ged      ged ging     ged s       
+ging ging NULL    ging ged     ging ging    ging s      
+s    s NULL       s ged        s ging       s s         
+Information content in compressed form:  246
+Pair inventory {'s:': 1, 'ged:': 1, 'ging:': 1, ':ging': 1, 'ged:ging': 1, 's:ged': 1, 's:ging': 1, 'ging:s': 1, 'ging:ged': 1, 'ged:s': 1, ':ged': 1, ':': 4, ':s': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 52 max length affixes: 9 degree: 2
+
+NULL                                                 ed                                                   ing                                                  s                                                   
+NULL      <---- null ---->                                     <---- null ---->                                    
+ed        <---- null ---->                                    
+ing       <---- null ---->                                    
+s         <---- null ---->                                     <---- null ---->                                    
+Information content in compressed form:  248
+Pair inventory {':ingging': 2, 'ingging:edged': 1, 'ingging:': 2, ':edged': 2, ':': 6, 'edged:ingging': 1, 'edged:': 2}
+
+
+Total Score 7 NULL-ed-ing-s NULL-ed-ing-os ['ing', 'ed', 's', 'NULL'] ['ing', 'ed', 'os', 'NULL']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            ing           s            
+NULL NULL NULL    NULL ed      NULL ing     NULL s      
+ed   ed NULL      ed ed        ed ing       ed s        
+ing  ing NULL     ing ed       ing ing      ing s       
+s    s NULL       s ed         s ing        s s         
+Information content in compressed form:  186
+Pair inventory {'ing:s': 1, 's:': 1, 'ing:ed': 1, 's:ed': 1, ':ed': 1, 'ed:s': 1, 's:ing': 1, ':ing': 1, 'ed:ing': 1, 'ing:': 1, 'ed:': 1, ':': 4, ':s': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            ing           os           
+NULL NULL NULL    NULL ed      NULL ing     NULL os     
+ed   ed NULL      ed ed        ed ing       ed os       
+ing  ing NULL     ing ed       ing ing      ing os      
+os   os NULL      os ed        os ing       os os       
+Information content in compressed form:  216
+Pair inventory {'os:': 1, ':': 4, ':ed': 1, 'ed:os': 1, 'os:ed': 1, ':ing': 1, 'ed:ing': 1, 'os:ing': 1, 'ing:': 1, 'ed:': 1, 'ing:ed': 1, 'ing:os': 1, ':os': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 9 degree: 2
+
+NULL                             ed                               ing                              s                               
+NULL      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed        <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing       <---- null ---->                 <---- null ---->                 <---- null ---->                
+s         <---- null ---->                
+Information content in compressed form:  36
+Pair inventory {':': 10, 'sos:': 3, ':sos': 3}
+
+
+Total Score 6 e-ed-ing ed-er-ing ['ing', 'ed', 'e'] ['ing', 'ed', 'er']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ing        
+e   e e        e ed       e ing     
+ed  ed e       ed ed      ed ing    
+ing ing e      ing ed     ing ing   
+Information content in compressed form:  120
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'ing:e': 1, ':': 3}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+ed          er          ing        
+ed  ed ed      ed er      ed ing    
+er  er ed      er er      er ing    
+ing ing ed     ing er     ing ing   
+Information content in compressed form:  140
+Pair inventory {'ing:ed': 1, 'er:ed': 1, 'ed:er': 1, 'er:ing': 1, 'ing:er': 1, 'ed:ing': 1, ':': 3}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               ing                             
+e       <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                
+Information content in compressed form:  14
+Pair inventory {':': 5, ':r': 2, 'r:': 2}
+
+
+Total Score 6 e-ed-ing ed-ing-le ['ing', 'ed', 'e'] ['ing', 'ed', 'le']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ing        
+e   e e        e ed       e ing     
+ed  ed e       ed ed      ed ing    
+ing ing e      ing ed     ing ing   
+Information content in compressed form:  120
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'ing:e': 1, ':': 3}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+ed          ing         le         
+ed  ed ed      ed ing     ed le     
+ing ing ed     ing ing    ing le    
+le  le ed      le ing     le le     
+Information content in compressed form:  140
+Pair inventory {'ing:ed': 1, 'le:ed': 1, 'ing:le': 1, 'ed:ing': 1, 'ed:le': 1, 'le:ing': 1, ':': 3}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               ing                             
+e       <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                
+Information content in compressed form:  34
+Pair inventory {'ele:': 2, ':': 5, ':ele': 2}
+
+
+Total Score 6 e-ed-ing ed-es-ing ['ing', 'ed', 'e'] ['ing', 'ed', 'es']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ing        
+e   e e        e ed       e ing     
+ed  ed e       ed ed      ed ing    
+ing ing e      ing ed     ing ing   
+Information content in compressed form:  120
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'ing:e': 1, ':': 3}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+ed          es          ing        
+ed  ed ed      ed es      ed ing    
+es  es ed      es es      es ing    
+ing ing ed     ing es     ing ing   
+Information content in compressed form:  140
+Pair inventory {'ing:ed': 1, 'es:ed': 1, 'ed:es': 1, 'ing:es': 1, 'ed:ing': 1, 'es:ing': 1, ':': 3}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               ing                             
+e       <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                
+Information content in compressed form:  14
+Pair inventory {'s:': 2, ':': 5, ':s': 2}
+
+
+Total Score 6 's-NULL-s-s' NULL-s-s'-s's ["s'", 's', "'s", 'NULL'] ["s'", 's', "s's", 'NULL']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+'s            NULL          s             s'           
+'s   's 's        's NULL      's s         's s'       
+NULL NULL 's      NULL NULL    NULL s       NULL s'     
+s    s 's         s NULL       s s          s s'        
+s'   s' 's        s' NULL      s' s         s' s'       
+Information content in compressed form:  138
+Pair inventory {'s:': 1, "'s:s'": 1, "s':": 1, ":s'": 1, ":'": 1, "':": 1, "s:s'": 1, ":'s": 1, "s':'s": 1, "s':s": 1, "'s:": 1, ':': 4, ':s': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          s             s'            s's          
+NULL NULL NULL    NULL s       NULL s'      NULL s's    
+s    s NULL       s s          s s'         s s's       
+s'   s' NULL      s' s         s' s'        s' s's      
+s's  s's NULL     s's s        s's s'       s's s's     
+Information content in compressed form:  148
+Pair inventory {'s:': 1, "s':": 2, "s's:": 1, ":s's": 1, "s:s'": 1, "s':s's": 1, "s's:s'": 1, ":s'": 2, "s':s": 1, ':': 4, ':s': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 9 degree: 2
+
+'s                               NULL                             s                                s'                              
+'s        <---- null ---->                
+NULL      <---- null ---->                 <---- null ---->                 <---- null ---->                
+s         <---- null ---->                 <---- null ---->                 <---- null ---->                
+s'        <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  86
+Pair inventory {"'ss's:": 2, ":'s'": 1, ':': 10, ":'ss's": 2, "'s':": 1}
+
+
+Total Score 6 's-NULL-n-ns NULL-n-n's-ns ['ns', "'s", 'n', 'NULL'] ['ns', "n's", 'n', 'NULL']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+'s            NULL          n             ns           
+'s   's 's        's NULL      's n         's ns       
+NULL NULL 's      NULL NULL    NULL n       NULL ns     
+n    n 's         n NULL       n n          n ns        
+ns   ns 's        ns NULL      ns n         ns ns       
+Information content in compressed form:  136
+Pair inventory {"':n": 1, ':n': 1, "'s:": 1, ":'s": 1, 'n:': 1, 'n:ns': 1, ':ns': 1, "'s:n": 1, "n:'": 1, 'ns:n': 1, "n:'s": 1, ':': 4, 'ns:': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          n             n's           ns           
+NULL NULL NULL    NULL n       NULL n's     NULL ns     
+n    n NULL       n n          n n's        n ns        
+n's  n's NULL     n's n        n's n's      n's ns      
+ns   ns NULL      ns n         ns n's       ns ns       
+Information content in compressed form:  166
+Pair inventory {"n:n's": 1, ":n's": 1, ':n': 1, "n:n'": 1, 'ns:': 1, 'n:ns': 1, ':ns': 1, 'n:': 1, 'ns:n': 1, "n's:n": 1, ':': 4, "n':n": 1, "n's:": 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 9 degree: 2
+
+'s                               NULL                             n                                ns                              
+'s        <---- null ---->                
+NULL      <---- null ---->                 <---- null ---->                 <---- null ---->                
+n         <---- null ---->                 <---- null ---->                 <---- null ---->                
+ns        <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  86
+Pair inventory {":'n'": 1, "'sn's:": 2, ':': 10, "'n':": 1, ":'sn's": 2}
+
+
+Total Score 6 's-NULL-n-ns 's-NULL-n-n's ["'s", 'ns', 'n', 'NULL'] ["'s", "n's", 'n', 'NULL']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+'s            NULL          n             ns           
+'s   's 's        's NULL      's n         's ns       
+NULL NULL 's      NULL NULL    NULL n       NULL ns     
+n    n 's         n NULL       n n          n ns        
+ns   ns 's        ns NULL      ns n         ns ns       
+Information content in compressed form:  136
+Pair inventory {"':n": 1, ':n': 1, "'s:": 1, ":'s": 1, 'n:': 1, 'n:ns': 1, ':ns': 1, "'s:n": 1, "n:'": 1, 'ns:n': 1, "n:'s": 1, ':': 4, 'ns:': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+'s            NULL          n             n's          
+'s   's 's        's NULL      's n         's n's      
+NULL NULL 's      NULL NULL    NULL n       NULL n's    
+n    n 's         n NULL       n n          n n's       
+n's  n's 's       n's NULL     n's n        n's n's     
+Information content in compressed form:  138
+Pair inventory {"n:'s": 1, "n:n's": 1, ':n': 2, "'s:": 1, ":n's": 1, 'n:': 2, ":'s": 1, "'s:n": 1, "n's:n": 1, ':': 4, "n's:": 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 9 degree: 2
+
+'s                               NULL                             n                                ns                              
+'s        <---- null ---->                 <---- null ---->                 <---- null ---->                
+NULL      <---- null ---->                 <---- null ---->                 <---- null ---->                
+n         <---- null ---->                 <---- null ---->                 <---- null ---->                
+ns        <---- null ---->                
+Information content in compressed form:  46
+Pair inventory {"':": 1, ':': 10, ":'": 1, "s's:": 2, ":s's": 2}
+
+
+Total Score 8 NULL-ed-es-ing NULL-ed-ers-ing ['ing', 'ed', 'es', 'NULL'] ['ing', 'ed', 'ers', 'NULL']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            es            ing          
+NULL NULL NULL    NULL ed      NULL es      NULL ing    
+ed   ed NULL      ed ed        ed es        ed ing      
+es   es NULL      es ed        es es        es ing      
+ing  ing NULL     ing ed       ing es       ing ing     
+Information content in compressed form:  216
+Pair inventory {':': 4, ':ed': 1, 'ing:es': 1, 'ed:es': 1, 'es:ed': 1, 'es:': 1, ':es': 1, ':ing': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:': 1, 'ed:': 1, 'ing:ed': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            ers           ing          
+NULL NULL NULL    NULL ed      NULL ers     NULL ing    
+ed   ed NULL      ed ed        ed ers       ed ing      
+ers  ers NULL     ers ed       ers ers      ers ing     
+ing  ing NULL     ing ed       ing ers      ing ing     
+Information content in compressed form:  246
+Pair inventory {':ing': 1, 'ing:ed': 1, ':ed': 1, 'ers:ing': 1, ':ers': 1, 'ers:': 1, 'ed:ing': 1, 'ing:ers': 1, 'ing:': 1, 'ers:ed': 1, 'ed:': 1, ':': 4, 'ed:ers': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 9 degree: 2
+
+NULL                             ed                               es                               ing                             
+NULL      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed        <---- null ---->                 <---- null ---->                 <---- null ---->                
+es        <---- null ---->                
+ing       <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  36
+Pair inventory {'srs:': 3, ':srs': 3, ':': 10}
+
+
+Total Score 6 NULL-ed-es-ing e-e's-ed-ing ['ing', 'ed', 'es', 'NULL'] ['ing', 'ed', "e's", 'e']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            es            ing          
+NULL NULL NULL    NULL ed      NULL es      NULL ing    
+ed   ed NULL      ed ed        ed es        ed ing      
+es   es NULL      es ed        es es        es ing      
+ing  ing NULL     ing ed       ing es       ing ing     
+Information content in compressed form:  216
+Pair inventory {':': 4, ':ed': 1, 'ing:es': 1, 'ed:es': 1, 'es:ed': 1, 'es:': 1, ':es': 1, ':ing': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:': 1, 'ed:': 1, 'ing:ed': 1}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           e's         ed          ing        
+e   e e        e e's      e ed       e ing     
+e's e's e      e's e's    e's ed     e's ing   
+ed  ed e       ed e's     ed ed      ed ing    
+ing ing e      ing e's    ing ed     ing ing   
+Information content in compressed form:  270
+Pair inventory {'ing:ed': 1, "ed:e's": 1, 'e:ing': 1, "e:e's": 1, 'e:ed': 1, 'ed:e': 1, "e's:e": 1, "e's:ing": 1, 'ed:ing': 1, "ing:e's": 1, 'ing:e': 1, ':': 4, "e's:ed": 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+NULL                             ed                               es                               ing                             
+NULL    <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                
+es      <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                
+Information content in compressed form:  88
+Pair inventory {"s's:e": 1, "s's:": 2, ":s's": 2, ':e': 2, 'e:': 2, ':': 6, "e:s's": 1}
+
+
+Total Score 7 NULL-ed-es-ing NULL-e-ed-ing ['ing', 'ed', 'NULL', 'es'] ['ing', 'ed', 'NULL', 'e']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            es            ing          
+NULL NULL NULL    NULL ed      NULL es      NULL ing    
+ed   ed NULL      ed ed        ed es        ed ing      
+es   es NULL      es ed        es es        es ing      
+ing  ing NULL     ing ed       ing es       ing ing     
+Information content in compressed form:  216
+Pair inventory {':': 4, ':ed': 1, 'ing:es': 1, 'ed:es': 1, 'es:ed': 1, 'es:': 1, ':es': 1, ':ing': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:': 1, 'ed:': 1, 'ing:ed': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          e             ed            ing          
+NULL NULL NULL    NULL e       NULL ed      NULL ing    
+e    e NULL       e e          e ed         e ing       
+ed   ed NULL      ed e         ed ed        ed ing      
+ing  ing NULL     ing e        ing ed       ing ing     
+Information content in compressed form:  186
+Pair inventory {':': 4, 'ing:e': 1, 'e:ing': 1, ':ed': 1, ':e': 1, 'e:ed': 1, 'ed:e': 1, ':ing': 1, 'ed:ing': 1, 'ing:': 1, 'e:': 1, 'ed:': 1, 'ing:ed': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 9 degree: 2
+
+NULL                             ed                               es                               ing                             
+NULL      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed        <---- null ---->                 <---- null ---->                 <---- null ---->                
+es        <---- null ---->                
+ing       <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  16
+Pair inventory {'s:': 3, ':': 10, ':s': 3}
+
+
+Total Score 7 NULL-ed-es-ing NULL-ed-ing-s ['ing', 'ed', 'NULL', 'es'] ['ing', 'ed', 'NULL', 's']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            es            ing          
+NULL NULL NULL    NULL ed      NULL es      NULL ing    
+ed   ed NULL      ed ed        ed es        ed ing      
+es   es NULL      es ed        es es        es ing      
+ing  ing NULL     ing ed       ing es       ing ing     
+Information content in compressed form:  216
+Pair inventory {':': 4, ':ed': 1, 'ing:es': 1, 'ed:es': 1, 'es:ed': 1, 'es:': 1, ':es': 1, ':ing': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:': 1, 'ed:': 1, 'ing:ed': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            ing           s            
+NULL NULL NULL    NULL ed      NULL ing     NULL s      
+ed   ed NULL      ed ed        ed ing       ed s        
+ing  ing NULL     ing ed       ing ing      ing s       
+s    s NULL       s ed         s ing        s s         
+Information content in compressed form:  186
+Pair inventory {'ing:s': 1, 's:': 1, 'ing:ed': 1, 's:ed': 1, ':ed': 1, 'ed:s': 1, 's:ing': 1, ':ing': 1, 'ed:ing': 1, 'ing:': 1, 'ed:': 1, ':': 4, ':s': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 9 degree: 2
+
+NULL                             ed                               es                               ing                             
+NULL      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed        <---- null ---->                 <---- null ---->                 <---- null ---->                
+es        <---- null ---->                
+ing       <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  36
+Pair inventory {':': 10, 'ess:': 3, ':ess': 3}
+
+
+Total Score 7 NULL-ed-es-ing e-ed-es-ing ['ing', 'ed', 'es', 'NULL'] ['ing', 'ed', 'es', 'e']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            es            ing          
+NULL NULL NULL    NULL ed      NULL es      NULL ing    
+ed   ed NULL      ed ed        ed es        ed ing      
+es   es NULL      es ed        es es        es ing      
+ing  ing NULL     ing ed       ing es       ing ing     
+Information content in compressed form:  216
+Pair inventory {':': 4, ':ed': 1, 'ing:es': 1, 'ed:es': 1, 'es:ed': 1, 'es:': 1, ':es': 1, ':ing': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:': 1, 'ed:': 1, 'ing:ed': 1}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          es          ing        
+e   e e        e ed       e es       e ing     
+ed  ed e       ed ed      ed es      ed ing    
+es  es e       es ed      es es      es ing    
+ing ing e      ing ed     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'es:ed': 1, 'ed:es': 1, 'es:e': 1, 'ing:es': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:e': 1, 'e:es': 1, ':': 4}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+NULL                             ed                               es                               ing                             
+NULL    <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                 <---- null ---->                
+es      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  16
+Pair inventory {':e': 3, ':': 10, 'e:': 3}
+
+
+Total Score 6 NULL-ed-es-ing e-ed-ers-ing ['ing', 'ed', 'es', 'NULL'] ['ing', 'ed', 'ers', 'e']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            es            ing          
+NULL NULL NULL    NULL ed      NULL es      NULL ing    
+ed   ed NULL      ed ed        ed es        ed ing      
+es   es NULL      es ed        es es        es ing      
+ing  ing NULL     ing ed       ing es       ing ing     
+Information content in compressed form:  216
+Pair inventory {':': 4, ':ed': 1, 'ing:es': 1, 'ed:es': 1, 'es:ed': 1, 'es:': 1, ':es': 1, ':ing': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:': 1, 'ed:': 1, 'ing:ed': 1}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ers         ing        
+e   e e        e ed       e ers      e ing     
+ed  ed e       ed ed      ed ers     ed ing    
+ers ers e      ers ed     ers ers    ers ing   
+ing ing e      ing ed     ing ers    ing ing   
+Information content in compressed form:  270
+Pair inventory {'e:ers': 1, 'ing:ed': 1, 'e:ing': 1, 'ers:e': 1, 'ers:ing': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'ing:ers': 1, 'ing:e': 1, 'ers:ed': 1, ':': 4, 'ed:ers': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+NULL                             ed                               es                               ing                             
+NULL    <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                
+es      <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                
+Information content in compressed form:  88
+Pair inventory {'srs:e': 1, 'srs:': 2, ':e': 2, 'e:srs': 1, 'e:': 2, ':srs': 2, ':': 6}
+
+
+Total Score 7 er-ers-ing er-ers-ng ['ers', 'er', 'ing'] ['ers', 'er', 'ng']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+er          ers         ing        
+er  er er      er ers     er ing    
+ers ers er     ers ers    ers ing   
+ing ing er     ing ers    ing ing   
+Information content in compressed form:  160
+Pair inventory {'ers:er': 1, 'er:ers': 1, 'er:ing': 1, 'ers:ing': 1, 'ing:ers': 1, ':': 3, 'ing:er': 1}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+er          ers         ng         
+er  er er      er ers     er ng     
+ers ers er     ers ers    ers ng    
+ng  ng er      ng ers     ng ng     
+Information content in compressed form:  140
+Pair inventory {'ng:er': 1, 'ers:ng': 1, 'ers:er': 1, 'er:ers': 1, 'er:ng': 1, 'ng:ers': 1, ':': 3}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+er                               ers                              ing                             
+er      <---- null ---->                 <---- null ---->                
+ers     <---- null ---->                 <---- null ---->                
+ing     <---- null ---->                
+Information content in compressed form:  54
+Pair inventory {'ingng:': 2, ':': 5, ':ingng': 2}
+
+
+Total Score 6 er-ers-ing er-ess-ing ['ing', 'er', 'ers'] ['ing', 'er', 'ess']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+er          ers         ing        
+er  er er      er ers     er ing    
+ers ers er     ers ers    ers ing   
+ing ing er     ing ers    ing ing   
+Information content in compressed form:  160
+Pair inventory {'ers:er': 1, 'er:ers': 1, 'er:ing': 1, 'ers:ing': 1, 'ing:ers': 1, ':': 3, 'ing:er': 1}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+er          ess         ing        
+er  er er      er ess     er ing    
+ess ess er     ess ess    ess ing   
+ing ing er     ing ess    ing ing   
+Information content in compressed form:  160
+Pair inventory {'ess:ing': 1, 'ing:ess': 1, 'ess:er': 1, 'er:ing': 1, 'ing:er': 1, ':': 3, 'er:ess': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+er                               ers                              ing                             
+er      <---- null ---->                 <---- null ---->                
+ers     <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                
+Information content in compressed form:  44
+Pair inventory {'rsss:': 2, ':': 5, ':rsss': 2}
+
+
+Total Score 6 er-ers-ing er-est-ing ['ing', 'er', 'ers'] ['ing', 'er', 'est']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+er          ers         ing        
+er  er er      er ers     er ing    
+ers ers er     ers ers    ers ing   
+ing ing er     ing ers    ing ing   
+Information content in compressed form:  160
+Pair inventory {'ers:er': 1, 'er:ers': 1, 'er:ing': 1, 'ers:ing': 1, 'ing:ers': 1, ':': 3, 'ing:er': 1}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+er          est         ing        
+er  er er      er est     er ing    
+est est er     est est    est ing   
+ing ing er     ing est    ing ing   
+Information content in compressed form:  160
+Pair inventory {'er:ing': 1, 'er:est': 1, 'ing:est': 1, 'est:ing': 1, 'est:er': 1, ':': 3, 'ing:er': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+er                               ers                              ing                             
+er      <---- null ---->                 <---- null ---->                
+ers     <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                
+Information content in compressed form:  44
+Pair inventory {':': 5, ':rsst': 2, 'rsst:': 2}
+
+
+Total Score 7 er-ers-ing e-ers-ing ['ers', 'ing', 'er'] ['ers', 'ing', 'e']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+er          ers         ing        
+er  er er      er ers     er ing    
+ers ers er     ers ers    ers ing   
+ing ing er     ing ers    ing ing   
+Information content in compressed form:  160
+Pair inventory {'ers:er': 1, 'er:ers': 1, 'er:ing': 1, 'ers:ing': 1, 'ing:ers': 1, ':': 3, 'ing:er': 1}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ers         ing        
+e   e e        e ers      e ing     
+ers ers e      ers ers    ers ing   
+ing ing e      ing ers    ing ing   
+Information content in compressed form:  140
+Pair inventory {'e:ers': 1, 'e:ing': 1, 'ers:e': 1, 'ers:ing': 1, 'ing:ers': 1, 'ing:e': 1, ':': 3}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+er                               ers                              ing                             
+er      <---- null ---->                
+ers     <---- null ---->                 <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                
+Information content in compressed form:  14
+Pair inventory {':': 5, ':r': 2, 'r:': 2}
+
+
+Total Score 6 e-ed-es-ing NULL-ed-ers-ing ['ing', 'ed', 'es', 'e'] ['ing', 'ed', 'ers', 'NULL']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          es          ing        
+e   e e        e ed       e es       e ing     
+ed  ed e       ed ed      ed es      ed ing    
+es  es e       es ed      es es      es ing    
+ing ing e      ing ed     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'es:ed': 1, 'ed:es': 1, 'es:e': 1, 'ing:es': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:e': 1, 'e:es': 1, ':': 4}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            ers           ing          
+NULL NULL NULL    NULL ed      NULL ers     NULL ing    
+ed   ed NULL      ed ed        ed ers       ed ing      
+ers  ers NULL     ers ed       ers ers      ers ing     
+ing  ing NULL     ing ed       ing ers      ing ing     
+Information content in compressed form:  246
+Pair inventory {':ing': 1, 'ing:ed': 1, ':ed': 1, 'ers:ing': 1, ':ers': 1, 'ers:': 1, 'ed:ing': 1, 'ing:ers': 1, 'ing:': 1, 'ers:ed': 1, 'ed:': 1, ':': 4, 'ed:ers': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               es                               ing                             
+e       <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                
+es      <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                
+Information content in compressed form:  88
+Pair inventory {'srs:e': 1, 'srs:': 2, ':e': 2, 'e:srs': 1, 'e:': 2, ':srs': 2, ':': 6}
+
+
+Total Score 9 e-ed-es-ing e-e's-ed-ing ['ing', 'ed', 'e', 'es'] ['ing', 'ed', 'e', "e's"]
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          es          ing        
+e   e e        e ed       e es       e ing     
+ed  ed e       ed ed      ed es      ed ing    
+es  es e       es ed      es es      es ing    
+ing ing e      ing ed     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'es:ed': 1, 'ed:es': 1, 'es:e': 1, 'ing:es': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:e': 1, 'e:es': 1, ':': 4}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           e's         ed          ing        
+e   e e        e e's      e ed       e ing     
+e's e's e      e's e's    e's ed     e's ing   
+ed  ed e       ed e's     ed ed      ed ing    
+ing ing e      ing e's    ing ed     ing ing   
+Information content in compressed form:  270
+Pair inventory {'ing:ed': 1, "ed:e's": 1, 'e:ing': 1, "e:e's": 1, 'e:ed': 1, 'ed:e': 1, "e's:e": 1, "e's:ing": 1, 'ed:ing': 1, "ing:e's": 1, 'ing:e': 1, ':': 4, "e's:ed": 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               es                               ing                             
+e       <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                 <---- null ---->                
+es      <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  36
+Pair inventory {':': 10, "s's:": 3, ":s's": 3}
+
+
+Total Score 6 e-ed-es-ing e-ed-en-ing ['ing', 'ed', 'e', 'es'] ['ing', 'ed', 'e', 'en']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          es          ing        
+e   e e        e ed       e es       e ing     
+ed  ed e       ed ed      ed es      ed ing    
+es  es e       es ed      es es      es ing    
+ing ing e      ing ed     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'es:ed': 1, 'ed:es': 1, 'es:e': 1, 'ing:es': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:e': 1, 'e:es': 1, ':': 4}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          en          ing        
+e   e e        e ed       e en       e ing     
+ed  ed e       ed ed      ed en      ed ing    
+en  en e       en ed      en en      en ing    
+ing ing e      ing ed     ing en     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'e:en': 1, 'e:ing': 1, 'en:e': 1, 'en:ed': 1, 'e:ed': 1, 'ed:e': 1, 'ing:en': 1, 'ed:ing': 1, 'ing:e': 1, 'ed:en': 1, 'en:ing': 1, ':': 4}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               es                               ing                             
+e       <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                 <---- null ---->                
+es      <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  26
+Pair inventory {':sn': 3, ':': 10, 'sn:': 3}
+
+
+Total Score 7 e-ed-es-ing es-ze-zed-zing ['ing', 'es', 'ed', 'e'] ['zing', 'es', 'zed', 'ze']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          es          ing        
+e   e e        e ed       e es       e ing     
+ed  ed e       ed ed      ed es      ed ing    
+es  es e       es ed      es es      es ing    
+ing ing e      ing ed     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'es:ed': 1, 'ed:es': 1, 'es:e': 1, 'ing:es': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:e': 1, 'e:es': 1, ':': 4}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+es            ze            zed           zing         
+es   es es        es ze        es zed       es zing     
+ze   ze es        ze ze        ze zed       ze zing     
+zed  zed es       zed ze       zed zed      zed zing    
+zing zing es      zing ze      zing zed     zing zing   
+Information content in compressed form:  330
+Pair inventory {'zed:es': 1, 'ze:zing': 1, 'zed:zing': 1, 'ze:es': 1, 'zed:ze': 1, 'ze:zed': 1, 'es:zing': 1, 'es:ze': 1, 'zing:es': 1, 'zing:ze': 1, 'zing:zed': 1, ':': 4, 'es:zed': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 48 max length affixes: 8 degree: 2
+
+e                                                ed                                               es                                               ing                                             
+e        <---- null ---->                                
+ed       <---- null ---->                                
+es       <---- null ---->                                
+ing      <---- null ---->                                
+Information content in compressed form:  456
+Pair inventory {':eze': 1, 'edzed:eze': 1, 'eze:ingzing': 1, ':ingzing': 1, ':edzed': 1, 'eze:edzed': 1, 'ingzing:eze': 1, 'ingzing:': 1, 'edzed:': 1, 'edzed:ingzing': 1, 'eze:': 1, ':': 4, 'ingzing:edzed': 1}
+
+
+Total Score 7 e-ed-es-ing NULL-ed-es-ing ['ing', 'ed', 'es', 'e'] ['ing', 'ed', 'es', 'NULL']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          es          ing        
+e   e e        e ed       e es       e ing     
+ed  ed e       ed ed      ed es      ed ing    
+es  es e       es ed      es es      es ing    
+ing ing e      ing ed     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'es:ed': 1, 'ed:es': 1, 'es:e': 1, 'ing:es': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:e': 1, 'e:es': 1, ':': 4}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          ed            es            ing          
+NULL NULL NULL    NULL ed      NULL es      NULL ing    
+ed   ed NULL      ed ed        ed es        ed ing      
+es   es NULL      es ed        es es        es ing      
+ing  ing NULL     ing ed       ing es       ing ing     
+Information content in compressed form:  216
+Pair inventory {':': 4, ':ed': 1, 'ing:es': 1, 'ed:es': 1, 'es:ed': 1, 'es:': 1, ':es': 1, ':ing': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:': 1, 'ed:': 1, 'ing:ed': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               es                               ing                             
+e       <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                 <---- null ---->                
+es      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  16
+Pair inventory {':e': 3, ':': 10, 'e:': 3}
+
+
+Total Score 6 e-ed-es-ing e-ed-er-ing ['ing', 'ed', 'e', 'es'] ['ing', 'ed', 'e', 'er']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          es          ing        
+e   e e        e ed       e es       e ing     
+ed  ed e       ed ed      ed es      ed ing    
+es  es e       es ed      es es      es ing    
+ing ing e      ing ed     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'es:ed': 1, 'ed:es': 1, 'es:e': 1, 'ing:es': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:e': 1, 'e:es': 1, ':': 4}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          er          ing        
+e   e e        e ed       e er       e ing     
+ed  ed e       ed ed      ed er      ed ing    
+er  er e       er ed      er er      er ing    
+ing ing e      ing ed     ing er     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'er:e': 1, 'e:ing': 1, 'er:ed': 1, 'ed:er': 1, 'er:ing': 1, 'e:ed': 1, 'ing:er': 1, 'ed:e': 1, 'ed:ing': 1, 'ing:e': 1, 'e:er': 1, ':': 4}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               es                               ing                             
+e       <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                 <---- null ---->                
+es      <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  26
+Pair inventory {'sr:': 3, ':': 10, ':sr': 3}
+
+
+Total Score 8 e-ed-es-ing ed-er-ers-ing ['ing', 'ed', 'es', 'e'] ['ing', 'ed', 'ers', 'er']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          es          ing        
+e   e e        e ed       e es       e ing     
+ed  ed e       ed ed      ed es      ed ing    
+es  es e       es ed      es es      es ing    
+ing ing e      ing ed     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'es:ed': 1, 'ed:es': 1, 'es:e': 1, 'ing:es': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:e': 1, 'e:es': 1, ':': 4}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+ed          er          ers         ing        
+ed  ed ed      ed er      ed ers     ed ing    
+er  er ed      er er      er ers     er ing    
+ers ers ed     ers er     ers ers    ers ing   
+ing ing ed     ing er     ing ers    ing ing   
+Information content in compressed form:  300
+Pair inventory {'ers:er': 1, 'ing:ed': 1, 'er:ed': 1, 'er:ers': 1, 'ed:er': 1, 'er:ing': 1, 'ers:ing': 1, 'ed:ing': 1, 'ing:ers': 1, 'ers:ed': 1, ':': 4, 'ing:er': 1, 'ed:ers': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               es                               ing                             
+e       <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                
+es      <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                
+Information content in compressed form:  88
+Pair inventory {'srs:': 2, 'r:': 2, 'srs:r': 1, ':srs': 2, ':': 6, ':r': 2, 'r:srs': 1}
+
+
+Total Score 9 e-ed-es-ing e-ed-ers-ing ['ing', 'ed', 'e', 'es'] ['ing', 'ed', 'e', 'ers']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          es          ing        
+e   e e        e ed       e es       e ing     
+ed  ed e       ed ed      ed es      ed ing    
+es  es e       es ed      es es      es ing    
+ing ing e      ing ed     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'es:ed': 1, 'ed:es': 1, 'es:e': 1, 'ing:es': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:e': 1, 'e:es': 1, ':': 4}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          ers         ing        
+e   e e        e ed       e ers      e ing     
+ed  ed e       ed ed      ed ers     ed ing    
+ers ers e      ers ed     ers ers    ers ing   
+ing ing e      ing ed     ing ers    ing ing   
+Information content in compressed form:  270
+Pair inventory {'e:ers': 1, 'ing:ed': 1, 'e:ing': 1, 'ers:e': 1, 'ers:ing': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'ing:ers': 1, 'ing:e': 1, 'ers:ed': 1, ':': 4, 'ed:ers': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               es                               ing                             
+e       <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                 <---- null ---->                
+es      <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  36
+Pair inventory {'srs:': 3, ':srs': 3, ':': 10}
+
+
+Total Score 7 e-ed-es-ing e-ed-es-ion ['ed', 'es', 'e', 'ing'] ['ed', 'es', 'e', 'ion']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          es          ing        
+e   e e        e ed       e es       e ing     
+ed  ed e       ed ed      ed es      ed ing    
+es  es e       es ed      es es      es ing    
+ing ing e      ing ed     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'es:ed': 1, 'ed:es': 1, 'es:e': 1, 'ing:es': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:e': 1, 'e:es': 1, ':': 4}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          es          ion        
+e   e e        e ed       e es       e ion     
+ed  ed e       ed ed      ed es      ed ion    
+es  es e       es ed      es es      es ion    
+ion ion e      ion ed     ion es     ion ion   
+Information content in compressed form:  240
+Pair inventory {'ion:ed': 1, 'ion:e': 1, 'es:ed': 1, 'ed:es': 1, 'es:e': 1, 'e:ion': 1, 'e:ed': 1, 'ed:e': 1, 'ion:es': 1, 'e:es': 1, 'es:ion': 1, ':': 4, 'ed:ion': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               es                               ing                             
+e       <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                 <---- null ---->                
+es      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing     <---- null ---->                
+Information content in compressed form:  46
+Pair inventory {':': 10, ':ngon': 3, 'ngon:': 3}
+
+
+Total Score 8 e-ed-es-ing ed-er-est-ing ['ing', 'ed', 'es', 'e'] ['ing', 'ed', 'est', 'er']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          es          ing        
+e   e e        e ed       e es       e ing     
+ed  ed e       ed ed      ed es      ed ing    
+es  es e       es ed      es es      es ing    
+ing ing e      ing ed     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'es:ed': 1, 'ed:es': 1, 'es:e': 1, 'ing:es': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:e': 1, 'e:es': 1, ':': 4}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+ed          er          est         ing        
+ed  ed ed      ed er      ed est     ed ing    
+er  er ed      er er      er est     er ing    
+est est ed     est er     est est    est ing   
+ing ing ed     ing er     ing est    ing ing   
+Information content in compressed form:  300
+Pair inventory {'er:ing': 1, 'est:ed': 1, 'er:ed': 1, 'ed:er': 1, 'ing:est': 1, 'ing:er': 1, 'est:ing': 1, 'ing:ed': 1, 'ed:ing': 1, 'er:est': 1, 'est:er': 1, ':': 4, 'ed:est': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               es                               ing                             
+e       <---- null ---->                
+ed      <---- null ---->                 <---- null ---->                
+es      <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                
+Information content in compressed form:  48
+Pair inventory {'t:r': 1, 't:': 2, 'r:': 2, 'r:t': 1, ':t': 2, ':': 6, ':r': 2}
+
+
+Total Score 6 e-ed-es-ing e-er-es-ing ['ing', 'es', 'e', 'ed'] ['ing', 'es', 'e', 'er']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          es          ing        
+e   e e        e ed       e es       e ing     
+ed  ed e       ed ed      ed es      ed ing    
+es  es e       es ed      es es      es ing    
+ing ing e      ing ed     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'es:ed': 1, 'ed:es': 1, 'es:e': 1, 'ing:es': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:e': 1, 'e:es': 1, ':': 4}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           er          es          ing        
+e   e e        e er       e es       e ing     
+er  er e       er er      er es      er ing    
+es  es e       es er      es es      es ing    
+ing ing e      ing er     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'er:e': 1, 'e:ing': 1, 'es:e': 1, 'ing:es': 1, 'er:ing': 1, 'ing:er': 1, 'er:es': 1, 'es:ing': 1, 'ing:e': 1, 'e:er': 1, 'e:es': 1, 'es:er': 1, ':': 4}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               es                               ing                             
+e       <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed      <---- null ---->                
+es      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  26
+Pair inventory {':': 10, 'dr:': 3, ':dr': 3}
+
+
+Total Score 6 e-ed-es-ing e-en-es-ing ['ing', 'es', 'e', 'ed'] ['ing', 'es', 'e', 'en']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           ed          es          ing        
+e   e e        e ed       e es       e ing     
+ed  ed e       ed ed      ed es      ed ing    
+es  es e       es ed      es es      es ing    
+ing ing e      ing ed     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'ing:ed': 1, 'e:ing': 1, 'es:ed': 1, 'ed:es': 1, 'es:e': 1, 'ing:es': 1, 'e:ed': 1, 'ed:e': 1, 'ed:ing': 1, 'es:ing': 1, 'ing:e': 1, 'e:es': 1, ':': 4}
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+e           en          es          ing        
+e   e e        e en       e es       e ing     
+en  en e       en en      en es      en ing    
+es  es e       es en      es es      es ing    
+ing ing e      ing en     ing es     ing ing   
+Information content in compressed form:  240
+Pair inventory {'e:en': 1, 'es:en': 1, 'e:ing': 1, 'en:e': 1, 'es:e': 1, 'ing:es': 1, 'ing:en': 1, 'es:ing': 1, 'ing:e': 1, 'e:es': 1, 'en:ing': 1, ':': 4, 'en:es': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 7 degree: 2
+
+e                                ed                               es                               ing                             
+e       <---- null ---->                 <---- null ---->                 <---- null ---->                
+ed      <---- null ---->                
+es      <---- null ---->                 <---- null ---->                 <---- null ---->                
+ing     <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  26
+Pair inventory {':dn': 3, ':': 10, 'dn:': 3}
+
+
+Total Score 6 ng-on-ons ng-on-onist ['on', 'ng', 'ons'] ['on', 'ng', 'onist']
+temp max length entries = 11 max length affixes: 3 degree: 1
+
+ng          on          ons        
+ng  ng ng      ng on      ng ons    
+on  on ng      on on      on ons    
+ons ons ng     ons on     ons ons   
+Information content in compressed form:  140
+Pair inventory {'ng:on': 1, 'on:ng': 1, 'ons:on': 1, 'ng:ons': 1, 'on:ons': 1, 'ons:ng': 1, ':': 3}
+temp max length entries = 15 max length affixes: 5 degree: 1
+
+ng              on              onist          
+ng    ng ng          ng on          ng onist      
+on    on ng          on on          on onist      
+onist onist ng       onist on       onist onist   
+Information content in compressed form:  180
+Pair inventory {'on:onist': 1, 'ng:on': 1, 'onist:ng': 1, 'on:ng': 1, 'onist:on': 1, 'ng:onist': 1, ':': 3}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 9 degree: 2
+
+ng                               on                               ons                             
+ng        <---- null ---->                 <---- null ---->                
+on        <---- null ---->                 <---- null ---->                
+ons       <---- null ---->                
+Information content in compressed form:  44
+Pair inventory {'sist:': 2, ':sist': 2, ':': 5}
+
+
+Total Score 7 NULL-d-r-rs-s NULL-d-r-r's-s ['s', 'r', 'd', 'rs', 'NULL'] ['s', 'r', 'd', "r's", 'NULL']
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          d             r             rs            s            
+NULL NULL NULL    NULL d       NULL r       NULL rs      NULL s      
+d    d NULL       d d          d r          d rs         d s         
+r    r NULL       r d          r r          r rs         r s         
+rs   rs NULL      rs d         rs r         rs rs        rs s        
+s    s NULL       s d          s r          s rs         s s         
+Information content in compressed form:  180
+Pair inventory {'s:': 1, 'r:d': 1, ':rs': 1, 'd:rs': 1, 'rs:d': 1, 'rs:r': 1, 's:d': 1, 'r:': 2, ':d': 1, 'd:s': 1, 'd:r': 1, 'd:': 1, 'r:rs': 1, 'rs:': 1, 's:r': 1, 'r:s': 1, ':': 5, ':r': 2, ':s': 1}
+temp max length entries = 13 max length affixes: 4 degree: 1
+
+NULL          d             r             r's           s            
+NULL NULL NULL    NULL d       NULL r       NULL r's     NULL s      
+d    d NULL       d d          d r          d r's        d s         
+r    r NULL       r d          r r          r r's        r s         
+r's  r's NULL     r's d        r's r        r's r's      r's s       
+s    s NULL       s d          s r          s r's        s s         
+Information content in compressed form:  230
+Pair inventory {'s:': 1, 'r:d': 1, 'r:': 1, ':d': 1, "r':": 1, 's:d': 1, ':r': 1, 'd:r': 1, 'r:s': 1, "r's:d": 1, ":r'": 1, 'd:s': 1, "d:r's": 1, 'd:': 1, ":r's": 1, "r:r's": 1, 's:r': 1, "r's:r": 1, ':': 5, "r's:": 1, ':s': 1}
+before degree: 1
+after degree: 2
+temp max length entries = 32 max length affixes: 9 degree: 2
+
+NULL                             d                                r                                rs                               s                               
+NULL      <---- null ---->                 <---- null ---->                 <---- null ---->                 <---- null ---->                
+d         <---- null ---->                 <---- null ---->                 <---- null ---->                 <---- null ---->                
+r         <---- null ---->                 <---- null ---->                 <---- null ---->                 <---- null ---->                
+rs        <---- null ---->                
+s         <---- null ---->                 <---- null ---->                 <---- null ---->                 <---- null ---->                
+Information content in compressed form:  48
+Pair inventory {":'": 1, ":s's": 3, ':': 17, "s's:": 3, "':": 1}

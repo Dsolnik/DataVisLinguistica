@@ -1,0 +1,4427 @@
+# english browncorpus 48829
+'s
+NULL
+abandon
+abilit
+abrupt
+absen
+absolute
+absorb
+absurd
+abundan
+accelerat
+accelerometer
+accept
+accident
+accompany
+accomplish
+accord
+according
+account
+accumulat
+accurate
+accus
+accuse
+achiev
+achieve
+achievement
+acknowledge
+acquir
+acquire
+action
+active
+activit
+actor
+addition
+addresse
+adequate
+adjust
+adjustment
+administrati
+admire
+admitt
+adolescen
+adult
+advance
+advantage
+adventure
+advertis
+affair
+afford
+africa
+afternoon
+afterward
+agenc
+agent
+aggressi
+agree
+agreement
+airplane
+al
+alarm
+allie
+allotment
+allow
+allowance
+alter
+alternative
+ambition
+american
+amount
+analytic
+analyz
+analyze
+anchor
+angle
+animal
+announce
+annual
+answer
+antibod
+anticipat
+anticipate
+anxious
+apartment
+apparent
+appeal
+appear
+appearance
+applicant
+application
+applie
+apply
+appreciat
+appreciate
+approache
+appropriate
+approve
+approximate
+architect
+argue
+argument
+arise
+arrang
+arrange
+arrangement
+arrest
+arrive
+arter
+article
+aspect
+assemble
+assert
+assign
+assignment
+assistan
+assistant
+associate
+association
+assum
+assume
+assumption
+assur
+assure
+athletic
+attach
+attack
+attain
+attempt
+attend
+attendan
+attitude
+attorney
+attraction
+attribute
+audience
+australia
+authentic
+authorit
+automobile
+averag
+average
+avoid
+award
+awful
+balance
+barbe
+barco
+barrel
+barrier
+bastard
+beard
+beautiful
+become
+begin
+beginning
+behave
+being
+belgian
+belief
+believ
+believe
+belong
+benefit
+beside
+bitter
+black
+blade
+blanket
+bless
+blind
+block
+blood
+bloom
+blunt
+board
+bomber
+border
+borrow
+bother
+bottle
+bottom
+bounc
+bounce
+boundar
+brain
+break
+breast
+breath
+brief
+brilliant
+bring
+broadcast
+broaden
+broke
+brood
+brother
+brown
+brush
+bubble
+builder
+building
+bullet
+burst
+button
+calculat
+calculation
+calendar
+camera
+campaign
+candidate
+capabilit
+captain
+capture
+cardinal
+career
+careful
+carrier
+carry
+casual
+categor
+cause
+cautious
+ce
+cease
+celebrat
+center
+centur
+ceremon
+certain
+chain
+challeng
+challenge
+chamber
+champion
+chang
+change
+channel
+chapter
+character
+characteristic
+charg
+charge
+charm
+check
+cheek
+chicago
+chicken
+chief
+child
+children
+choice
+choose
+chose
+christ
+cigarette
+circle
+circumstance
+citizen
+civilization
+claim
+classic
+cleane
+cleaner
+cleare
+clergy
+client
+climb
+clock
+cloud
+coating
+collaborat
+colleague
+collection
+college
+column
+combin
+combination
+combine
+comfort
+comfortabl
+commande
+commercial
+commissioner
+commitment
+committee
+common
+communication
+communist
+communit
+compan
+companion
+company
+compar
+comparative
+compare
+compell
+competen
+competiti
+complaint
+complex
+component
+compose
+composer
+composition
+compound
+compress
+comprise
+compulsi
+compute
+concede
+conceivabl
+conceive
+concentrat
+concentrate
+concentration
+conception
+concern
+concert
+conclud
+conclude
+conditione
+conference
+confiden
+confirm
+conflict
+conform
+confront
+confus
+congregation
+congress
+conjugate
+connect
+connection
+conscious
+consequence
+conservati
+consider
+considerabl
+consideration
+consist
+consistent
+constant
+constitute
+constitution
+constructi
+consult
+consume
+consumer
+contact
+containe
+contest
+continent
+continue
+continuous
+contrast
+contribute
+contribution
+control
+controlle
+convenien
+convention
+conversation
+convert
+convey
+convict
+conviction
+convinc
+coole
+cooperati
+cooperative
+coordinat
+coordinate
+corner
+corporation
+corresponden
+costume
+counsel
+counte
+counter
+counterpart
+countr
+country
+coupl
+couple
+course
+court
+cousin
+cover
+crack
+crash
+crawl
+create
+creature
+credit
+creep
+crime
+criticism
+cross
+crouch
+crowd
+crystal
+culture
+curious
+current
+curse
+curtain
+curve
+customer
+d
+dancer
+danger
+daughter
+dealer
+death
+decade
+decid
+decide
+decision
+declar
+declarati
+declare
+declin
+decline
+decoration
+decrease
+dedicat
+deduction
+defeat
+defend
+defense
+deficienc
+defin
+define
+definite
+degree
+delay
+delegate
+deliberate
+demand
+demonstrat
+demonstrate
+denomination
+depart
+department
+depend
+dependen
+deposit
+depress
+depth
+deput
+derive
+descend
+describ
+describe
+description
+desert
+deserve
+designe
+designer
+desire
+desperate
+destroy
+destructi
+detail
+detecti
+detective
+determin
+determine
+develop
+development
+device
+devise
+devote
+diagram
+differ
+difference
+different
+dimension
+diminish
+dinner
+direction
+director
+disappear
+discharge
+discipline
+disclose
+discourage
+discussion
+disease
+dislike
+display
+dispute
+distan
+distance
+distinction
+distinguish
+distribut
+distribution
+district
+disturb
+divide
+division
+divorce
+doctor
+document
+dollar
+dominan
+dominat
+dominate
+double
+douglas
+dozen
+dragg
+drawing
+dream
+dresse
+drift
+drill
+drink
+driver
+dropp
+dwell
+e
+eager
+earnest
+earning
+earthquake
+easter
+economic
+economical
+ed
+edition
+editor
+editorial
+education
+effective
+efficient
+effort
+eight
+eisenhower
+elder
+election
+electronic
+elegan
+eliminate
+embarrass
+emerge
+emotion
+emotional
+emphasize
+employee
+employer
+enabl
+enable
+encounter
+encourag
+encourage
+endur
+endure
+enemy
+energ
+enforce
+engag
+engage
+engagement
+engineer
+english
+enjoy
+enormous
+enter
+enterprise
+entertain
+entire
+entit
+equation
+equivalent
+erect
+error
+es
+escape
+essay
+essential
+establish
+establishment
+estimate
+evaluat
+evaluate
+evening
+event
+eventual
+evidence
+evident
+exact
+exaggerate
+examination
+example
+exceed
+excellen
+exception
+exceptional
+excit
+exclud
+exclusive
+executi
+executive
+exercise
+exert
+exist
+expand
+expect
+expectation
+expenditure
+expense
+experience
+experiment
+experimental
+expert
+explain
+explanation
+exploit
+explore
+explosi
+export
+expose
+expresse
+expression
+extend
+extension
+extensive
+extreme
+fabric
+facilit
+famil
+familiar
+farmer
+father
+faulkner
+fault
+favor
+favorabl
+favorite
+feature
+feeling
+fellow
+female
+fence
+fiber
+fiction
+field
+fighter
+figure
+final
+financ
+finance
+financial
+finding
+finger
+finish
+flame
+flashe
+flight
+flood
+floor
+flower
+fluid
+focus
+forecast
+forest
+formal
+forme
+former
+formulat
+formulate
+formulation
+fortunate
+foundation
+founde
+fraction
+frame
+frank
+french
+frequenc
+frequent
+fresh
+friend
+frighten
+fromm
+frown
+fruit
+frustrat
+fulfill
+fundamental
+furious
+furnish
+garden
+garibaldi
+gather
+gavin
+general
+generation
+generator
+generous
+gentl
+gentle
+genuine
+georgia
+giant
+glanc
+glance
+governor
+graceful
+grade
+gradual
+graduate
+grain
+grant
+grasp
+grave
+greas
+ground
+group
+guarantee
+guard
+guerrilla
+guess
+guest
+guide
+guilt
+habit
+handl
+happen
+hardy
+haunt
+hazard
+health
+hearing
+heart
+heate
+heaven
+height
+helva
+hesitate
+hetman
+highway
+histor
+historian
+historic
+historical
+holiday
+honor
+hopeful
+horse
+hospital
+hotel
+house
+hudson
+hundred
+husband
+ideal
+identit
+ies
+ignoran
+ignore
+illuminat
+illustrat
+illustrate
+illustration
+image
+imaginati
+imagine
+immediate
+immense
+impatient
+implication
+implie
+import
+important
+impose
+impression
+improv
+improve
+improvement
+impulse
+incident
+includ
+include
+increas
+increase
+increasing
+independent
+india
+indian
+indicate
+indication
+indicator
+indifferen
+indirect
+induce
+industr
+industry
+inevitabl
+influence
+ing
+initial
+innocen
+inquire
+insect
+insert
+insight
+insist
+insisten
+inspir
+install
+installation
+instance
+instant
+institut
+institute
+institution
+instruction
+instrument
+integrat
+intellectual
+intelligen
+intend
+intense
+intention
+interest
+interpretation
+interprete
+interrupt
+intersection
+interval
+interview
+introduc
+introduce
+invasion
+invent
+inventor
+investigate
+investigation
+invit
+invitation
+invite
+involv
+involve
+ion
+island
+isolat
+isolate
+issue
+ity
+johnson
+joint
+judge
+judgment
+julia
+junior
+kennedy
+khrushchev
+kille
+knight
+knock
+korea
+label
+laborator
+language
+latter
+laugh
+launch
+lawyer
+layer
+leader
+league
+learn
+leave
+lecture
+legend
+legislati
+lesson
+letter
+level
+libert
+librar
+lighte
+limit
+limitation
+listene
+listener
+literal
+local
+locate
+location
+locke
+logic
+logical
+loose
+lover
+lower
+ly
+lyric
+machine
+magazine
+magic
+maintain
+major
+maker
+malraux
+man
+manager
+manne
+manner
+manufacturer
+marche
+margin
+marine
+market
+marriage
+matche
+material
+matter
+mayor
+measur
+measure
+measurement
+mechanism
+meeting
+melod
+member
+memor
+mental
+mention
+mercer
+merchant
+merit
+message
+method
+mexican
+might
+million
+mineral
+minister
+minor
+minute
+miracle
+missile
+missionar
+model
+moment
+month
+monument
+morning
+mortal
+mother
+motion
+motivat
+motive
+motor
+mount
+mountain
+mouth
+movement
+movie
+multipl
+multiply
+murdere
+muscle
+museum
+music
+musician
+mutter
+mutual
+n
+narrow
+native
+natural
+necessit
+neglect
+neighbor
+neighborhood
+nerve
+network
+newspaper
+night
+nominat
+normal
+notabl
+notice
+notion
+novel
+number
+o'*banion
+objection
+objective
+obligation
+observation
+observer
+obtain
+obvious
+occasion
+occasional
+occupation
+occur
+occurr
+occurrence
+offer
+officer
+official
+on
+operate
+operation
+operator
+opinion
+opponent
+opportunit
+oppos
+oppose
+orbit
+organiz
+organization
+organize
+origin
+original
+other
+outcome
+owner
+painful
+painte
+painter
+painting
+palfrey
+panel
+paper
+paragraph
+parent
+parke
+partial
+participate
+particle
+particular
+partner
+party
+passage
+passe
+passenger
+passion
+patent
+patrol
+pattern
+pause
+payment
+peculiar
+people
+perceive
+perception
+performance
+permanent
+permit
+permitt
+persian
+persisten
+person
+personalit
+persuade
+peter
+phase
+philosopher
+philosophic
+phrase
+physical
+picture
+piece
+pilot
+pitche
+pitcher
+place
+plain
+plant
+plastic
+plate
+plato
+playe
+player
+pleas
+pleasant
+please
+pocket
+poetic
+point
+police
+polish
+political
+politician
+polynomial
+popular
+populat
+population
+position
+positive
+possesse
+possession
+possibilit
+possibl
+pound
+practical
+practice
+praise
+praye
+prayer
+preache
+preced
+precise
+prepar
+preparation
+prepare
+preserv
+preserve
+president
+presse
+pressure
+pretend
+previous
+price
+priest
+principal
+principle
+print
+prior
+private
+privilege
+probabilit
+probabl
+problem
+procedure
+proceed
+proceeding
+processe
+proclaim
+producer
+producti
+profession
+professional
+professor
+profit
+profound
+program
+prohibit
+projection
+prominent
+promis
+promise
+promote
+prompt
+proper
+propert
+proportion
+proportionate
+proposal
+propose
+protecti
+protein
+protest
+proud
+provid
+provide
+province
+provision
+psychologist
+publication
+publishe
+publisher
+purchas
+purchase
+purpose
+pursu
+pursue
+puzzl
+puzzle
+quack
+qualification
+qualit
+quantit
+quarter
+queen
+question
+quick
+quiet
+quote
+r
+radical
+railroad
+raise
+range
+rapid
+rating
+ration
+rayburn
+reader
+reading
+realit
+realiz
+realize
+reason
+reasonabl
+rebel
+recall
+recent
+recogniz
+recognize
+recommend
+recommendation
+record
+recording
+recreation
+recruit
+reduc
+reduce
+refer
+reference
+referr
+reform
+refuse
+regard
+region
+register
+regular
+regulation
+relate
+relation
+relationship
+relative
+relax
+release
+relevan
+relieve
+religion
+remain
+remark
+remarkabl
+remember
+reminde
+remove
+render
+repair
+repeated
+replac
+replace
+replie
+reporte
+reported
+reporter
+represent
+representation
+representative
+republican
+request
+requir
+require
+requirement
+resemble
+resent
+reservation
+reserve
+residen
+resident
+resist
+resolve
+resource
+respective
+respond
+respondent
+response
+restaurant
+restorati
+restore
+restriction
+result
+resume
+retain
+retir
+retire
+retreat
+return
+reveal
+revenue
+reverse
+review
+revis
+revision
+rhode
+richard
+rider
+rifle
+right
+rigid
+river
+robert
+roger
+roman
+rough
+round
+rs
+rubbe
+russian
+s
+salar
+sales
+saloon
+sample
+sanction
+satisfy
+saving
+scene
+schedule
+scholar
+scholarship
+school
+science
+scientist
+score
+scott
+scotty
+scrap
+scratch
+scream
+screen
+screw
+search
+season
+secant
+secretar
+secretary
+section
+sector
+secure
+securit
+seeming
+segment
+segregat
+selection
+senator
+sensation
+sense
+sentence
+sentiment
+separat
+serious
+servant
+serve
+service
+session
+setting
+severe
+shade
+shadow
+shake
+shakespeare
+shape
+share
+sharp
+sheet
+shell
+shelter
+shift
+shock
+shoot
+shore
+shoulder
+shout
+showe
+sight
+signal
+significant
+silent
+simpl
+simultaneous
+singer
+single
+sister
+situat
+situation
+slave
+sleep
+sleeve
+slight
+slowe
+slump
+smell
+smile
+smoke
+smooth
+snake
+snapp
+societ
+soldier
+solemn
+solid
+solution
+solve
+sometime
+sophisticat
+sound
+source
+southerner
+soviet
+space
+spare
+speaker
+special
+specialist
+specific
+specimen
+spectator
+speed
+spend
+spirit
+spoke
+sponsor
+spontaneous
+sport
+spray
+spread
+spring
+square
+squeeze
+stack
+staff
+stage
+stand
+standard
+stare
+start
+startl
+statement
+states
+station
+statue
+steele
+steer
+stepp
+stiff
+stirr
+stock
+stole
+stone
+stopp
+store
+storm
+strain
+stranger
+stream
+street
+strengthen
+stresse
+stretche
+strict
+strike
+striking
+string
+strip
+stroke
+structure
+struggl
+struggle
+student
+studie
+study
+stumbl
+stupid
+style
+submarine
+subsequent
+substance
+substantial
+substitute
+suburb
+succeed
+successful
+successi
+sudden
+suffer
+sufficient
+suggestion
+suite
+summer
+sunday
+superb
+superior
+supplie
+supply
+suppose
+supposed
+surface
+surge
+surpris
+surprise
+surprising
+surround
+surrounding
+survey
+survive
+suspect
+sustain
+swallow
+sweep
+swift
+swing
+switche
+symbolize
+sympath
+system
+t
+table
+talent
+tappet
+target
+taste
+taxpayer
+teacher
+technical
+technique
+telephone
+temperature
+tende
+tension
+terribl
+territor
+textile
+thank
+theater
+their
+theme
+there
+thing
+think
+thorough
+thoughtful
+thousand
+threat
+threaten
+thrust
+ticket
+tight
+tissue
+title
+today
+toleran
+topic
+total
+touche
+tourist
+toward
+tower
+trace
+track
+trader
+tradition
+traditional
+traile
+trailer
+train
+transfer
+translat
+translate
+travele
+traveler
+treatment
+tremendous
+trend
+trevelyan
+trial
+trick
+troop
+trouble
+truck
+trust
+tumor
+turnpike
+twent
+twist
+typical
+ultimate
+unconscious
+undergo
+undergraduate
+understand
+undertake
+unexpected
+unfortunate
+union
+unique
+unite
+universit
+university
+unlike
+unusual
+usual
+utiliz
+utilize
+utopia
+utter
+vacation
+vague
+valid
+value
+variable
+varie
+variet
+ve
+vegetable
+vehicle
+verse
+version
+vessel
+veteran
+victim
+victor
+victoria
+vigorous
+village
+violent
+virtue
+visitor
+vivid
+voice
+volume
+volunteer
+wagon
+waite
+walke
+wander
+warning
+waste
+watch
+water
+wealth
+weapon
+weigh
+weight
+welcome
+wheel
+whisper
+white
+william
+willing
+window
+wishe
+witnesse
+woman
+women
+wonderful
+worke
+worker
+worrie
+worth
+wound
+wright
+writer
+writing
+y
+yankee
+yield
+youngster
+
+
+State number:  0
+
+	Edge number 0 To state: 3 Stem
+           guerrilla               camera               suburb           electronic                topic               fabric
+            athletic               poetic              plastic       characteristic             railroad               exceed
+             hundred                fluid                field             thousand               legend                trend
+              ground               method         neighborhood             standard              richard                board
+              toward            afterward               hazard                cloud              surface                piece
+               voice                price               device              service          performance           appearance
+            distance         circumstance             instance            allowance                fence              science
+           reference           difference           conference           occurrence          consequence             province
+            resource               decade                shade                blade                grade               beside
+            attitude               yankee               degree            committee             employee             marriage
+               image              passage              message            advantage             language              college
+               snake           earthquake             turnpike               strike               stroke               female
+               table            vegetable               bubble              miracle              vehicle              article
+              muscle                rifle                angle           automobile              missile              textile
+              sample              example               bottle                style                flame                theme
+            sometime               become              outcome               volume              costume             airplane
+             machine               marine            submarine             magazine                stone                shore
+            pressure             creature          temperature              lecture              picture          expenditure
+           adventure              disease                phase               phrase                arise           enterprise
+             defense              expense             response               choose              purpose                verse
+              course            candidate             delegate            conjugate                plate        undergraduate
+            favorite            cigarette               minute              dispute               league            colleague
+           technique               tissue               statue               virtue                leave                slave
+              sleeve               native          alternative          cooperative       representative            objective
+              motive            executive                nerve                curve               belief                staff
+          proceeding             building              finding          surrounding            recording                being
+             feeling              willing              evening            beginning              earning              warning
+             hearing               spring               string              coating               rating              meeting
+            painting              setting               saving              drawing            paragraph                death
+               mouth                track                quack                trick                clock                stock
+               cheek                thank              network           polynomial             material            editorial
+              animal               signal             cardinal         professional              mineral             proposal
+             crystal         intellectual             interval                rebel                model                panel
+              barrel               vessel                hotel                novel                shell               school
+              stream              william              diagram              problem               system               victim
+              reform            criticism            mechanism               museum           republican             american
+            musician           politician               indian              belgian            historian              persian
+               roman              veteran               garden               screen                queen              chicken
+             citizen                dozen             campaign                chain                brain                grain
+             curtain              protein                begin               cousin               column                wagon
+             million            companion              opinion                union             champion             invasion
+            revision             division            provision              tension            extension              version
+          impression           expression              session           possession           discussion             vacation
+       qualification          publication          implication          application        communication             location
+          obligation        investigation          association             relation         installation          calculation
+         formulation           population          explanation          combination          examination          preparation
+          generation           decoration          corporation        concentration         illustration            sensation
+         expectation       interpretation           limitation           invitation       representation              station
+           situation          observation          reservation         organization               action             fraction
+           objection           projection             election            selection           collection           connection
+        intersection          restriction           conviction             sanction          distinction            deduction
+            ambition              edition             position          composition            intention               motion
+          conception           perception          description           assumption           suggestion         contribution
+            solution               saloon            afternoon               weapon               lesson               button
+        relationship          scholarship                strip                troop                group             calendar
+               fiber              chamber               member               bomber               dancer             producer
+              reader               trader                rider              builder             shoulder               border
+           volunteer                refer             transfer              manager               danger             stranger
+              finger               singer                roger              teacher              pitcher          philosopher
+             soldier              barrier              carrier              speaker                maker               worker
+            traveler              trailer               summer             customer               farmer             consumer
+            listener             designer               manner               dinner         commissioner           southerner
+             partner                owner                paper            newspaper         manufacturer             composer
+               water            character        accelerometer              fighter             daughter               writer
+             painter              counter              chapter              quarter             reporter            youngster
+              sister               matter               letter                river               driver                lover
+              flower                layer               player             taxpayer               prayer             employer
+              affair                their               junior                tumor                floor                error
+           indicator              senator            generator             operator            spectator                actor
+              sector               editor              visitor                motor                occur              douglas
+             contact               aspect               insect            architect             district                sheet
+              target               soviet               ticket               pocket              blanket               bullet
+              height               weight               flight               knight                right                sight
+               habit                orbit              benefit               profit               permit                merit
+               fruit                adult               secant            applicant             merchant                giant
+           assistant              servant             incident             resident           respondent              student
+              client               talent           equivalent            agreement           engagement          arrangement
+         measurement            statement          achievement             movement          improvement             judgment
+       establishment           assignment               moment            treatment           commitment            allotment
+          adjustment             document             argument             monument              payment            component
+              parent               patent                event            complaint                joint               amount
+               heart          counterpart               robert              concert               expert               effort
+              breast               priest               forest              contest                guest         psychologist
+           communist              tourist            scientist               shadow               window               fellow
+              sunday                essay              highway             attorney
+
+	Edge number 2 To state: 5 Stem
+              superb             supposed             repeated           unexpected             reported                rigid
+               vivid                blind             profound                proud               unlike              genuine
+              entire              precise              immense              intense                loose            immediate
+         approximate        proportionate            fortunate          unfortunate           deliberate            desperate
+            adequate              private             definite             absolute                vague               unique
+           exclusive          comparative            effective           respective             positive                chief
+               stiff            according             striking              seeming           increasing           surprising
+            thorough               smooth                quick              radical              logical           economical
+             typical           historical             physical            practical            political                local
+           financial              initial          substantial            essential              partial               formal
+            original           occasional          traditional            emotional          exceptional            principal
+             natural               mental          fundamental         experimental                total              gradual
+              casual                usual              unusual             eventual               mutual             graceful
+             careful            beautiful              painful            wonderful           successful           thoughtful
+              sudden              certain               solemn               common                sharp             peculiar
+             regular                eager               former               proper               bitter                utter
+        simultaneous          spontaneous            conscious          unconscious              serious              curious
+            cautious              obvious             previous              anxious             enormous             generous
+          continuous                exact             indirect               strict                quiet                swift
+               tight          significant            brilliant             pleasant            important              instant
+             evident          independent            efficient           sufficient            impatient               silent
+           permanent            prominent             apparent            different           consistent             frequent
+               blunt               prompt               abrupt              earnest
+
+	Edge number 4 To state: 7 Stem
+             replace              balance               glance              finance             evidence               bounce
+             enforce              divorce               reduce               induce            introduce             persuade
+              divide             conclude               engage            encourage           discourage          acknowledge
+           challenge                surge              dislike                smoke             assemble               double
+              single               puzzle              welcome               resume              combine               define
+             decline           discipline            telephone               escape              prepare              compare
+               stare               admire               retire              acquire              explore               ignore
+              secure               endure               assure              capture                cease               please
+            comprise             surprise               devise             disclose               impose              propose
+             suppose               expose              reverse                curse                pause               accuse
+              locate          investigate           appreciate          appropriate              isolate            translate
+          coordinate            eliminate             dominate           anticipate          participate           exaggerate
+         demonstrate           illustrate             hesitate             evaluate                unite                suite
+             promote                quote               devote                waste           substitute            institute
+              behave              achieve              relieve             conceive             perceive               arrive
+               solve              resolve               remove              approve              reserve              squeeze
+             utilize            symbolize             organize            emphasize              analyze
+
+	Edge number 6 To state: 9 Stem
+            describe                place                space                trace             practice               notice
+          experience             sentence            influence               decide                guide              provide
+               agree            guarantee              average                stage                judge            privilege
+               range               charge            discharge               emerge               enable             resemble
+              circle                smile               couple                title             schedule                frame
+           determine                shape                share              declare               desire              require
+               store               figure              measure              feature            structure              release
+            increase             purchase                raise             exercise              promise                sense
+               house             indicate               create            associate             estimate              operate
+               taste           contribute           constitute                argue                value             continue
+             believe               derive              involve              improve                serve              deserve
+           recognize
+
+	Edge number 8 To state: 11 Stem
+              absorb               intend              respond                flood                beard               afford
+              launch               crouch                crash               polish           accomplish              furnish
+               brush                stack                shock                knock                label              install
+            proclaim                alarm              confirm              sustain               attain              abandon
+               slump                grasp            disappear               wander               bother              whisper
+            register                lower               anchor                focus               defeat              retreat
+             suspect                erect               credit              exploit              deposit               resent
+              insert               assert              convert                exert               arrest               resist
+             swallow               narrow                relax                delay               convey
+
+	Edge number 10 To state: 13 Stem
+               agenc            deficienc             frequenc              antibod                melod                energ
+               famil               compan              ceremon              boundar                salar            missionar
+            secretar                arter              categor                memor            laborator             territor
+              histor               countr              industr               centur               societ               variet
+          personalit               qualit               abilit           probabilit            capabilit           possibilit
+            communit           opportunit             authorit              securit            universit             necessit
+               entit              identit              activit                twent               libert              propert
+
+
+	Edge number 12 To state: 15 Stem
+             proceed               demand               depend               extend               record               belong
+              appeal               reveal                level                dream                claim               happen
+              remain                train             maintain             question                learn              concern
+             develop               appear             remember             consider                offer                enter
+              answer                honor               expect                shift                limit               result
+           represent                point                print                mount              attempt                start
+             request              consist                exist               review                allow               survey
+
+
+	Edge number 14 To state: 17 Stem
+             georgia                helva                child               steele          shakespeare                there
+               fromm                woman               hetman            trevelyan                women             children
+               gavin            o'*banion               hudson              johnson              rayburn                brown
+             chicago                plato               mercer             faulkner                peter               latter
+               mayor               wright               christ           khrushchev              malraux                today
+               hardy              palfrey                enemy              company            secretary              country
+          university                party               scotty
+
+	Edge number 16 To state: 19 Stem
+               climb              disturb                avoid                yield               expand               defend
+              attend               regard               search                watch                laugh            establish
+              breath                crack                crawl               scream             threaten             frighten
+              obtain            entertain              mention               render               suffer               gather
+               guess                cross                drift              consult             confront               accept
+              adjust                shout               borrow              destroy
+
+	Edge number 18 To state: 21 Stem
+          understand              pretend                brood               accord                swing              scratch
+               dwell                drill                bloom                charm              broaden           strengthen
+               sleep                creep                sweep                steer                tower                shoot
+           broadcast             forecast                burst               thrust                spray                study
+            multiply                apply               supply            accompany                carry
+
+	Edge number 20 To state: 23 Stem
+              replac                glanc               financ                bounc                reduc             introduc
+               engag             encourag               arrang             challeng              struggl                puzzl
+               defin               declin               prepar               compar                retir               acquir
+               assur                pleas              surpris                oppos                accus                invit
+              achiev               realiz               utiliz              organiz               analyz
+
+	Edge number 22 To state: 25 Stem
+             succeed             compound                round                sound                wound                award
+               check                block               remark                wheel               detail               recall
+              strain               retain               number               differ               center            encounter
+             sponsor                favor               spirit                plant               import              protest
+           interview                screw              display
+
+	Edge number 24 To state: 27 Stem
+             convinc               preced              descend             surround               exclud                dragg
+            diminish               stumbl              compell               startl                frown                snapp
+               dropp                stopp               mutter               inspir               referr                stirr
+            advertis            embarrass                excit                haunt               depart               admitt
+
+
+	Edge number 26 To state: 29 Stem
+           approache               marche               matche             stretche              switche               touche
+               wishe               studie                allie               replie               implie               applie
+               varie               worrie                passe             processe             witnesse               dresse
+              presse             expresse              stresse             possesse               relate            attribute
+
+	Edge number 28 To state: 31 Stem
+               rubbe                barbe             commande                tende              reminde               founde
+               locke                walke                parke                kille            controlle                coole
+            containe           conditione               cleare              murdere              inquire                heate
+              lighte                waite              compute                showe                slowe
+
+	Edge number 30 To state: 33 Stem
+               revis              depress             compress               confus              dedicat          sophisticat
+            calculat            accumulat              populat              nominat            illuminat             celebrat
+            integrat           collaborat             frustrat               situat              motivat              connect
+            prohibit               invent            interrupt            distribut
+
+	Edge number 32 To state: 35 Stem
+            attendan              abundan               elegan              dominan              toleran              ignoran
+            assistan              relevan              innocen            adolescen             confiden              residen
+        corresponden           intelligen            convenien             excellen           indifferen                absen
+            insisten            persisten
+
+	Edge number 34 To state: 37 Stem
+            economic              classic               region             occasion            dimension         congregation
+           operation            direction            tradition             addition           convention              emotion
+          proportion          institution               season               person             accident           experiment
+         development           instrument
+
+	Edge number 36 To state: 39 Stem
+             describ                decid               provid               includ               averag                chang
+               enabl                handl                coupl                assum             determin               declar
+              measur              increas              purchas               promis               believ               involv
+             preserv             recogniz
+
+	Edge number 38 To state: 41 Stem
+               solid               friend              extreme               square             relative               active
+               frank                ideal             official           commercial                final              general
+               plain              scholar                elder             constant              current
+
+	Edge number 40 To state: 43 Stem
+            compulsi              explosi             successi             aggressi            legislati            imaginati
+           cooperati            restorati         administrati           conservati              detecti             protecti
+           destructi           constructi            competiti              executi
+
+	Edge number 42 To state: 45 Stem
+              spread                stand                spend                guard                bring                break
+               drink              program               reason             engineer             neighbor             conflict
+             account                sport             contrast
+
+	Edge number 44 To state: 47 Stem
+               magic                logic          philosophic             historic                music             analytic
+              margin           profession            education           recreation           occupation               ration
+             fiction         constitution            continent
+
+	Edge number 46 To state: 49 Stem
+              pitche             publishe                worke              travele               traile              consume
+             listene              designe                manne              compose               painte               counte
+               playe                praye
+
+	Edge number 48 To state: 51 Stem
+             probabl            remarkabl            reasonabl          considerabl             favorabl            inevitabl
+          comfortabl           conceivabl              terribl              possibl              multipl                simpl
+               greas
+
+	Edge number 50 To state: 53 Stem
+             husband               island               people           foundation              officer               father
+              mother              brother             governor               doctor                night            president
+               court
+
+	Edge number 52 To state: 55 Stem
+              africa                korea                india            australia                julia               utopia
+               shake            undertake                spoke                broke                stole                chose
+
+
+	Edge number 54 To state: 57 Stem
+            specific            authentic                valid               stupid               absurd               mortal
+            familiar              popular             superior                prior                major                minor
+
+
+	Edge number 56 To state: 59 Stem
+           appreciat               isolat             translat             formulat            coordinat              dominat
+             separat           concentrat           demonstrat            illustrat              evaluat             institut
+
+	Edge number 58 To state: 61 Stem
+              police               gentle               french                fresh              english                black
+               sales               states             congress               clergy
+
+	Edge number 60 To state: 63 Stem
+               blood               health               wealth                worth                storm               victor
+               might                guilt                fault                scott
+
+
+State number:  1
+
+
+State number:  2
+
+
+State number:  3
+
+	Edge number 1 To state: 2 Affix
+                NULL                    s
+
+
+State number:  4
+
+
+State number:  5
+
+	Edge number 3 To state: 4 Affix
+                NULL                   ly
+
+
+State number:  6
+
+
+State number:  7
+
+	Edge number 5 To state: 6 Affix
+                NULL                    d
+
+
+State number:  8
+
+
+State number:  9
+
+	Edge number 7 To state: 8 Affix
+                NULL                    d                    s
+
+
+State number:  10
+
+
+State number:  11
+
+	Edge number 9 To state: 10 Affix
+                NULL                   ed
+
+
+State number:  12
+
+
+State number:  13
+
+	Edge number 11 To state: 12 Affix
+                 ies                    y
+
+
+State number:  14
+
+
+State number:  15
+
+	Edge number 13 To state: 14 Affix
+                NULL                   ed                  ing                    s
+
+
+State number:  16
+
+
+State number:  17
+
+	Edge number 15 To state: 16 Affix
+                NULL                   's
+
+
+State number:  18
+
+
+State number:  19
+
+	Edge number 17 To state: 18 Affix
+                NULL                   ed                  ing
+
+
+State number:  20
+
+
+State number:  21
+
+	Edge number 19 To state: 20 Affix
+                NULL                  ing
+
+
+State number:  22
+
+
+State number:  23
+
+	Edge number 21 To state: 22 Affix
+                  ed                    e                  ing
+
+
+State number:  24
+
+
+State number:  25
+
+	Edge number 23 To state: 24 Affix
+                NULL                   ed                    s
+
+
+State number:  26
+
+
+State number:  27
+
+	Edge number 25 To state: 26 Affix
+                  ed                  ing
+
+
+State number:  28
+
+
+State number:  29
+
+	Edge number 27 To state: 28 Affix
+                   d                    s
+
+
+State number:  30
+
+
+State number:  31
+
+	Edge number 29 To state: 30 Affix
+                   d                    r
+
+
+State number:  32
+
+
+State number:  33
+
+	Edge number 31 To state: 32 Affix
+                  ed                  ion
+
+
+State number:  34
+
+
+State number:  35
+
+	Edge number 33 To state: 34 Affix
+                  ce                    t
+
+
+State number:  36
+
+
+State number:  37
+
+	Edge number 35 To state: 36 Affix
+                NULL                   al                    s
+
+
+State number:  38
+
+
+State number:  39
+
+	Edge number 37 To state: 38 Affix
+                  ed                    e                  ing                   es
+
+
+State number:  40
+
+
+State number:  41
+
+	Edge number 39 To state: 40 Affix
+                NULL                    s                   ly
+
+
+State number:  42
+
+
+State number:  43
+
+	Edge number 41 To state: 42 Affix
+                  ve                   on
+
+
+State number:  44
+
+
+State number:  45
+
+	Edge number 43 To state: 44 Affix
+                NULL                  ing                    s
+
+
+State number:  46
+
+
+State number:  47
+
+	Edge number 45 To state: 46 Affix
+                NULL                   al
+
+
+State number:  48
+
+
+State number:  49
+
+	Edge number 47 To state: 48 Affix
+                   d                    r                   rs
+
+
+State number:  50
+
+
+State number:  51
+
+	Edge number 49 To state: 50 Affix
+                   e                    y
+
+
+State number:  52
+
+
+State number:  53
+
+	Edge number 51 To state: 52 Affix
+                NULL                    s                   's
+
+
+State number:  54
+
+
+State number:  55
+
+	Edge number 53 To state: 54 Affix
+                NULL                    n
+
+
+State number:  56
+
+
+State number:  57
+
+	Edge number 55 To state: 56 Affix
+                NULL                  ity
+
+
+State number:  58
+
+
+State number:  59
+
+	Edge number 57 To state: 58 Affix
+                  ed                    e                  ion
+
+
+State number:  60
+
+
+State number:  61
+
+	Edge number 59 To state: 60 Affix
+                NULL                  man
+
+
+State number:  62
+
+
+State number:  63
+
+	Edge number 61 To state: 62 Affix
+                NULL                    y
+'s
+NULL
+abandon
+abilit
+abrupt
+absen
+absolute
+absorb
+absurd
+abundan
+ac
+accelerat
+acceleromet
+accept
+accident
+accompany
+accomplish
+accord
+according
+account
+accumulat
+accurate
+accus
+achiev
+achievem
+acknowledg
+acquir
+active
+activit
+actor
+addi
+addresse
+adequate
+adjust
+adjustm
+administrati
+admir
+admitt
+adolescen
+adult
+advanc
+advantage
+adventure
+advertis
+affair
+afford
+africa
+afternoon
+afterward
+ag
+agenc
+aggressi
+agre
+agreem
+airplane
+al
+alarm
+allie
+allotm
+allow
+allowan
+alter
+alternative
+ambi
+american
+amount
+analytic
+analyz
+anchor
+ang
+animal
+announc
+annu
+answer
+antibod
+anticip
+anticipat
+anxi
+apartm
+appar
+appeal
+appear
+appearan
+applica
+applicant
+applie
+apply
+appreci
+appreciat
+approache
+appropri
+approv
+approximate
+architect
+argu
+argum
+arise
+arrang
+arrangem
+arrest
+arriv
+arter
+artic
+aspect
+assembl
+assert
+assign
+assignm
+assistan
+assistant
+associa
+associat
+assum
+assump
+assur
+at
+athletic
+attach
+attack
+attain
+attempt
+attend
+attendan
+attitude
+attorney
+attrac
+attribute
+audien
+australia
+authentic
+authorit
+automobi
+averag
+avoid
+award
+awful
+balanc
+barbe
+barco
+barrel
+barri
+bastard
+be
+beard
+beautiful
+become
+begin
+beginn
+behav
+belgian
+belief
+believ
+belong
+benefit
+beside
+bitter
+black
+blade
+blanket
+bless
+blind
+block
+blood
+bloom
+blunt
+board
+bomb
+bord
+borrow
+bother
+bott
+bottom
+bounc
+boundar
+brain
+break
+breast
+breath
+brief
+brilliant
+bring
+broadcast
+broaden
+broke
+brood
+brother
+brown
+brush
+bubb
+build
+bullet
+burst
+button
+calcula
+calculat
+calendar
+camera
+campaign
+candidate
+capabilit
+captain
+captur
+cardinal
+care
+careful
+carri
+carry
+casu
+categor
+caus
+cauti
+ce
+ceas
+celebrat
+center
+centur
+ceremon
+certain
+chain
+challeng
+chamb
+champ
+chang
+channel
+chapt
+charact
+characteristic
+charg
+charm
+check
+cheek
+chicago
+chicken
+chief
+child
+children
+choi
+choose
+chose
+christ
+cigarette
+circl
+circumstan
+citizen
+civilization
+claim
+classic
+clean
+cleane
+cleare
+clergy
+cli
+climb
+clock
+cloud
+coat
+collaborat
+colleague
+collec
+college
+column
+combin
+combina
+comfort
+comfortabl
+commande
+commercial
+commission
+commitm
+committee
+common
+communica
+communist
+communit
+compan
+company
+compar
+comparative
+compell
+competen
+competiti
+complaint
+complex
+compon
+compos
+compose
+composi
+compound
+compress
+compris
+compulsi
+compute
+conced
+conceiv
+conceivabl
+concentr
+concentra
+concentrat
+concep
+concern
+concert
+conclud
+conditione
+conferen
+confiden
+confirm
+conflict
+conform
+confront
+confus
+congrega
+congress
+conjugate
+connec
+connect
+consci
+consequen
+conservati
+consider
+considera
+considerabl
+consist
+constant
+constitut
+constitution
+constructi
+consult
+consum
+consume
+contact
+containe
+contest
+continent
+continu
+contrast
+contribu
+contribut
+control
+controlle
+conven
+convenien
+conversa
+convert
+convey
+convic
+convict
+convinc
+coole
+cooperati
+cooperative
+coordin
+coordinat
+corn
+corpora
+corresponden
+costume
+counsel
+count
+counte
+counterpart
+countr
+country
+coupl
+course
+court
+cousin
+cover
+crack
+crash
+crawl
+creat
+creature
+credit
+creep
+crime
+criticism
+cross
+crouch
+crowd
+crystal
+culture
+curi
+current
+curs
+curtain
+curve
+custom
+d
+danc
+dang
+daught
+deal
+death
+decade
+decid
+decis
+declar
+declarati
+declin
+decora
+decreas
+dedicat
+deduc
+defeat
+defend
+defense
+deficienc
+defin
+definite
+degree
+delay
+delegate
+deliberate
+demand
+demonstr
+demonstrat
+denomina
+depart
+department
+depend
+dependen
+deposit
+depress
+depth
+deput
+deriv
+descend
+describ
+descrip
+desert
+deserv
+design
+designe
+desir
+desperate
+destroy
+destructi
+detail
+detecti
+detective
+determin
+develop
+development
+devi
+devis
+devot
+diagram
+differ
+differen
+dimension
+diminish
+dinn
+direc
+director
+disappear
+discharg
+disciplin
+disclos
+discourag
+discuss
+disease
+dislik
+display
+dispute
+distan
+distinc
+distinguish
+distribu
+distribut
+district
+disturb
+divid
+divis
+divorc
+doctor
+docum
+dollar
+domin
+dominan
+dominat
+doubl
+douglas
+dozen
+dragg
+draw
+dream
+dresse
+drift
+drill
+drink
+driv
+dropp
+dwell
+e
+eager
+earn
+earnest
+earthquake
+easter
+economic
+ed
+edi
+editor
+editorial
+education
+effective
+effici
+effort
+eight
+eisenhower
+elder
+elec
+electronic
+elegan
+elimin
+embarrass
+emerg
+emo
+emotion
+emphasiz
+employ
+employee
+enabl
+encounter
+encourag
+endur
+enemy
+energ
+enforc
+engag
+engagem
+engineer
+english
+enjoy
+enorm
+ent
+enter
+enterprise
+entertain
+entire
+entit
+equa
+equival
+er
+erect
+error
+es
+escap
+essay
+essenti
+establish
+establishm
+estimat
+ev
+evalu
+evaluat
+even
+eventu
+evid
+evidenc
+exact
+exagger
+examina
+examp
+exceed
+excellen
+excep
+exception
+excit
+exclud
+exclusive
+executi
+executive
+exercis
+exert
+exist
+expand
+expect
+expecta
+expenditure
+expense
+experienc
+experiment
+expert
+explain
+explana
+exploit
+explor
+explosi
+export
+expos
+express
+expresse
+extend
+extens
+extensive
+extreme
+fabric
+facilit
+famil
+familiar
+farm
+father
+faulkner
+fault
+favor
+favorabl
+favorite
+featur
+feel
+fellow
+fema
+fen
+fib
+fiction
+field
+fight
+figur
+final
+financ
+financi
+find
+fing
+finish
+flame
+flashe
+flight
+flood
+floor
+flow
+fluid
+focus
+forecast
+forest
+form
+forme
+former
+formul
+formula
+formulat
+fortunate
+foundation
+founde
+frac
+fram
+frank
+french
+frequ
+frequenc
+fresh
+friend
+frighten
+fromm
+frown
+fruit
+frustrat
+fulfill
+fundament
+furi
+furnish
+garden
+garibaldi
+gather
+gavin
+gener
+genera
+general
+generator
+gentl
+gentle
+genuine
+georgia
+giant
+glanc
+governor
+graceful
+grade
+gradu
+graduat
+grain
+grant
+grasp
+grave
+greas
+ground
+group
+guarante
+guard
+guerrilla
+guess
+guest
+guid
+guilt
+habit
+handl
+happen
+hardy
+haunt
+hazard
+health
+hear
+heart
+heate
+heaven
+height
+helva
+hesit
+hetman
+highway
+histor
+historian
+historic
+holiday
+honor
+hopeful
+horse
+hospital
+hotel
+hous
+hudson
+hundred
+husband
+ideal
+identit
+ies
+ignor
+ignoran
+illuminat
+illustr
+illustra
+illustrat
+image
+imagin
+imaginati
+immediate
+immense
+impati
+implica
+implie
+import
+important
+impos
+impress
+improv
+improvem
+impulse
+incid
+includ
+increas
+increasing
+independ
+india
+indian
+indica
+indicat
+indicator
+indifferen
+indirect
+induc
+industr
+industry
+inevitabl
+influenc
+ing
+initi
+innocen
+inquire
+insect
+insert
+insight
+insist
+insisten
+inspir
+install
+installa
+instan
+instant
+institu
+institut
+instruc
+instrument
+integrat
+intellectual
+intelligen
+inten
+intend
+intense
+interest
+interpreta
+interprete
+interrupt
+intersec
+interval
+interview
+introduc
+invas
+invent
+inventor
+investig
+investiga
+invit
+invita
+involv
+ion
+island
+isol
+isolat
+issu
+ity
+johnson
+joint
+judg
+judgm
+julia
+junior
+kennedy
+khrushchev
+kille
+knight
+knock
+korea
+label
+laborator
+language
+latter
+laugh
+launch
+lawy
+lay
+le
+lead
+league
+learn
+leave
+lecture
+legend
+legislati
+lesson
+lett
+level
+libert
+librar
+lighte
+limit
+limita
+listen
+listene
+liter
+loc
+loca
+locke
+logic
+loose
+lov
+lower
+ly
+lyric
+machine
+magazine
+magic
+maintain
+major
+mak
+malraux
+man
+manag
+mann
+manne
+manufactur
+marche
+margin
+marine
+market
+marriage
+matche
+material
+matt
+mayor
+measur
+measurem
+mechanism
+meet
+melod
+memb
+memor
+ment
+mention
+mercer
+merchant
+merit
+message
+method
+mexican
+might
+mill
+mineral
+minist
+minor
+minute
+mirac
+missi
+missionar
+mo
+model
+mom
+month
+monum
+morn
+mortal
+mother
+motivat
+motive
+motor
+mount
+mountain
+mouth
+movem
+movie
+multipl
+multiply
+murdere
+musc
+museum
+music
+musician
+mutter
+mutu
+n
+narrow
+native
+natur
+necessit
+neglect
+neighbor
+neighborhood
+nerve
+network
+newspap
+night
+no
+nominat
+norm
+notabl
+notic
+novel
+number
+o'*banion
+objec
+objective
+obliga
+observ
+observa
+obtain
+obvi
+occasion
+occupation
+occur
+occurr
+occurren
+offer
+officer
+official
+on
+opera
+operat
+operator
+opin
+oppon
+opportunit
+oppos
+orbit
+organiz
+organiza
+origin
+other
+ous
+outcome
+own
+painful
+paint
+painte
+palfrey
+panel
+pap
+par
+paragraph
+parke
+parti
+partic
+particip
+particular
+partn
+party
+pass
+passage
+passe
+passeng
+pat
+patrol
+pattern
+paus
+paym
+peculiar
+people
+perceiv
+percep
+performan
+perman
+permit
+permitt
+persian
+persisten
+person
+personalit
+persuad
+peter
+phase
+philosoph
+philosophic
+phrase
+physic
+picture
+pie
+pilot
+pitch
+pitche
+plac
+plain
+plant
+plastic
+plate
+plato
+play
+playe
+pleas
+pleasant
+pocket
+poetic
+point
+police
+polish
+politic
+politician
+polynomial
+popula
+popular
+populat
+posi
+positive
+possess
+possesse
+possibilit
+possibl
+pound
+practic
+prais
+pray
+praye
+preache
+preced
+precise
+prepar
+prepara
+preserv
+president
+presse
+pressure
+pretend
+previ
+pri
+priest
+princip
+print
+prior
+private
+privileg
+probabilit
+probabl
+problem
+procedure
+proceed
+processe
+proclaim
+produc
+producti
+profession
+professional
+professor
+profit
+profound
+program
+prohibit
+projec
+promin
+promis
+promot
+prompt
+proper
+propert
+propor
+proportionate
+propos
+proposal
+protecti
+protein
+protest
+proud
+provid
+provin
+provis
+psychologist
+publica
+publish
+publishe
+purchas
+purpose
+pursu
+puzzl
+quack
+qualifica
+qualit
+quantit
+quart
+queen
+question
+quick
+quiet
+quot
+r
+radic
+railroad
+rais
+rang
+rapid
+rat
+ration
+rayburn
+read
+realit
+realiz
+reason
+reasonabl
+rebel
+rec
+recall
+recogniz
+recommend
+recommenda
+record
+recreation
+recruit
+reduc
+ref
+referen
+referr
+reform
+refus
+regard
+region
+register
+regula
+regular
+rela
+relate
+relationship
+relative
+relax
+releas
+relevan
+reliev
+relig
+remain
+remark
+remarkabl
+remember
+reminde
+remov
+render
+repair
+repeated
+replac
+replie
+report
+reporte
+reported
+represent
+representa
+representative
+republican
+request
+requir
+requirem
+resembl
+resent
+reserv
+reserva
+resid
+residen
+resist
+resolv
+resour
+respective
+respond
+response
+restaurant
+restor
+restorati
+restric
+result
+resum
+retain
+retir
+retreat
+return
+reveal
+revenue
+revers
+review
+revis
+rhode
+richard
+rid
+rif
+right
+rigid
+riv
+robert
+rog
+roman
+rough
+round
+rs
+rubbe
+russian
+s
+salar
+sales
+saloon
+samp
+sanc
+satisfy
+sav
+scene
+schedul
+scholar
+scholarship
+school
+scien
+scientist
+scor
+scott
+scotty
+scrap
+scratch
+scream
+screen
+screw
+search
+season
+sec
+secant
+secretar
+secretary
+sector
+secur
+securit
+seeming
+segm
+segregat
+selec
+senator
+sens
+sensa
+sentenc
+sentiment
+separat
+seri
+serv
+servant
+servi
+sess
+sett
+severe
+shade
+shadow
+shake
+shakespeare
+shap
+shar
+sharp
+sheet
+shell
+shelt
+shift
+shock
+shoot
+shore
+should
+shout
+showe
+sight
+signal
+significant
+sil
+simpl
+simultane
+sing
+singl
+sist
+situa
+situat
+slave
+sleep
+sleeve
+slight
+slowe
+slump
+smell
+smil
+smok
+smooth
+snake
+snapp
+societ
+soldi
+solemn
+solid
+solu
+solv
+sometime
+sophisticat
+sound
+sour
+southern
+soviet
+spac
+spar
+speak
+speci
+specialist
+specific
+specimen
+spectator
+speed
+spend
+spirit
+spoke
+sponsor
+spontane
+sport
+spr
+spray
+spread
+square
+squeez
+sta
+stack
+staff
+stag
+stand
+standard
+star
+start
+startl
+statem
+states
+statue
+steele
+steer
+stepp
+stiff
+stirr
+stock
+stole
+stone
+stopp
+stor
+storm
+str
+strain
+strang
+stream
+street
+strengthen
+stresse
+stretche
+strict
+strike
+striking
+strip
+stroke
+structur
+struggl
+stud
+studie
+study
+stumbl
+stupid
+sty
+submarine
+subsequ
+substan
+substanti
+substitut
+suburb
+succeed
+successful
+successi
+sudden
+suffer
+suffici
+sugges
+suit
+summ
+sunday
+superb
+superior
+supplie
+supply
+suppos
+supposed
+surfa
+surg
+surpris
+surprising
+surround
+survey
+surviv
+suspect
+sustain
+swallow
+sweep
+swift
+swing
+switche
+symboliz
+sympath
+system
+t
+tab
+tal
+tappet
+target
+tast
+taxpay
+teach
+technic
+technique
+telephon
+temperature
+tende
+tens
+terribl
+territor
+texti
+th
+thank
+theat
+their
+theme
+there
+think
+thorough
+thoughtful
+thousand
+threat
+threaten
+thrust
+ticket
+tight
+tion
+tissue
+titl
+today
+toleran
+topic
+tot
+touche
+tourist
+toward
+tower
+trac
+track
+trad
+tradi
+tradition
+trail
+traile
+train
+transf
+transl
+translat
+travel
+travele
+treatm
+tremend
+trend
+trevelyan
+trial
+trick
+troop
+troubl
+truck
+trust
+tumor
+turnpike
+twent
+twist
+typic
+ultimate
+un
+unconsci
+undergo
+undergraduate
+understand
+undertake
+unexpected
+unfortunate
+unique
+unit
+universit
+university
+unlike
+unusu
+usu
+utiliz
+utopia
+utter
+vaca
+vague
+valid
+valu
+variab
+varie
+variet
+ve
+vegetab
+vehic
+vers
+verse
+vessel
+veteran
+victim
+victor
+victoria
+vigor
+village
+viol
+virtue
+visitor
+vivid
+voi
+volume
+volunte
+wagon
+waite
+walke
+wander
+warn
+wast
+wat
+watch
+wealth
+weapon
+weigh
+weight
+welcom
+wheel
+whisper
+white
+will
+william
+window
+wishe
+witnesse
+woman
+women
+wonderful
+work
+worke
+worrie
+worth
+wound
+wright
+writ
+y
+yankee
+yield
+youngst
+
+
+State number:  0
+
+	Edge number 0 To state: 3 Stem
+           guerrilla               camera               suburb           electronic                topic               fabric
+            athletic               poetic              plastic       characteristic             railroad               exceed
+             hundred                fluid                field             thousand               legend                trend
+              ground               method         neighborhood             standard              richard                board
+              toward            afterward               hazard                cloud               decade                shade
+               grade               beside                rhode             attitude               yankee               degree
+            employee             marriage              village                image              passage              message
+            language              college                movie                snake           earthquake             turnpike
+              stroke                flame                theme                crime             sometime               become
+              volume              costume             airplane                scene              machine               marine
+            magazine                stone                shore            procedure             pressure             creature
+             lecture              picture          expenditure              culture            adventure              disease
+              phrase                arise           enterprise              impulse              defense              expense
+              choose              purpose                verse                horse               course            candidate
+           conjugate                plate        undergraduate                white             favorite            cigarette
+             dispute               league            colleague              revenue            technique               tissue
+              virtue                leave                slave                grave               sleeve               native
+         cooperative       representative            objective            detective               motive            executive
+               curve               belief                staff            paragraph                death                depth
+               track                quack                trick                clock                stock                truck
+               thank              network           polynomial             material            editorial                trial
+              signal             cardinal         professional              mineral             proposal             hospital
+        intellectual             interval                rebel                model                panel              channel
+              vessel                hotel                novel                shell               school              control
+             william              diagram              problem               system               victim               bottom
+           criticism            mechanism               museum           republican             american              mexican
+          politician               indian              belgian            historian              persian              russian
+             veteran               garden               screen                queen              chicken             specimen
+               dozen             campaign                chain                brain                grain             mountain
+             protein                begin               cousin               column                wagon               saloon
+              weapon               lesson               button              pattern         relationship          scholarship
+               troop                group             calendar               dollar               affair                their
+               tumor                floor                error            professor            indicator              senator
+            operator            spectator                actor             director               sector               editor
+               motor                occur              douglas               threat              contact               aspect
+           architect             district                sheet               street               target               soviet
+              pocket              blanket               bullet               tappet               height               weight
+              knight                right                sight              insight                habit                orbit
+              profit               permit                merit              recruit                fruit                adult
+           applicant             merchant                giant           restaurant            assistant              servant
+               joint               amount                pilot                heart          counterpart               robert
+              expert               effort               export               breast               priest               forest
+               guest         psychologist           specialist            communist              tourist            scientist
+              window               fellow              holiday               sunday                essay              highway
+
+
+	Edge number 86 To state: 76 Stem
+                fema               variab                  tab              vegetab                 bubb                mirac
+               artic               partic                 musc                  rif                  ang             automobi
+               texti              princip                 samp                examp                 bott                  sty
+
+	Edge number 78 To state: 72 Stem
+               surfa                  pie                 choi                  voi                  pri                 devi
+           performan             appearan              substan               distan           circumstan               instan
+                 fen                scien               audien              referen             differen             conferen
+           consequen               provin                 sour               resour
+
+	Edge number 76 To state: 71 Stem
+               relig                 mill               compan                 opin                   un                champ
+               decis                revis                divis               provis                 tens               extens
+                pass              impress              express                 sess              possess              discuss
+
+	Edge number 70 To state: 68 Stem
+                read              proceed                build                 find             surround               record
+                  th                 feel                 will                 even               beginn                 earn
+                morn                 hear                  spr                  str                 coat                  rat
+                writ                paint                 sett                  sav                 draw
+
+	Edge number 68 To state: 67 Stem
+               incid                resid              respond                 stud                   ag                  cli
+             equival               agreem              engagem             arrangem             requirem             measurem
+            achievem                movem             improvem                judgm                 segm           establishm
+                 mom               treatm              commitm               allotm               apartm              adjustm
+               argum                monum                 paym               compon                oppon                  par
+                  ev
+
+	Edge number 64 To state: 65 Stem
+                 fib                chamb                 memb                 bomb                 danc               produc
+                read                 trad                  rid                build               should                 bord
+             volunte                  ref               transf                manag                 dang               strang
+                fing                 sing                  rog                teach                pitch            philosoph
+               soldi                barri                carri                speak                  mak                 work
+              travel                trail                 summ               custom                 farm               consum
+              listen               design                 mann                 dinn           commission             southern
+               partn                  own                  pap              newspap           manufactur               compos
+                 wat              charact          acceleromet                fight               daught                 writ
+               paint                count                chapt                quart               report              youngst
+                sist                 matt                 lett                  riv                 driv                  lov
+                flow                  lay                 play               taxpay                 pray               employ
+
+
+	Edge number 62 To state: 64 Stem
+                vaca               indica            qualifica              publica              implica              applica
+                loca           recommenda               obliga            investiga              associa                 rela
+             calcula               regula              formula               popula              explana              combina
+             prepara            considera               genera               decora              corpora            concentra
+               sensa             conversa              expecta           interpreta               limita               invita
+                 sta                 equa                situa              observa              reserva             organiza
+                frac               attrac                objec               projec                 elec                selec
+              connec                  sec             intersec              restric               convic                 sanc
+               deduc              instruc                 ambi                  edi                 posi              composi
+                  mo                   no               concep               percep              descrip               assump
+            contribu             distribu                 solu
+
+	Edge number 2 To state: 5 Stem
+              superb             supposed             repeated           unexpected             reported                rigid
+               vivid                blind             profound                proud               unlike              genuine
+              entire              precise              immense              intense                loose            immediate
+         approximate        proportionate            fortunate          unfortunate           deliberate            desperate
+            adequate              private             definite             absolute                vague               unique
+           exclusive          comparative            effective           respective             positive                chief
+               stiff            according             striking              seeming           increasing           surprising
+            thorough               smooth                quick             graceful              hopeful              careful
+             painful            wonderful           successful           thoughtful                awful               sudden
+              solemn               common                sharp             peculiar           particular              regular
+              former               proper               bitter                utter                exact             indirect
+               quiet                swift               slight                tight          significant            brilliant
+           important              instant                blunt               prompt               abrupt              earnest
+
+	Edge number 82 To state: 74 Stem
+                 rec                 evid             independ               effici              suffici               impati
+                viol               perman               promin                appar               differ              consist
+             subsequ
+
+	Edge number 80 To state: 73 Stem
+             tremend            simultane             spontane               consci             unconsci                 seri
+                furi                cauti                 obvi                previ                 anxi                enorm
+               vigor              continu
+
+	Edge number 74 To state: 70 Stem
+               radic                logic             economic              technic                typic             historic
+             practic              politic                  loc                speci              financi                initi
+             essenti                parti                 form                 norm               origin             occasion
+             emotion            exception              princip                liter                natur                 ment
+          experiment                  tot                gradu                 annu                 casu                  usu
+              eventu                 mutu
+
+	Edge number 4 To state: 7 Stem
+
+
+	Edge number 66 To state: 66 Stem
+              replac               balanc                glanc               financ              evidenc                bounc
+              enforc               divorc                reduc                induc             introduc              persuad
+               divid              conclud                engag             encourag            discourag           acknowledg
+            challeng                 surg               dislik                 smok              assembl                doubl
+               singl                puzzl               welcom                resum               combin                defin
+              declin            disciplin             telephon                escap               prepar               compar
+                star                admir                retir               acquir               explor                ignor
+               secur                endur                assur               captur                 ceas                pleas
+             compris              surpris                devis              disclos                impos               propos
+              suppos                expos               revers                 curs                 paus                accus
+                unit                 suit                invit               promot                 quot                devot
+           substitut             institut                pursu                behav               achiev               reliev
+             perceiv                arriv               surviv                 solv               resolv                remov
+              reserv               squeez               realiz               utiliz             symboliz              organiz
+              analyz
+
+	Edge number 88 To state: 77 Stem
+                 loc             investig              appreci             appropri                 isol               transl
+             coordin               elimin                domin              anticip             particip              exagger
+            demonstr              illustr                hesit                evalu
+
+	Edge number 6 To state: 9 Stem
+
+
+	Edge number 72 To state: 69 Stem
+             describ                 plac                 spac                 trac              practic                notic
+           experienc              sentenc             influenc                decid                 guid               provid
+                agre             guarante               averag                 stag                 judg             privileg
+                rang                charg             discharg                emerg                enabl              resembl
+               circl                 smil                coupl                 titl              schedul                 fram
+            determin                 shap                 shar               declar                desir               requir
+                stor                figur               measur               featur             structur               releas
+             increas              purchas                 rais              exercis               promis                 sens
+                hous              indicat                creat             associat              estimat               operat
+                tast            contribut            constitut                 argu                 valu              continu
+              believ                deriv               involv               improv                 serv               deserv
+            recogniz
+
+	Edge number 8 To state: 11 Stem
+              absorb               intend              respond                flood                beard               afford
+              launch               crouch                crash               polish           accomplish              furnish
+               brush                stack                shock                knock                label              install
+            proclaim                alarm              confirm              sustain               attain              abandon
+               slump                grasp            disappear               wander               bother              whisper
+            register                lower               anchor                focus               defeat              retreat
+             suspect                erect               credit              exploit              deposit               resent
+              insert               assert              convert                exert               arrest               resist
+             swallow               narrow                relax                delay               convey
+
+	Edge number 10 To state: 13 Stem
+               agenc            deficienc             frequenc              antibod                melod                energ
+               famil               compan              ceremon              boundar                salar            missionar
+            secretar                arter              categor                memor            laborator             territor
+              histor               countr              industr               centur               societ               variet
+          personalit               qualit               abilit           probabilit            capabilit           possibilit
+            communit           opportunit             authorit              securit            universit             necessit
+               entit              identit              activit                twent               libert              propert
+
+
+	Edge number 12 To state: 15 Stem
+             proceed               demand               depend               extend               record               belong
+              appeal               reveal                level                dream                claim               happen
+              remain                train             maintain             question                learn              concern
+             develop               appear             remember             consider                offer                enter
+              answer                honor               expect                shift                limit               result
+           represent                point                print                mount              attempt                start
+             request              consist                exist               review                allow               survey
+
+
+	Edge number 14 To state: 17 Stem
+             georgia                helva                child               steele          shakespeare                there
+               fromm                woman               hetman            trevelyan                women             children
+               gavin            o'*banion               hudson              johnson              rayburn                brown
+             chicago                plato               mercer             faulkner                peter               latter
+               mayor               wright               christ           khrushchev              malraux                today
+               hardy              palfrey                enemy              company            secretary              country
+          university                party               scotty
+
+	Edge number 16 To state: 19 Stem
+               climb              disturb                avoid                yield               expand               defend
+              attend               regard               search                watch                laugh            establish
+              breath                crack                crawl               scream             threaten             frighten
+              obtain            entertain              mention               render               suffer               gather
+               guess                cross                drift              consult             confront               accept
+              adjust                shout               borrow              destroy
+
+	Edge number 18 To state: 21 Stem
+          understand              pretend                brood               accord                swing              scratch
+               dwell                drill                bloom                charm              broaden           strengthen
+               sleep                creep                sweep                steer                tower                shoot
+           broadcast             forecast                burst               thrust                spray                study
+            multiply                apply               supply            accompany                carry
+
+	Edge number 20 To state: 23 Stem
+              replac                glanc               financ                bounc                reduc             introduc
+               engag             encourag               arrang             challeng              struggl                puzzl
+               defin               declin               prepar               compar                retir               acquir
+               assur                pleas              surpris                oppos                accus                invit
+              achiev               realiz               utiliz              organiz               analyz
+
+	Edge number 22 To state: 25 Stem
+             succeed             compound                round                sound                wound                award
+               check                block               remark                wheel               detail               recall
+              strain               retain               number               differ               center            encounter
+             sponsor                favor               spirit                plant               import              protest
+           interview                screw              display
+
+	Edge number 24 To state: 27 Stem
+             convinc               preced              descend             surround               exclud                dragg
+            diminish               stumbl              compell               startl                frown                snapp
+               dropp                stopp               mutter               inspir               referr                stirr
+            advertis            embarrass                excit                haunt               depart               admitt
+
+
+	Edge number 26 To state: 29 Stem
+           approache               marche               matche             stretche              switche               touche
+               wishe               studie                allie               replie               implie               applie
+               varie               worrie                passe             processe             witnesse               dresse
+              presse             expresse              stresse             possesse               relate            attribute
+
+	Edge number 28 To state: 31 Stem
+               rubbe                barbe             commande                tende              reminde               founde
+               locke                walke                parke                kille            controlle                coole
+            containe           conditione               cleare              murdere              inquire                heate
+              lighte                waite              compute                showe                slowe
+
+	Edge number 30 To state: 33 Stem
+               revis              depress             compress               confus              dedicat          sophisticat
+            calculat            accumulat              populat              nominat            illuminat             celebrat
+            integrat           collaborat             frustrat               situat              motivat              connect
+            prohibit               invent            interrupt            distribut
+
+	Edge number 32 To state: 35 Stem
+            attendan              abundan               elegan              dominan              toleran              ignoran
+            assistan              relevan              innocen            adolescen             confiden              residen
+        corresponden           intelligen            convenien             excellen           indifferen                absen
+            insisten            persisten
+
+	Edge number 34 To state: 37 Stem
+            economic              classic               region             occasion            dimension               season
+            accident           experiment            sentiment          development           instrument
+
+	Edge number 84 To state: 75 Stem
+            congrega             denomina                opera                direc                tradi                 addi
+                 emo                excep               propor              institu
+
+	Edge number 36 To state: 39 Stem
+             describ                decid               provid               includ               averag                chang
+               enabl                handl                coupl                assum             determin               declar
+              measur              increas              purchas               promis               believ               involv
+             preserv             recogniz
+
+	Edge number 38 To state: 41 Stem
+               solid               friend              extreme               square             relative               active
+               frank                ideal             official           commercial                final              general
+               plain              scholar                elder             constant              current
+
+	Edge number 40 To state: 43 Stem
+            compulsi              explosi             successi             aggressi            legislati            imaginati
+           cooperati            restorati         administrati           conservati              detecti             protecti
+           destructi           constructi            competiti              executi
+
+	Edge number 42 To state: 45 Stem
+              spread                stand                spend                guard                bring                break
+               drink              program               reason             engineer             neighbor             conflict
+             account                sport             contrast
+
+	Edge number 44 To state: 47 Stem
+               magic                logic          philosophic             historic                music             analytic
+              margin           profession            education           recreation           occupation               ration
+             fiction         constitution            continent
+
+	Edge number 46 To state: 49 Stem
+              pitche             publishe                worke              travele               traile              consume
+             listene              designe                manne              compose               painte               counte
+               playe                praye
+
+	Edge number 48 To state: 51 Stem
+             probabl            remarkabl            reasonabl          considerabl             favorabl            inevitabl
+          comfortabl           conceivabl              terribl              possibl              multipl                simpl
+               greas
+
+	Edge number 50 To state: 53 Stem
+             husband               island               people           foundation              officer               father
+              mother              brother             governor               doctor                night            president
+               court
+
+	Edge number 52 To state: 55 Stem
+              africa                korea                india            australia                julia               utopia
+               shake            undertake                spoke                broke                stole                chose
+
+
+	Edge number 54 To state: 57 Stem
+            specific            authentic                valid               stupid               absurd               mortal
+            familiar              popular             superior                prior                major                minor
+
+
+	Edge number 56 To state: 59 Stem
+           appreciat               isolat             translat             formulat            coordinat              dominat
+             separat           concentrat           demonstrat            illustrat              evaluat             institut
+
+	Edge number 58 To state: 61 Stem
+              police               gentle               french                fresh              english                black
+               sales               states             congress               clergy
+
+	Edge number 60 To state: 63 Stem
+               blood               health               wealth                worth                storm               victor
+               might                guilt                fault                scott
+
+
+State number:  77
+
+	Edge number 89 To state: 66 Affix
+                  at
+
+
+State number:  76
+
+	Edge number 87 To state: 3 Affix
+                  le
+
+
+State number:  75
+
+	Edge number 85 To state: 37 Affix
+                tion
+
+
+State number:  74
+
+	Edge number 83 To state: 5 Affix
+                 ent
+
+
+State number:  73
+
+	Edge number 81 To state: 5 Affix
+                 ous
+
+
+State number:  72
+
+	Edge number 79 To state: 3 Affix
+                  ce
+
+
+State number:  71
+
+	Edge number 77 To state: 3 Affix
+                 ion
+
+
+State number:  70
+
+	Edge number 75 To state: 5 Affix
+                  al
+
+
+State number:  69
+
+	Edge number 73 To state: 9 Affix
+                   e
+
+
+State number:  68
+
+	Edge number 71 To state: 3 Affix
+                 ing
+
+
+State number:  67
+
+	Edge number 69 To state: 3 Affix
+                 ent
+
+
+State number:  66
+
+	Edge number 67 To state: 7 Affix
+                   e
+
+
+State number:  65
+
+	Edge number 65 To state: 3 Affix
+                  er
+
+
+State number:  64
+
+	Edge number 63 To state: 3 Affix
+                tion
+
+
+State number:  1
+
+
+State number:  2
+
+
+State number:  3
+
+	Edge number 1 To state: 2 Affix
+                NULL                    s
+
+
+State number:  4
+
+
+State number:  5
+
+	Edge number 3 To state: 4 Affix
+                NULL                   ly
+
+
+State number:  6
+
+
+State number:  7
+
+	Edge number 5 To state: 6 Affix
+                NULL                    d
+
+
+State number:  8
+
+
+State number:  9
+
+	Edge number 7 To state: 8 Affix
+                NULL                    d                    s
+
+
+State number:  10
+
+
+State number:  11
+
+	Edge number 9 To state: 10 Affix
+                NULL                   ed
+
+
+State number:  12
+
+
+State number:  13
+
+	Edge number 11 To state: 12 Affix
+                 ies                    y
+
+
+State number:  14
+
+
+State number:  15
+
+	Edge number 13 To state: 14 Affix
+                NULL                   ed                  ing                    s
+
+
+State number:  16
+
+
+State number:  17
+
+	Edge number 15 To state: 16 Affix
+                NULL                   's
+
+
+State number:  18
+
+
+State number:  19
+
+	Edge number 17 To state: 18 Affix
+                NULL                   ed                  ing
+
+
+State number:  20
+
+
+State number:  21
+
+	Edge number 19 To state: 20 Affix
+                NULL                  ing
+
+
+State number:  22
+
+
+State number:  23
+
+	Edge number 21 To state: 22 Affix
+                  ed                    e                  ing
+
+
+State number:  24
+
+
+State number:  25
+
+	Edge number 23 To state: 24 Affix
+                NULL                   ed                    s
+
+
+State number:  26
+
+
+State number:  27
+
+	Edge number 25 To state: 26 Affix
+                  ed                  ing
+
+
+State number:  28
+
+
+State number:  29
+
+	Edge number 27 To state: 28 Affix
+                   d                    s
+
+
+State number:  30
+
+
+State number:  31
+
+	Edge number 29 To state: 30 Affix
+                   d                    r

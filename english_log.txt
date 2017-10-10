@@ -1,0 +1,21 @@
+Finished redoing structure 
+ 
+Number of sigs:  3096
+Number of analyzed words                    17,971
+Number of unanalyzed words                  22,030
+Letters in stems                            79,022
+Letters in affixes                          24,768
+Total robustness in signatures             304,629
+Number of words:                                 40,001
+Total letter count in words                     312,909
+Number of signatures:                             3,096
+Number of singleton signatures:                   2,433
+Number of doubleton signatures:                     282
+Total number of letters in stems:                79,022
+Total number of affix letters:                   24,768
+Total letters in signatures:                    103,790
+Number of analyzed words                         17,971
+Total number of letters in analyzed words       194,021
+How many words have multiple analyses?
+   1    13,942
+   2     3,632

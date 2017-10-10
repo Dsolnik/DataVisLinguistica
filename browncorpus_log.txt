@@ -1,0 +1,28 @@
+Language:                                       english
+Total words:                                40,001
+Minimum Stem Length                              3
+Maximum Affix Length                             4
+Minimum Number of stems in signature:            2
+Total letter count in words:               312,909
+Average letters per word:                     7.82
+       iv.  Finished redoing structure
+                  
+Number of sigs:  1653
+Number of analyzed words                    16,759
+Number of unanalyzed words                  23,242
+Letters in stems                            59,938
+Letters in affixes                          29,051
+Total robustness in signatures             529,504
+Number of words:                                 40,001
+Total letter count in words                     312,909
+Number of signatures:                               786
+Number of singleton signatures:                       0
+Number of doubleton signatures:                     396
+Total number of letters in stems:                59,938
+Total number of affix letters:                   29,051
+Total letters in signatures:                     88,989
+Number of analyzed words                         16,759
+Total number of letters in analyzed words             0
+How many words have multiple analyses?
+   1    14,614
+   2     2,011

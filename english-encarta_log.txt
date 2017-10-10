@@ -1,0 +1,19 @@
+Finished redoing structure 
+ 
+Number of sigs:  0
+Number of analyzed words                         0
+Number of unanalyzed words                       0
+Letters in stems                                 0
+Letters in affixes                               0
+Total robustness in signatures                   0
+Number of words:                                      0
+Total letter count in words                           0
+Number of signatures:                                 0
+Number of singleton signatures:                       0
+Number of doubleton signatures:                       0
+Total number of letters in stems:                     0
+Total number of affix letters:                        0
+Total letters in signatures:                          0
+Number of analyzed words                              0
+Total number of letters in analyzed words             0
+How many words have multiple analyses?

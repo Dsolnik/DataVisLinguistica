@@ -1,0 +1,89 @@
+\documentclass[]{article}
+%\usepackage[left=1in,right=1in,bottom=1.5in]{geometry}
+\usepackage{mathpazo} %gives palatino fonts
+%\usepackage{bookman}
+%\usepackage[T1]{fontenc}
+%\usepackage{lmodern}
+%opening
+\usepackage{parskip}
+\usepackage{booktabs}
+\title{1000 distinct words: Brown Corpus}
+\author{}
+\date{}
+\newcommand{\Gl}{\sffamily } % Gloss font
+\newcommand{\Reg}{\rmfamily} % back to regular font
+
+\begin{document}
+ 
+\maketitle
+
+  
+
+
+%\input{1kdistinctwordsbrown_1_Mini1_Signatures.txt}
+
+
+  's.NULL   12   62 
+\hrule
+     
+  atlanta berry byrd caldwell court daniel department georgia governor mayor 
+  ordinary wife 
+
+  NULL.ed   9   34 
+\hrule 
+    
+  allow attend effect offer pass protect recommend term work 
+
+  NULL.ly   6   21 
+\hrule
+     
+  general like new order personal unanimous 
+
+  ed.ion   2   21 
+\hrule
+     
+  elect reject 
+
+  ion   2   9 
+\hrule
+     
+  administrat mill 
+
+  e.ed.ing   1   8 
+\hrule
+  Known  stems  to  suffixes 
+  vot 
+
+  NULL.ed.ing   1   5 
+\hrule
+  Known  stems  to  suffixes 
+  ask 
+
+  's.NULL.ly   1   5 
+\hrule
+  From  known  stem  and  suffix 
+  year 
+
+  ed.ing.ion   1   5 
+\hrule
+  From  known  stem  and  suffix 
+  operat 
+
+  e.ion   2   4 
+\hrule
+     
+  distribut investigat 
+
+  ing   1   1 
+\hrule
+     
+  consider 
+
+
+
+
+ 
+ 
+ 
+ 
+\end{document}
